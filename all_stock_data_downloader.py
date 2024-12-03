@@ -1,26 +1,23 @@
-
 import pandas as pd
 import pickle
-from pathos.multiprocessing import Pool
-from functools import partial
 from tqdm import tqdm
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import numpy as np
 import yfinance as yf
 
-# fetch_data 함수 정의
+# Define fetch_data function
 def fetch_data(ticker, start, end):
     try:
-        df = yf.download(ticker, start=start, end=end,progress=False)
+        df = yf.download(ticker, start=start, end=end, progress=False)
         df = df[["Open", "High", "Low", "Adj Close"]]
         df = df.rename(
-        columns={
-            "Adj Close": "close",
-            "Open": "open",
-            "High": "high",
-            "Low": "low"
-        })
+            columns={
+                "Adj Close": "close",
+                "Open": "open",
+                "High": "high",
+                "Low": "low"
+            })
         df["ticker"] = ticker
         return ticker, df
 
@@ -28,13 +25,12 @@ def fetch_data(ticker, start, end):
         print(f"Error processing {ticker}: {e}")
         return ticker, None  
 
-
 # target_DB : KRX_DB  SSE_DB  US_DB
 # Download DB file from my github repository (ticker DB folder)
 target_DB = "KRX_DB"
 
 if __name__ == "__main__":
-    # Existing pickle file path
+    # Path to the existing pickle file
     pickle_path = "./FINDB/" + target_DB + ".pkl"
 
     # Load existing data
@@ -46,13 +42,13 @@ if __name__ == "__main__":
         print("No existing data found. Creating a new database.")
         mdf = {}
 
-    # If no existing data, load tickers from CSV file
+    # If there is no existing data, load tickers from CSV
     if not mdf:
         file = pd.read_csv("./FINDB/" + target_DB + ".csv")
         tickers = np.unique(file["tickers"])  
-        print("Tickers loaded from CSV successfully!")
+        print("Tickers loaded from CSV!")
     else:
-        # If existing data is available, use mdf.keys()
+        # If existing data is found, use mdf.keys()
         tickers = list(mdf.keys())
 
     # Calculate the latest date
@@ -66,23 +62,18 @@ if __name__ == "__main__":
     if latest_dates:
         latest_start = max(latest_dates).strftime("%Y-%m-%d")  # Most recent date
     else:
-        latest_start = (datetime.now() - relativedelta(months=6)).strftime("%Y-%m-%d")  # Default 6 months ago
+        latest_start = (datetime.now() - relativedelta(months=6)).strftime("%Y-%m-%d")  # Default is 6 months ago
 
-    print(f"Latest data download period: {latest_start} ~ {latest_end}")
+    print(f"Date range for downloading latest data: {latest_start} ~ {latest_end}")
 
-    # Check if data is already up to date
+    # Check if the data is already up-to-date
     if latest_start == latest_end:
         print("All data is up-to-date. Skipping download.")
     else:
-        # Download latest data
-        with Pool(processes=4) as pool:
-            results = list(
-                tqdm(
-                    pool.imap(partial(fetch_data, start=latest_start, end=latest_end), tickers),
-                    total=len(tickers),
-                    desc="Downloading new data",
-                )
-            )
+        # Download the latest data
+        results = []
+        for ticker in tqdm(tickers, desc="Downloading new data"):
+            results.append(fetch_data(ticker, start=latest_start, end=latest_end))
 
         # Merge results
         for ticker, new_data in tqdm(results, desc="Merging data"):
@@ -91,10 +82,10 @@ if __name__ == "__main__":
                     # Merge with existing data
                     mdf[ticker] = pd.concat([mdf[ticker], new_data]).drop_duplicates().sort_index()
                 else:
-                    # Add new data if ticker doesn't exist
+                    # Add new data if ticker does not exist
                     mdf[ticker] = new_data
 
-    # Check the merged data
+    # Check the size of the merged data
     print(f"Total data size: {len(mdf)}")
 
     # Save the merged data
