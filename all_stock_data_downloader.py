@@ -45,7 +45,7 @@ if __name__ == "__main__":
     # If there is no existing data, load tickers from CSV
     if not mdf:
         file = pd.read_csv("./FINDB/" + target_DB + ".csv")
-        tickers = np.unique(file["tickers"])  
+        tickers = np.unique(file["tickers"].tolist())  
         print("Tickers loaded from CSV!")
     else:
         # If existing data is found, use mdf.keys()
