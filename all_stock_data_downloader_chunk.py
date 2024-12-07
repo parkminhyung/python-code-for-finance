@@ -27,14 +27,14 @@ for i in tqdm(range(0, len(tickers), chunk_size), desc="Downloading chunks"):
     chunk = tickers[i:i + chunk_size]
     print(f"Downloading chunk: {chunk}")
     try:
-        # 티커 청크 다운로드
+        # download data
         data = yf.download(chunk, period="6mo", group_by="ticker", progress=False)
         data_frames.append(data)
     except Exception as e:
         print(f"Error downloading {chunk}: {e}")
     
     if i == len(tickers):
-        print("다운로드 완료!")
+        print("download complete")
 
 # Integrate data frame 
 final_df = pd.concat(data_frames, axis=1)
