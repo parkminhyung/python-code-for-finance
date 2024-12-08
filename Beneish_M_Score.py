@@ -90,7 +90,7 @@ def Beneish_M_score(ticker):
 
 ## Example
 
-ticker = "NVDA"
+ticker = "TSLA"
 Beneish_M_score(ticker)
 
 ## result : 
