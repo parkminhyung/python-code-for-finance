@@ -1,7 +1,7 @@
 
 
 # Beneish M Score formula = −4.84 + 0.92×DSRI + 0.528×GMI + 0.404×AQI + 0.892×SGI + 0.115×DEPI − 0.172×SGAI + 4.679×TATA − 0.327×LVGI
-# Professor Messod Beneish developed the M-score. 
+# The M-score was developed by Professor Messod Beneish. 
 # Unlike the Altman Z-score, which assesses bankruptcy risk, or the Piotroski F-score, which evaluates business trends, the M-score is specifically designed to detect the risk of earnings manipulation. 
 # This information is based on the original research paper on the M-score.
 ## Beneish M-Score of equal or less than -1.78 suggests that the company is unlikely to be a manipulator. Score of greater than -1.78 signals that the company is likely to be a manipulator.
@@ -14,15 +14,22 @@ def Beneish_M_score(ticker):
     bs = underlying.balance_sheet
     fin = underlying.financials
     cf = underlying.cashflow
-
     
-
     ##DSRI = [Receivables(t)/Revenue(t)] / [Receivables(t-1) / Revenue(t-1)]  
 
-    RR_t = (bs.at["Receivables",bs.columns[0]]/fin.at["Total Revenue",fin.columns[0]])
-    RR_t_1 = (bs.at["Receivables",bs.columns[1]]/fin.at["Total Revenue",fin.columns[1]])
+    if "Receivables" in bs.index:
+        Total_RCV_t = bs.at["Receivables",bs.columns[0]]
+        Total_RCV_t_1 = bs.at["Receivables",bs.columns[1]]
+    else :
+        Total_RCV_t = bs.at["Accounts Receivable",bs.columns[0]] + bs.at["Other Receivables",bs.columns[0]] + bs.at["Gross Accounts Receivable",bs.columns[0]] - bs.at["Allowance For Doubtful Accounts Receivable",bs.columns[0]]
+        Total_RCV_t_1 = bs.at["Accounts Receivable",bs.columns[1]] + bs.at["Other Receivables",bs.columns[1]] + bs.at["Gross Accounts Receivable",bs.columns[1]] - bs.at["Allowance For Doubtful Accounts Receivable",bs.columns[1]]
+        
+
+    RR_t = (Total_RCV_t/fin.at["Total Revenue",fin.columns[0]])
+    RR_t_1 = (Total_RCV_t_1/fin.at["Total Revenue",fin.columns[1]])
     DSRI = RR_t/RR_t_1 
     DSRI
+
     ##GMI = Revenue ratio(t-1) / Revenue Ratio(t)
 
     GMI = (fin.at["Gross Profit",fin.columns[1]]/fin.at["Total Revenue",fin.columns[1]])/(fin.at["Gross Profit",fin.columns[0]]/fin.at["Total Revenue",fin.columns[0]])
@@ -54,7 +61,13 @@ def Beneish_M_score(ticker):
 
 
     ## TATA = Net Income - CFop / TA
-    TATA = (cf.at["Net Income From Continuing Operations",cf.columns[0]] - cf.at["Cash Flow From Continuing Operating Activities",cf.columns[0]])/bs.at["Total Assets",bs.columns[0]]
+
+    if "Operating Cash Flow" in cf.index:
+        OCF = cf.at["Operating Cash Flow",cf.columns[0]]
+    else :
+        OCF = cf.at["Cash Flow From Continuing Operating Activities",cf.columns[0]]
+
+    TATA = (cf.at["Net Income From Continuing Operations",cf.columns[0]] - OCF)/bs.at["Total Assets",bs.columns[0]]
     TATA
 
     ## LVGI (Long term debt + curretn lia / total asset)t / ...t-1
@@ -75,9 +88,10 @@ def Beneish_M_score(ticker):
     return BM_score, fisical_yr
 
 
-
 ## Example
-Beneish_M_score("TSLA")
+
+ticker = "NVDA"
+Beneish_M_score(ticker)
 
 ## result : 
 # TSLA: This company is likely to be a mainpulator 
