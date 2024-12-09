@@ -1,0 +1,3829 @@
+code,tickers,market,name,Industry
+9201,9201.T,JPX,Japan Airlines,Air Transportation
+9202,9202.T,JPX,ANA Holdings,Air Transportation
+9204,9204.T,JPX,Skymark Airlines,Air Transportation
+9206,9206.T,JPX,Star Flyer,Air Transportation
+9232,9232.T,JPX,Pasco,Air Transportation
+9233,9233.T,JPX,Asia Air Survey,Air Transportation
+5830,5830.T,JPX,Iyogin Holdings,Banks
+5831,5831.T,JPX,Shizuoka Financial Group,Banks
+5832,5832.T,JPX,Chugin Financial Group,Banks
+5838,5838.T,JPX,Rakuten Bank,Banks
+5844,5844.T,JPX,Kyoto Financial Group,Banks
+7150,7150.T,JPX,The Shimane Bank,Banks
+7161,7161.T,JPX,Jimoto Holdings,Banks
+7163,7163.T,JPX,SBI Sumishin Net Bank,Banks
+7167,7167.T,JPX,Mebuki Financial Group,Banks
+7173,7173.T,JPX,Tokyo Kiraboshi Financial Group,Banks
+7180,7180.T,JPX,Kyushu Financial Group,Banks
+7182,7182.T,JPX,Japan Post Bank,Banks
+7184,7184.T,JPX,The First Bank of Toyama,Banks
+7186,7186.T,JPX,Concordia Financial Group,Banks
+7189,7189.T,JPX,Nishi-Nippon Financial Holdings,Banks
+7322,7322.T,JPX,San Ju San Financial Group,Banks
+7327,7327.T,JPX,Daishi Hokuetsu Financial Group,Banks
+7337,7337.T,JPX,Hirogin Holdings,Banks
+7350,7350.T,JPX,Okinawa Financial Group,Banks
+7380,7380.T,JPX,Juroku Financial Group,Banks
+7381,7381.T,JPX,Hokkoku Financial Holdings,Banks
+7384,7384.T,JPX,Procrea Holdings,Banks
+7389,7389.T,JPX,Aichi Financial Group,Banks
+8301,8301.T,JPX,The Bank Of Japan,Banks
+8304,8304.T,JPX,Aozora Bank,Banks
+8306,8306.T,JPX,Mitsubishi UFJ Financial Group,Banks
+8308,8308.T,JPX,Resona Holdings,Banks
+8309,8309.T,JPX,Sumitomo Mitsui Trust Holdings,Banks
+8316,8316.T,JPX,Sumitomo Mitsui Financial Group,Banks
+8331,8331.T,JPX,The Chiba Bank,Banks
+8334,8334.T,JPX,Gunma Bank,Banks
+8336,8336.T,JPX,Musashino Bank,Banks
+8337,8337.T,JPX,Chiba Kogyo Bank,Banks
+8338,8338.T,JPX,Tsukuba Bank,Banks
+8341,8341.T,JPX,The 77 Bank,Banks
+8343,8343.T,JPX,Akita Bank,Banks
+8344,8344.T,JPX,The Yamagata Bank,Banks
+8345,8345.T,JPX,Bank of Iwate,Banks
+8346,8346.T,JPX,Toho Bank,Banks
+8349,8349.T,JPX,The Tohoku Bank,Banks
+8354,8354.T,JPX,Fukuoka Financial Group,Banks
+8358,8358.T,JPX,Suruga Bank,Banks
+8359,8359.T,JPX,Hachijuni Bank,Banks
+8360,8360.T,JPX,Yamanashi Chuo Bank,Banks
+8361,8361.T,JPX,Ogaki Kyoritsu Bank,Banks
+8362,8362.T,JPX,Fukui Bank,Banks
+8364,8364.T,JPX,Shimizu Bank,Banks
+8365,8365.T,JPX,The Bank of Toyama,Banks
+8366,8366.T,JPX,Shiga Bank,Banks
+8367,8367.T,JPX,Nanto Bank,Banks
+8368,8368.T,JPX,Hyakugo Bank,Banks
+8370,8370.T,JPX,Kiyo Bank,Banks
+8377,8377.T,JPX,Hokuhoku Financial Group,Banks
+8381,8381.T,JPX,San-in Godo Bank,Banks
+8383,8383.T,JPX,The Tottori Bank,Banks
+8386,8386.T,JPX,Hyakujushi Bank,Banks
+8387,8387.T,JPX,Shikoku Bank,Banks
+8388,8388.T,JPX,Awa Bank,Banks
+8392,8392.T,JPX,Oita Bank,Banks
+8393,8393.T,JPX,Miyazaki Bank,Banks
+8395,8395.T,JPX,Bank Of Saga,Banks
+8399,8399.T,JPX,Bank of The Ryukyus,Banks
+8410,8410.T,JPX,Seven Bank,Banks
+8411,8411.T,JPX,Mizuho Financial Group,Banks
+8416,8416.T,JPX,Bank of Kochi,Banks
+8418,8418.T,JPX,Yamaguchi Financial Group,Banks
+8522,8522.T,JPX,The Bank of Nagoya,Banks
+8524,8524.T,JPX,North Pacific Bank,Banks
+8537,8537.T,JPX,The Taiko Bank,Banks
+8541,8541.T,JPX,Ehime Bank,Banks
+8542,8542.T,JPX,Tomato Bank,Banks
+8544,8544.T,JPX,Keiyo Bank,Banks
+8550,8550.T,JPX,Tochigi Bank,Banks
+8551,8551.T,JPX,The Kita Nippon Bank,Banks
+8558,8558.T,JPX,Towa Bank,Banks
+8562,8562.T,JPX,Fukushima Bank,Banks
+8563,8563.T,JPX,The Daito Bank,Banks
+8600,8600.T,JPX,TOMONY Holdings,Banks
+8713,8713.T,JPX,FIDEA Holdings,Banks
+8714,8714.T,JPX,Senshu Ikeda Holdings,Banks
+177A,177A.T,JPX,Kohjin Bio,Chemicals
+2930,2930.T,JPX,Kitanotatsujin,Chemicals
+3405,3405.T,JPX,Kuraray,Chemicals
+3407,3407.T,JPX,Asahi Kasei,Chemicals
+3553,3553.T,JPX,Kyowa Leather Cloth,Chemicals
+3878,3878.T,JPX,Tomoegawa,Chemicals
+4004,4004.T,JPX,Resonac Holdings,Chemicals
+4005,4005.T,JPX,Sumitomo Chemical,Chemicals
+4008,4008.T,JPX,Sumitomo Seika Chemicals,Chemicals
+4021,4021.T,JPX,Nissan Chemical,Chemicals
+4022,4022.T,JPX,Rasa Industries,Chemicals
+4023,4023.T,JPX,Kureha,Chemicals
+4025,4025.T,JPX,Taki Chemical,Chemicals
+4027,4027.T,JPX,Tayca,Chemicals
+4028,4028.T,JPX,Ishihara Sangyo Kaisha,Chemicals
+4031,4031.T,JPX,Katakura & Co-op Agri,Chemicals
+4040,4040.T,JPX,Nankai Chemical,Chemicals
+4041,4041.T,JPX,Nippon Soda,Chemicals
+4042,4042.T,JPX,Tosoh,Chemicals
+4043,4043.T,JPX,Tokuyama,Chemicals
+4044,4044.T,JPX,Central Glass,Chemicals
+4045,4045.T,JPX,Toagosei,Chemicals
+4046,4046.T,JPX,Osaka Soda,Chemicals
+4047,4047.T,JPX,Kanto Denka Kogyo,Chemicals
+4061,4061.T,JPX,Denka,Chemicals
+4063,4063.T,JPX,Shin-Etsu Chemical,Chemicals
+4064,4064.T,JPX,Nippon Carbide Industries,Chemicals
+4078,4078.T,JPX,Sakai Chemical Industry,Chemicals
+4080,4080.T,JPX,Tanaka Chemical,Chemicals
+4082,4082.T,JPX,Daiichi Kigenso Kagaku-Kogyo,Chemicals
+4088,4088.T,JPX,Air Water,Chemicals
+4091,4091.T,JPX,Nippon Sanso Holdings,Chemicals
+4092,4092.T,JPX,Nippon Chemical Industrial,Chemicals
+4093,4093.T,JPX,Toho Acetylene,Chemicals
+4094,4094.T,JPX,Nihon Kagaku Sangyo,Chemicals
+4095,4095.T,JPX,Nihon Parkerizing,Chemicals
+4097,4097.T,JPX,Koatsu Gas Kogyo,Chemicals
+4098,4098.T,JPX,Titan Kogyo,Chemicals
+4099,4099.T,JPX,Shikoku Kasei Holdings,Chemicals
+4100,4100.T,JPX,Toda Kogyo,Chemicals
+4102,4102.T,JPX,Maruo Calcium,Chemicals
+4107,4107.T,JPX,Ise Chemicals,Chemicals
+4109,4109.T,JPX,Stella Chemifa,Chemicals
+4112,4112.T,JPX,Hodogaya Chemical,Chemicals
+4113,4113.T,JPX,Taoka Chemical,Chemicals
+4114,4114.T,JPX,Nippon Shokubai,Chemicals
+4116,4116.T,JPX,Dainichiseika Color & Chemicals Mfg,Chemicals
+4118,4118.T,JPX,Kaneka,Chemicals
+4119,4119.T,JPX,Nippon Pigment,Chemicals
+4120,4120.T,JPX,Sugai Chemical Industry,Chemicals
+4124,4124.T,JPX,Osaka Yuka Industry,Chemicals
+4125,4125.T,JPX,Sanwayuka Industry,Chemicals
+4182,4182.T,JPX,Mitsubishi Gas Chemical,Chemicals
+4183,4183.T,JPX,Mitsui Chemicals,Chemicals
+4186,4186.T,JPX,Tokyo Ohka Kogyo,Chemicals
+4187,4187.T,JPX,Osaka Organic Chemical Industry,Chemicals
+4188,4188.T,JPX,Mitsubishi Chemical Group,Chemicals
+4189,4189.T,JPX,KH Neochem,Chemicals
+4202,4202.T,JPX,Daicel,Chemicals
+4203,4203.T,JPX,Sumitomo Bakelite,Chemicals
+4204,4204.T,JPX,Sekisui Chemical,Chemicals
+4205,4205.T,JPX,Zeon,Chemicals
+4206,4206.T,JPX,Aica Kogyo,Chemicals
+4208,4208.T,JPX,Ube,Chemicals
+4212,4212.T,JPX,Sekisui Jushi,Chemicals
+4215,4215.T,JPX,CI Takiron,Chemicals
+4216,4216.T,JPX,Asahi Yukizai,Chemicals
+4218,4218.T,JPX,Nichiban,Chemicals
+4220,4220.T,JPX,Riken Technos,Chemicals
+4221,4221.T,JPX,Okura Industrial,Chemicals
+4222,4222.T,JPX,KODAMA CHEMICAL INDUSTRY,Chemicals
+4224,4224.T,JPX,Lonseal,Chemicals
+4228,4228.T,JPX,Sekisui Kasei,Chemicals
+4229,4229.T,JPX,Gun Ei Chemical Industry,Chemicals
+4231,4231.T,JPX,Tigers Polymer,Chemicals
+4234,4234.T,JPX,Sun A.Kaken,Chemicals
+4235,4235.T,JPX,Ultrafabrics Holdings,Chemicals
+4237,4237.T,JPX,Fujipream,Chemicals
+4238,4238.T,JPX,Miraial,Chemicals
+4240,4240.T,JPX,Cluster Technology,Chemicals
+4241,4241.T,JPX,atect,Chemicals
+4242,4242.T,JPX,Takagi Seiko,Chemicals
+4243,4243.T,JPX,NIX,Chemicals
+4245,4245.T,JPX,Daiki Axis,Chemicals
+4246,4246.T,JPX,DaikyoNishikawa,Chemicals
+4247,4247.T,JPX,Poval Kogyo,Chemicals
+4248,4248.T,JPX,Takemoto Yohki,Chemicals
+4249,4249.T,JPX,Moriroku Holdings,Chemicals
+4251,4251.T,JPX,KEIWA,Chemicals
+4272,4272.T,JPX,Nippon Kayaku,Chemicals
+4274,4274.T,JPX,Hosoya Pyro-Engineering,Chemicals
+4275,4275.T,JPX,Carlit Holdings,Chemicals
+4360,4360.T,JPX,Manac Chemical Partners,Chemicals
+4361,4361.T,JPX,Kawaguchi Chemical Industry,Chemicals
+4362,4362.T,JPX,Nippon Fine Chemical,Chemicals
+4365,4365.T,JPX,Matsumoto Yushi-Seiyaku,Chemicals
+4366,4366.T,JPX,Daito Chemix,Chemicals
+4367,4367.T,JPX,Koei Chemical,Chemicals
+4368,4368.T,JPX,Fuso Chemical,Chemicals
+4369,4369.T,JPX,Tri Chemical Laboratories,Chemicals
+4401,4401.T,JPX,Adeka,Chemicals
+4403,4403.T,JPX,NOF,Chemicals
+4406,4406.T,JPX,New Japan Chemical,Chemicals
+4409,4409.T,JPX,Toho Chemical Industry,Chemicals
+4410,4410.T,JPX,Harima Chemicals Group,Chemicals
+4452,4452.T,JPX,Kao,Chemicals
+4461,4461.T,JPX,DKS,Chemicals
+4462,4462.T,JPX,Ishihara Chemical,Chemicals
+4463,4463.T,JPX,Nicca Chemical,Chemicals
+4464,4464.T,JPX,SOFT99,Chemicals
+4465,4465.T,JPX,Niitaka,Chemicals
+4471,4471.T,JPX,Sanyo Chemical Industries,Chemicals
+4531,4531.T,JPX,Yuki Gosei Kogyo,Chemicals
+4611,4611.T,JPX,Dai Nippon Toryo,Chemicals
+4612,4612.T,JPX,Nippon Paint Holdings,Chemicals
+4613,4613.T,JPX,Kansai Paint,Chemicals
+4615,4615.T,JPX,Shinto Paint,Chemicals
+4616,4616.T,JPX,Kawakami Paint Manufacturing,Chemicals
+4617,4617.T,JPX,Chugoku Marine Paints,Chemicals
+4619,4619.T,JPX,Nihon Tokushu Toryo,Chemicals
+4620,4620.T,JPX,FUJIKURA KASEI,Chemicals
+4623,4623.T,JPX,Asahipen,Chemicals
+4624,4624.T,JPX,Isamu Paint,Chemicals
+4625,4625.T,JPX,Atomix,Chemicals
+4626,4626.T,JPX,Taiyo Holdings,Chemicals
+4627,4627.T,JPX,Natoco,Chemicals
+4628,4628.T,JPX,SK Kaken,Chemicals
+4629,4629.T,JPX,Daishin Chemical,Chemicals
+4631,4631.T,JPX,DIC,Chemicals
+4633,4633.T,JPX,Sakata Inx,Chemicals
+4634,4634.T,JPX,Artience,Chemicals
+4635,4635.T,JPX,TOKYO PRINTING INK MFG,Chemicals
+4901,4901.T,JPX,FUJIFILM Holdings,Chemicals
+4911,4911.T,JPX,Shiseido,Chemicals
+4912,4912.T,JPX,Lion,Chemicals
+4914,4914.T,JPX,Takasago International,Chemicals
+4917,4917.T,JPX,Mandom,Chemicals
+4918,4918.T,JPX,IVY Cosmetics,Chemicals
+4919,4919.T,JPX,Milbon,Chemicals
+4920,4920.T,JPX,Nippon Shikizai,Chemicals
+4921,4921.T,JPX,FANCL,Chemicals
+4922,4922.T,JPX,KOSE,Chemicals
+4923,4923.T,JPX,Cota,Chemicals
+4925,4925.T,JPX,HABA LABORATORIES,Chemicals
+4926,4926.T,JPX,C'BON COSMETICS,Chemicals
+4927,4927.T,JPX,Pola Orbis Holdings,Chemicals
+4928,4928.T,JPX,Noevir Holdings,Chemicals
+4929,4929.T,JPX,Adjuvant Holdings,Chemicals
+4930,4930.T,JPX,Graphico,Chemicals
+4931,4931.T,JPX,Shinnihonseiyaku,Chemicals
+4932,4932.T,JPX,Almado,Chemicals
+4933,4933.T,JPX,I-ne,Chemicals
+4934,4934.T,JPX,Premier Anti-Aging,Chemicals
+4935,4935.T,JPX,Liberta,Chemicals
+4936,4936.T,JPX,AXXZIA,Chemicals
+4937,4937.T,JPX,Waqoo,Chemicals
+4951,4951.T,JPX,S. T.,Chemicals
+4955,4955.T,JPX,AGRO-KANESHO,Chemicals
+4956,4956.T,JPX,Konishi,Chemicals
+4957,4957.T,JPX,Yasuhara Chemical,Chemicals
+4958,4958.T,JPX,T Hasegawa,Chemicals
+4960,4960.T,JPX,Chemipro Kasei Kaisha,Chemicals
+4966,4966.T,JPX,C. Uyemura,Chemicals
+4967,4967.T,JPX,Kobayashi Pharmaceutical,Chemicals
+4968,4968.T,JPX,Arakawa Chemical Industries,Chemicals
+4970,4970.T,JPX,Toyo Gosei,Chemicals
+4971,4971.T,JPX,MEC,Chemicals
+4972,4972.T,JPX,Soken Chemical & Engineering,Chemicals
+4973,4973.T,JPX,Japan Pure Chemical,Chemicals
+4974,4974.T,JPX,Takara Bio,Chemicals
+4975,4975.T,JPX,JCU,Chemicals
+4976,4976.T,JPX,Toyo Drilube,Chemicals
+4977,4977.T,JPX,Nitta Gelatin,Chemicals
+4978,4978.T,JPX,ReproCELL,Chemicals
+4979,4979.T,JPX,OAT Agrio,Chemicals
+4980,4980.T,JPX,Dexerials,Chemicals
+4985,4985.T,JPX,Earth,Chemicals
+4990,4990.T,JPX,Showa Chemical Industry,Chemicals
+4992,4992.T,JPX,HOKKO Chemical Industry,Chemicals
+4994,4994.T,JPX,Taisei Lamick,Chemicals
+4996,4996.T,JPX,Kumiai Chemical Industry,Chemicals
+4997,4997.T,JPX,Nihon Nohyaku,Chemicals
+4998,4998.T,JPX,Fumakilla,Chemicals
+5142,5142.T,JPX,Achilles,Chemicals
+5208,5208.T,JPX,Arisawa Mfg,Chemicals
+6776,6776.T,JPX,Tensho Electric Industries,Chemicals
+6988,6988.T,JPX,Nitto Denko,Chemicals
+7871,7871.T,JPX,Fukuvi Chemical Industry,Chemicals
+7874,7874.T,JPX,Lec,Chemicals
+7877,7877.T,JPX,Eidai Kako,Chemicals
+7886,7886.T,JPX,Yamato Industry,Chemicals
+7888,7888.T,JPX,Sanko Gosei,Chemicals
+7908,7908.T,JPX,Kimoto,Chemicals
+7917,7917.T,JPX,Fujimori Kogyo,Chemicals
+7925,7925.T,JPX,Maezawa Kasei Industries,Chemicals
+7927,7927.T,JPX,Muto Seiko,Chemicals
+7928,7928.T,JPX,Asahi Kagaku Kogyo,Chemicals
+7931,7931.T,JPX,Mirai Industry,Chemicals
+7940,7940.T,JPX,Wavelock Holdings,Chemicals
+7942,7942.T,JPX,JSP,Chemicals
+7947,7947.T,JPX,FP,Chemicals
+7958,7958.T,JPX,Tenma,Chemicals
+7970,7970.T,JPX,Shin-Etsu Polymer,Chemicals
+7971,7971.T,JPX,TOLI,Chemicals
+7988,7988.T,JPX,Nifco,Chemicals
+7995,7995.T,JPX,Valqua,Chemicals
+8113,8113.T,JPX,Unicharm,Chemicals
+9385,9385.T,JPX,Shoei,Chemicals
+9845,9845.T,JPX,Parker,Chemicals
+1401,1401.T,JPX,MBS,Construction
+1407,1407.T,JPX,West Holdings,Construction
+1414,1414.T,JPX,SHO-BOND Holdings,Construction
+1417,1417.T,JPX,MIRAIT One,Construction
+1418,1418.T,JPX,Interlife Holdings,Construction
+1419,1419.T,JPX,Tama Home,Construction
+1420,1420.T,JPX,Sanyo Homes,Construction
+1429,1429.T,JPX,Nippon Aqua,Construction
+1430,1430.T,JPX,First-corp,Construction
+1431,1431.T,JPX,Lib Work,Construction
+1433,1433.T,JPX,Besterra,Construction
+1434,1434.T,JPX,JESCO Holdings,Construction
+1436,1436.T,JPX,GreenEnergy,Construction
+1438,1438.T,JPX,Gifu Landscape Architect,Construction
+1439,1439.T,JPX,Yasue,Construction
+1443,1443.T,JPX,Giken Holdings,Construction
+1444,1444.T,JPX,Nissou,Construction
+1446,1446.T,JPX,Candeal,Construction
+1447,1447.T,JPX,ITbook Holdings,Construction
+1450,1450.T,JPX,Tanaken,Construction
+1451,1451.T,JPX,KHC,Construction
+1711,1711.T,JPX,SDS Holdings,Construction
+1712,1712.T,JPX,Daiseki Eco Solution,Construction
+1716,1716.T,JPX,Dai-Ichi Cutter Kogyo KK,Construction
+1718,1718.T,JPX,MIKIKOGYO,Construction
+1719,1719.T,JPX,HAZAMA ANDO,Construction
+1720,1720.T,JPX,Tokyu Construction,Construction
+1721,1721.T,JPX,Comsys Holdings,Construction
+1723,1723.T,JPX,Nihon Dengi,Construction
+1724,1724.T,JPX,Synclayer,Construction
+1726,1726.T,JPX,Br.Holdings,Construction
+1730,1730.T,JPX,ASO FOAM CRETE,Construction
+1736,1736.T,JPX,OTEC,Construction
+1743,1743.T,JPX,Koatsu Kogyo,Construction
+1757,1757.T,JPX,Souken Ace,Construction
+1758,1758.T,JPX,Taiyo Kisokogyo,Construction
+1762,1762.T,JPX,Takamatsu Construction Group,Construction
+1764,1764.T,JPX,Kudo,Construction
+1766,1766.T,JPX,Token,Construction
+1768,1768.T,JPX,Sonec,Construction
+1770,1770.T,JPX,Fujita Engineering,Construction
+1773,1773.T,JPX,YTL Corp Bhd,Construction
+1775,1775.T,JPX,Fuji Furukawa Engineering & Construction,Construction
+1776,1776.T,JPX,Sumiken Mitsui Road,Construction
+1780,1780.T,JPX,Yamaura,Construction
+1786,1786.T,JPX,Oriental Shiraishi,Construction
+1787,1787.T,JPX,Nakabohtec Corrosion Protecting,Construction
+1788,1788.T,JPX,Santo,Construction
+1789,1789.T,JPX,ETS Holdings,Construction
+1793,1793.T,JPX,Ohmoto Gumi,Construction
+1795,1795.T,JPX,Masaru,Construction
+1798,1798.T,JPX,Moriya,Construction
+1799,1799.T,JPX,Daiichi Kensetsu,Construction
+1801,1801.T,JPX,Taisei,Construction
+1802,1802.T,JPX,Obayashi,Construction
+1803,1803.T,JPX,Shimizu,Construction
+1805,1805.T,JPX,Tobishima,Construction
+1807,1807.T,JPX,Watanabe Sato,Construction
+1808,1808.T,JPX,HASEKO,Construction
+1810,1810.T,JPX,Matsui Construction,Construction
+1811,1811.T,JPX,The Zenitaka,Construction
+1812,1812.T,JPX,Kajima,Construction
+1813,1813.T,JPX,Fudo Tetra,Construction
+1814,1814.T,JPX,Daisue Construction,Construction
+1815,1815.T,JPX,Tekken,Construction
+1820,1820.T,JPX,Nishimatsu Construction,Construction
+1821,1821.T,JPX,Sumitomo Mitsui Construction,Construction
+1822,1822.T,JPX,Daiho,Construction
+1826,1826.T,JPX,Sata Construction,Construction
+1827,1827.T,JPX,Nakano,Construction
+1828,1828.T,JPX,Tanabe Engineering,Construction
+1833,1833.T,JPX,Okumura,Construction
+1835,1835.T,JPX,Totetsu Kogyo,Construction
+1840,1840.T,JPX,Tsuchiya Holdings,Construction
+1841,1841.T,JPX,Sanyu Construction,Construction
+1844,1844.T,JPX,Ohmori,Construction
+1847,1847.T,JPX,ICHIKEN,Construction
+1848,1848.T,JPX,Fuji P.S,Construction
+1850,1850.T,JPX,Nankai Tatsumura Construction,Construction
+1852,1852.T,JPX,Asanuma,Construction
+1853,1853.T,JPX,Mori-Gumi,Construction
+1860,1860.T,JPX,Toda,Construction
+1861,1861.T,JPX,Kumagai Gumi,Construction
+1866,1866.T,JPX,Kitano Construction,Construction
+1867,1867.T,JPX,UEKI,Construction
+1870,1870.T,JPX,Yahagi Construction,Construction
+1871,1871.T,JPX,P.S. Mitsubishi Construction,Construction
+1873,1873.T,JPX,Nihon House Holdings,Construction
+1879,1879.T,JPX,Shinnihon,Construction
+1882,1882.T,JPX,Toa Road,Construction
+1884,1884.T,JPX,Nippon Road,Construction
+1885,1885.T,JPX,Toa,Construction
+1887,1887.T,JPX,JDC,Construction
+1888,1888.T,JPX,Wakachiku Construction,Construction
+1890,1890.T,JPX,TOYO Construction,Construction
+1893,1893.T,JPX,Penta-Ocean Construction,Construction
+1897,1897.T,JPX,Kaneshita Construction,Construction
+1898,1898.T,JPX,Seikitokyu Kogyo,Construction
+1899,1899.T,JPX,Fukuda,Construction
+1904,1904.T,JPX,Taisei Oncho,Construction
+1905,1905.T,JPX,TENOX,Construction
+1911,1911.T,JPX,Sumitomo Forestry,Construction
+1914,1914.T,JPX,Japan Foundation Engineering,Construction
+1921,1921.T,JPX,Tomoe,Construction
+1925,1925.T,JPX,Daiwa House Industry,Construction
+1926,1926.T,JPX,Raito Kogyo,Construction
+1928,1928.T,JPX,Sekisui House,Construction
+1929,1929.T,JPX,Nittoc Construction,Construction
+1930,1930.T,JPX,Hokuriku Electrical Construction,Construction
+1934,1934.T,JPX,Yurtec,Construction
+1938,1938.T,JPX,Nippon Rietec,Construction
+1939,1939.T,JPX,Yondenko,Construction
+1941,1941.T,JPX,Chudenko,Construction
+1942,1942.T,JPX,Kandenko,Construction
+1944,1944.T,JPX,Kinden,Construction
+1945,1945.T,JPX,Tokyo Energy & Systems,Construction
+1946,1946.T,JPX,Toenec,Construction
+1948,1948.T,JPX,Kodensha,Construction
+1949,1949.T,JPX,Sumitomo Densetsu,Construction
+1950,1950.T,JPX,Nippon Densetsu Kogyo,Construction
+1951,1951.T,JPX,Exeo Group,Construction
+1952,1952.T,JPX,Shin Nippon Air Technologies,Construction
+1959,1959.T,JPX,Kyudenko,Construction
+1960,1960.T,JPX,Sanyo Engineering & Construction,Construction
+1961,1961.T,JPX,Sanki Engineering,Construction
+1963,1963.T,JPX,JGC Holdings,Construction
+1964,1964.T,JPX,Chugai Ro,Construction
+1965,1965.T,JPX,Techno Ryowa,Construction
+1966,1966.T,JPX,Takada,Construction
+1967,1967.T,JPX,Yamato,Construction
+1968,1968.T,JPX,Taihei Dengyo Kaisha,Construction
+1969,1969.T,JPX,Takasago Thermal Engineering,Construction
+1972,1972.T,JPX,Sanko Metal Industrial,Construction
+1975,1975.T,JPX,Asahi Kogyosha,Construction
+1976,1976.T,JPX,MEISEI INDUSTRIAL,Construction
+1979,1979.T,JPX,Taikisha,Construction
+1980,1980.T,JPX,Dai-Dan,Construction
+1981,1981.T,JPX,Kyowanissei,Construction
+1982,1982.T,JPX,Hibiya Engineering,Construction
+1992,1992.T,JPX,Kanda Tsushinki,Construction
+1994,1994.T,JPX,Takahashi Curtain Wall,Construction
+1997,1997.T,JPX,Akatsuki Eazima,Construction
+3267,3267.T,JPX,Phil,Construction
+5070,5070.T,JPX,Draft,Construction
+5071,5071.T,JPX,Vis,Construction
+5074,5074.T,JPX,Tess Holdings,Construction
+5076,5076.T,JPX,Infroneer Holdings,Construction
+5078,5078.T,JPX,CEL,Construction
+5079,5079.T,JPX,Novac,Construction
+6330,6330.T,JPX,Toyo Engineering,Construction
+6366,6366.T,JPX,Chiyoda,Construction
+6379,6379.T,JPX,Raiznext,Construction
+3105,3105.T,JPX,Nisshinbo Holdings,Electric Appliances
+3856,3856.T,JPX,Abalance,Electric Appliances
+4062,4062.T,JPX,Ibiden,Electric Appliances
+4902,4902.T,JPX,Konica Minolta,Electric Appliances
+6276,6276.T,JPX,Siriusvision,Electric Appliances
+6448,6448.T,JPX,Brother Industries,Electric Appliances
+6479,6479.T,JPX,Minebea Mitsumi,Electric Appliances
+6501,6501.T,JPX,Hitachi,Electric Appliances
+6503,6503.T,JPX,Mitsubishi Electric,Electric Appliances
+6504,6504.T,JPX,Fuji Electric,Electric Appliances
+6505,6505.T,JPX,Toyo Denki Seizo KK,Electric Appliances
+6506,6506.T,JPX,YASKAWA Electric,Electric Appliances
+6507,6507.T,JPX,Sinfonia Technology,Electric Appliances
+6508,6508.T,JPX,Meidensha,Electric Appliances
+6513,6513.T,JPX,Origin,Electric Appliances
+6516,6516.T,JPX,Sanyo Denki,Electric Appliances
+6517,6517.T,JPX,Denyo,Electric Appliances
+6518,6518.T,JPX,Sanso Electric,Electric Appliances
+6521,6521.T,JPX,Oxide,Electric Appliances
+6522,6522.T,JPX,Asterisk,Electric Appliances
+6523,6523.T,JPX,PHC Holdings,Electric Appliances
+6524,6524.T,JPX,Kohoku Kogyo,Electric Appliances
+6525,6525.T,JPX,Kokusai Electric,Electric Appliances
+6526,6526.T,JPX,Socionext,Electric Appliances
+6588,6588.T,JPX,Toshiba Tec,Electric Appliances
+6590,6590.T,JPX,Shibaura Mechatronics,Electric Appliances
+6592,6592.T,JPX,Mabuchi Motor,Electric Appliances
+6594,6594.T,JPX,Nidec,Electric Appliances
+6597,6597.T,JPX,HPC Systems,Electric Appliances
+6599,6599.T,JPX,Ebrains,Electric Appliances
+6612,6612.T,JPX,Balmuda,Electric Appliances
+6613,6613.T,JPX,QD Laser,Electric Appliances
+6614,6614.T,JPX,Shikino High-Tech,Electric Appliances
+6615,6615.T,JPX,UMC Electronics,Electric Appliances
+6616,6616.T,JPX,TOREX SEMICONDUCTOR,Electric Appliances
+6617,6617.T,JPX,Takaoka Toko,Electric Appliances
+6619,6619.T,JPX,W-SCOPE,Electric Appliances
+6622,6622.T,JPX,Daihen,Electric Appliances
+6626,6626.T,JPX,SEMITEC,Electric Appliances
+6627,6627.T,JPX,Tera Probe,Electric Appliances
+6629,6629.T,JPX,Techno Horizon,Electric Appliances
+6630,6630.T,JPX,Ya-Man,Electric Appliances
+6632,6632.T,JPX,JVCKenwood,Electric Appliances
+6633,6633.T,JPX,C&G Systems,Electric Appliances
+6634,6634.T,JPX,NCXX Group,Electric Appliances
+6635,6635.T,JPX,Di Nikko Engineering,Electric Appliances
+6637,6637.T,JPX,Terasaki Electric,Electric Appliances
+6638,6638.T,JPX,Mimaki Engineering,Electric Appliances
+6640,6640.T,JPX,I-Pex,Electric Appliances
+6643,6643.T,JPX,Togami Electric Mfg,Electric Appliances
+6644,6644.T,JPX,Osaki Electric,Electric Appliances
+6645,6645.T,JPX,OMRON,Electric Appliances
+6647,6647.T,JPX,MORIO DENKI,Electric Appliances
+1417,1417.T,JPX,MIRAIT One,Construction
+1418,1418.T,JPX,Interlife Holdings,Construction
+1419,1419.T,JPX,Tama Home,Construction
+1420,1420.T,JPX,Sanyo Homes,Construction
+1429,1429.T,JPX,Nippon Aqua,Construction
+1430,1430.T,JPX,First-corp,Construction
+1431,1431.T,JPX,Lib Work,Construction
+1433,1433.T,JPX,Besterra,Construction
+1434,1434.T,JPX,JESCO Holdings,Construction
+1436,1436.T,JPX,GreenEnergy,Construction
+1438,1438.T,JPX,Gifu Landscape Architect,Construction
+1439,1439.T,JPX,Yasue,Construction
+1443,1443.T,JPX,Giken Holdings,Construction
+1444,1444.T,JPX,Nissou,Construction
+1446,1446.T,JPX,Candeal,Construction
+1447,1447.T,JPX,ITbook Holdings,Construction
+1450,1450.T,JPX,Tanaken,Construction
+1451,1451.T,JPX,KHC,Construction
+1711,1711.T,JPX,SDS Holdings,Construction
+1712,1712.T,JPX,Daiseki Eco Solution,Construction
+1716,1716.T,JPX,Dai-Ichi Cutter Kogyo KK,Construction
+1718,1718.T,JPX,MIKIKOGYO,Construction
+1719,1719.T,JPX,HAZAMA ANDO,Construction
+1720,1720.T,JPX,Tokyu Construction,Construction
+1721,1721.T,JPX,Comsys Holdings,Construction
+1723,1723.T,JPX,Nihon Dengi,Construction
+1724,1724.T,JPX,Synclayer,Construction
+1726,1726.T,JPX,Br.Holdings,Construction
+1730,1730.T,JPX,ASO FOAM CRETE,Construction
+1736,1736.T,JPX,OTEC,Construction
+1743,1743.T,JPX,Koatsu Kogyo,Construction
+1757,1757.T,JPX,Souken Ace,Construction
+1758,1758.T,JPX,Taiyo Kisokogyo,Construction
+1762,1762.T,JPX,Takamatsu Construction Group,Construction
+1764,1764.T,JPX,Kudo,Construction
+1766,1766.T,JPX,Token,Construction
+1768,1768.T,JPX,Sonec,Construction
+1770,1770.T,JPX,Fujita Engineering,Construction
+1773,1773.T,JPX,YTL Corp Bhd,Construction
+1775,1775.T,JPX,Fuji Furukawa Engineering & Construction,Construction
+1776,1776.T,JPX,Sumiken Mitsui Road,Construction
+1780,1780.T,JPX,Yamaura,Construction
+1786,1786.T,JPX,Oriental Shiraishi,Construction
+1787,1787.T,JPX,Nakabohtec Corrosion Protecting,Construction
+1788,1788.T,JPX,Santo,Construction
+1789,1789.T,JPX,ETS Holdings,Construction
+1793,1793.T,JPX,Ohmoto Gumi,Construction
+1795,1795.T,JPX,Masaru,Construction
+1798,1798.T,JPX,Moriya,Construction
+1799,1799.T,JPX,Daiichi Kensetsu,Construction
+1801,1801.T,JPX,Taisei,Construction
+1802,1802.T,JPX,Obayashi,Construction
+1803,1803.T,JPX,Shimizu,Construction
+1805,1805.T,JPX,Tobishima,Construction
+1807,1807.T,JPX,Watanabe Sato,Construction
+1808,1808.T,JPX,HASEKO,Construction
+1810,1810.T,JPX,Matsui Construction,Construction
+1811,1811.T,JPX,The Zenitaka,Construction
+1812,1812.T,JPX,Kajima,Construction
+1813,1813.T,JPX,Fudo Tetra,Construction
+1814,1814.T,JPX,Daisue Construction,Construction
+1815,1815.T,JPX,Tekken,Construction
+1820,1820.T,JPX,Nishimatsu Construction,Construction
+1821,1821.T,JPX,Sumitomo Mitsui Construction,Construction
+1822,1822.T,JPX,Daiho,Construction
+1826,1826.T,JPX,Sata Construction,Construction
+1827,1827.T,JPX,Nakano,Construction
+1828,1828.T,JPX,Tanabe Engineering,Construction
+1833,1833.T,JPX,Okumura,Construction
+1835,1835.T,JPX,Totetsu Kogyo,Construction
+1840,1840.T,JPX,Tsuchiya Holdings,Construction
+1841,1841.T,JPX,Sanyu Construction,Construction
+1844,1844.T,JPX,Ohmori,Construction
+1847,1847.T,JPX,ICHIKEN,Construction
+1848,1848.T,JPX,Fuji P.S,Construction
+1850,1850.T,JPX,Nankai Tatsumura Construction,Construction
+1852,1852.T,JPX,Asanuma,Construction
+1853,1853.T,JPX,Mori-Gumi,Construction
+1860,1860.T,JPX,Toda,Construction
+1861,1861.T,JPX,Kumagai Gumi,Construction
+1866,1866.T,JPX,Kitano Construction,Construction
+1867,1867.T,JPX,UEKI,Construction
+1870,1870.T,JPX,Yahagi Construction,Construction
+1871,1871.T,JPX,P.S. Mitsubishi Construction,Construction
+1873,1873.T,JPX,Nihon House Holdings,Construction
+1879,1879.T,JPX,Shinnihon,Construction
+1882,1882.T,JPX,Toa Road,Construction
+1884,1884.T,JPX,Nippon Road,Construction
+1885,1885.T,JPX,Toa,Construction
+1887,1887.T,JPX,JDC,Construction
+1888,1888.T,JPX,Wakachiku Construction,Construction
+1890,1890.T,JPX,TOYO Construction,Construction
+1893,1893.T,JPX,Penta-Ocean Construction,Construction
+1897,1897.T,JPX,Kaneshita Construction,Construction
+1898,1898.T,JPX,Seikitokyu Kogyo,Construction
+1899,1899.T,JPX,Fukuda,Construction
+1904,1904.T,JPX,Taisei Oncho,Construction
+1905,1905.T,JPX,TENOX,Construction
+1911,1911.T,JPX,Sumitomo Forestry,Construction
+1914,1914.T,JPX,Japan Foundation Engineering,Construction
+6853,6853.T,JPX,Kyowa Electronic Instruments,Electric Appliances
+6855,6855.T,JPX,Japan Electronic Materials,Electric Appliances
+6856,6856.T,JPX,Horiba,Electric Appliances
+6857,6857.T,JPX,Advantest,Electric Appliances
+6858,6858.T,JPX,ONO Sokki,Electric Appliances
+6859,6859.T,JPX,ESPEC,Electric Appliances
+6861,6861.T,JPX,Keyence,Electric Appliances
+6862,6862.T,JPX,Minato Holdings,Electric Appliances
+6863,6863.T,JPX,Nireco,Electric Appliances
+6864,6864.T,JPX,NF Holdings,Electric Appliances
+6866,6866.T,JPX,Hioki E.E.,Electric Appliances
+6867,6867.T,JPX,Leader Electronics,Electric Appliances
+6869,6869.T,JPX,Sysmex,Electric Appliances
+6870,6870.T,JPX,Fenwal Controls of Japan,Electric Appliances
+6871,6871.T,JPX,Micronics Japan,Electric Appliances
+6874,6874.T,JPX,Kyoritsu Electric,Electric Appliances
+6875,6875.T,JPX,MegaChips,Electric Appliances
+6877,6877.T,JPX,Obara Group,Electric Appliances
+6882,6882.T,JPX,Sansha Electric Manufacturing,Electric Appliances
+6890,6890.T,JPX,Ferrotec Holdings,Electric Appliances
+6894,6894.T,JPX,Pulstec Industrial,Electric Appliances
+6897,6897.T,JPX,Twinbird,Electric Appliances
+6898,6898.T,JPX,Tomita Electric,Electric Appliances
+6899,6899.T,JPX,Asti,Electric Appliances
+6901,6901.T,JPX,SAWAFUJI ELECTRIC,Electric Appliances
+6904,6904.T,JPX,Harada Industry,Electric Appliances
+6905,6905.T,JPX,Cosel,Electric Appliances
+6907,6907.T,JPX,Geomatec,Electric Appliances
+6908,6908.T,JPX,Iriso Electronics,Electric Appliances
+6912,6912.T,JPX,Kikusui Holdings,Electric Appliances
+6914,6914.T,JPX,Optex Group,Electric Appliances
+6915,6915.T,JPX,Chiyoda Integre,Electric Appliances
+6918,6918.T,JPX,Aval Data,Electric Appliances
+6919,6919.T,JPX,Kel,Electric Appliances
+6920,6920.T,JPX,Lasertec,Electric Appliances
+6923,6923.T,JPX,Stanley Electric,Electric Appliances
+6925,6925.T,JPX,Ushio,Electric Appliances
+6926,6926.T,JPX,Okaya Electric Industries,Electric Appliances
+6927,6927.T,JPX,Helios Techno Holding,Electric Appliances
+6928,6928.T,JPX,ENOMOTO,Electric Appliances
+6929,6929.T,JPX,Nippon Ceramic,Electric Appliances
+6930,6930.T,JPX,Nippon Antenna,Electric Appliances
+6932,6932.T,JPX,ENDO Lighting,Electric Appliances
+6937,6937.T,JPX,Furukawa Battery,Electric Appliances
+6938,6938.T,JPX,SOSHIN ELECTRIC,Electric Appliances
+6941,6941.T,JPX,Yamaichi Electronics,Electric Appliances
+6943,6943.T,JPX,NKK Switches,Electric Appliances
+6946,6946.T,JPX,Nippon Avionics,Electric Appliances
+6947,6947.T,JPX,ZUKEN,Electric Appliances
+6951,6951.T,JPX,Jeol,Electric Appliances
+6952,6952.T,JPX,Casio Computer,Electric Appliances
+6954,6954.T,JPX,Fanuc,Electric Appliances
+6955,6955.T,JPX,FDK,Electric Appliances
+6957,6957.T,JPX,Shibaura Electronics,Electric Appliances
+6958,6958.T,JPX,CMK,Electric Appliances
+6960,6960.T,JPX,Fukuda Denshi,Electric Appliances
+6961,6961.T,JPX,Enplas,Electric Appliances
+6962,6962.T,JPX,Daishinku,Electric Appliances
+6963,6963.T,JPX,Rohm,Electric Appliances
+6964,6964.T,JPX,Sanko,Electric Appliances
+6965,6965.T,JPX,Hamamatsu Photonics KK,Electric Appliances
+6966,6966.T,JPX,Mitsui High-tec,Electric Appliances
+6967,6967.T,JPX,Shinko Electric Industries,Electric Appliances
+6969,6969.T,JPX,Matsuo Electric,Electric Appliances
+6971,6971.T,JPX,Kyocera,Electric Appliances
+6976,6976.T,JPX,Taiyo Yuden,Electric Appliances
+6977,6977.T,JPX,Japan Resistor Mfg,Electric Appliances
+6981,6981.T,JPX,Murata Manufacturing,Electric Appliances
+6986,6986.T,JPX,Futaba,Electric Appliances
+6989,6989.T,JPX,Hokuriku Electric Industry,Electric Appliances
+6994,6994.T,JPX,Shizuki Electric,Electric Appliances
+6996,6996.T,JPX,Nichicon,Electric Appliances
+6997,6997.T,JPX,Nippon Chemi-Con,Electric Appliances
+6998,6998.T,JPX,Nippon Tungsten,Electric Appliances
+6999,6999.T,JPX,Koa,Electric Appliances
+7244,7244.T,JPX,Ichikoh Industries,Electric Appliances
+7276,7276.T,JPX,Koito Manufacturing,Electric Appliances
+7280,7280.T,JPX,Mitsuba,Electric Appliances
+7735,7735.T,JPX,Screen Holdings,Electric Appliances
+7739,7739.T,JPX,Canon Electronics,Electric Appliances
+7751,7751.T,JPX,Canon,Electric Appliances
+7752,7752.T,JPX,Ricoh,Electric Appliances
+7965,7965.T,JPX,Zojirushi,Electric Appliances
+7999,7999.T,JPX,MUTOH HOLDINGS,Electric Appliances
+8035,8035.T,JPX,Tokyo Electron,Electric Appliances
+9880,9880.T,JPX,Innotech,Electric Appliances
+176A,176A.T,JPX,Rezil,Electric Power & Gas
+7692,7692.T,JPX,Earth Infinity,Electric Power & Gas
+9501,9501.T,JPX,Tokyo Electric Power,Electric Power & Gas
+9502,9502.T,JPX,Chubu Electric Power,Electric Power & Gas
+9503,9503.T,JPX,Kansai Electric Power,Electric Power & Gas
+9504,9504.T,JPX,Chugoku Electric Power,Electric Power & Gas
+9505,9505.T,JPX,Hokuriku Electric Power,Electric Power & Gas
+9506,9506.T,JPX,Tohoku Electric Power,Electric Power & Gas
+9507,9507.T,JPX,Shikoku Electric Power,Electric Power & Gas
+9508,9508.T,JPX,Kyushu Electric Power,Electric Power & Gas
+9509,9509.T,JPX,Hokkaido Electric Power,Electric Power & Gas
+9511,9511.T,JPX,The Okinawa Electric Power,Electric Power & Gas
+9513,9513.T,JPX,Electric Power Development,Electric Power & Gas
+9514,9514.T,JPX,EF-ON,Electric Power & Gas
+9517,9517.T,JPX,eREX,Electric Power & Gas
+9519,9519.T,JPX,RENOVA,Electric Power & Gas
+9522,9522.T,JPX,Renewable Japan,Electric Power & Gas
+9531,9531.T,JPX,Tokyo Gas,Electric Power & Gas
+9532,9532.T,JPX,Osaka Gas,Electric Power & Gas
+9533,9533.T,JPX,Toho Gas,Electric Power & Gas
+9534,9534.T,JPX,Hokkaido Gas,Electric Power & Gas
+9535,9535.T,JPX,Hiroshima Gas,Electric Power & Gas
+9536,9536.T,JPX,Saibu Gas Holdings,Electric Power & Gas
+9537,9537.T,JPX,Hokuriku Gas,Electric Power & Gas
+9539,9539.T,JPX,Keiyo Gas,Electric Power & Gas
+9543,9543.T,JPX,Shizuoka Gas,Electric Power & Gas
+9551,9551.T,JPX,Metawater,Electric Power & Gas
+1301,1301.T,JPX,Kyokuyo,"Fishery, Agriculture & Forestry"
+1332,1332.T,JPX,Nissui,"Fishery, Agriculture & Forestry"
+1333,1333.T,JPX,Maruha Nichiro,"Fishery, Agriculture & Forestry"
+1375,1375.T,JPX,Yukiguni Maitake,"Fishery, Agriculture & Forestry"
+1376,1376.T,JPX,Kaneko Seeds,"Fishery, Agriculture & Forestry"
+1377,1377.T,JPX,Sakata Seed,"Fishery, Agriculture & Forestry"
+1379,1379.T,JPX,Hokuto,"Fishery, Agriculture & Forestry"
+1380,1380.T,JPX,Akikawa Foods & Farms,"Fishery, Agriculture & Forestry"
+1381,1381.T,JPX,AXYZ,"Fishery, Agriculture & Forestry"
+1382,1382.T,JPX,HOB,"Fishery, Agriculture & Forestry"
+1383,1383.T,JPX,Berg Earth,"Fishery, Agriculture & Forestry"
+1384,1384.T,JPX,Hokuryo,"Fishery, Agriculture & Forestry"
+2001,2001.T,JPX,Nippn,Foods
+2002,2002.T,JPX,Nisshin Seifun Group,Foods
+2003,2003.T,JPX,Nitto Fuji Flour Milling,Foods
+2004,2004.T,JPX,Showa Sangyo,Foods
+2009,2009.T,JPX,The Torigoe,Foods
+2053,2053.T,JPX,Chubu Shiryo,Foods
+2055,2055.T,JPX,Nichiwa Sangyo,Foods
+2060,2060.T,JPX,Feed One,Foods
+2107,2107.T,JPX,Toyo Sugar Refining,Foods
+2108,2108.T,JPX,Nippon Beet Sugar Manufacturing,Foods
+2109,2109.T,JPX,Mitsui DM Sugar Holdings,Foods
+2112,2112.T,JPX,Ensuiko Sugar Refining,Foods
+2114,2114.T,JPX,Fuji Nihon Seito,Foods
+2117,2117.T,JPX,Wellneo Sugar,Foods
+2201,2201.T,JPX,Morinaga,Foods
+2204,2204.T,JPX,Nakamuraya,Foods
+2206,2206.T,JPX,Ezaki Glico,Foods
+2207,2207.T,JPX,Meito Sangyo,Foods
+2208,2208.T,JPX,Bourbon,Foods
+2209,2209.T,JPX,Imuraya Group,Foods
+2211,2211.T,JPX,Fujiya,Foods
+2212,2212.T,JPX,Yamazaki Baking,Foods
+2215,2215.T,JPX,First Baking,Foods
+2216,2216.T,JPX,Kanro,Foods
+2217,2217.T,JPX,Morozoff,Foods
+2220,2220.T,JPX,Kameda Seika,Foods
+2221,2221.T,JPX,Iwatsuka Confectionery,Foods
+2222,2222.T,JPX,Kotobuki Spirits,Foods
+2224,2224.T,JPX,Como,Foods
+2226,2226.T,JPX,Koike-Ya,Foods
+2229,2229.T,JPX,CALBEE,Foods
+2264,2264.T,JPX,Morinaga Milk Industry,Foods
+2266,2266.T,JPX,Rokko Butter,Foods
+2267,2267.T,JPX,Yakult Honsha,Foods
+2268,2268.T,JPX,B-R 31 Ice Cream,Foods
+2269,2269.T,JPX,Meiji Holdings,Foods
+2270,2270.T,JPX,Megmilk Snow Brand,Foods
+2281,2281.T,JPX,Prima Meat Packers,Foods
+2282,2282.T,JPX,NH Foods,Foods
+2286,2286.T,JPX,Hayashikane Sangyo,Foods
+2288,2288.T,JPX,Marudai Food,Foods
+2291,2291.T,JPX,Fukutome Meat Packers,Foods
+2292,2292.T,JPX,S Foods,Foods
+2293,2293.T,JPX,Takizawa Ham,Foods
+2294,2294.T,JPX,Kakiyasu Honten,Foods
+2296,2296.T,JPX,Itoham Yonekyu Holdings,Foods
+2501,2501.T,JPX,Sapporo Holdings,Foods
+2502,2502.T,JPX,Asahi Group Holdings,Foods
+2503,2503.T,JPX,Kirin Holdings,Foods
+2531,2531.T,JPX,Takara Holdings,Foods
+2533,2533.T,JPX,Oenon Holdings,Foods
+2540,2540.T,JPX,Yomeishu Seizo,Foods
+2573,2573.T,JPX,Hokkaido Coca-Cola Bottling,Foods
+2579,2579.T,JPX,Coca-Cola Bottlers Japan Holdings,Foods
+2585,2585.T,JPX,Lifedrink,Foods
+2586,2586.T,JPX,Fruta Fruta,Foods
+2587,2587.T,JPX,Suntory Beverage & Food,Foods
+2588,2588.T,JPX,Premium Water Holdings,Foods
+2590,2590.T,JPX,DyDo Group Holdings,Foods
+2593,2593.T,JPX,ITO EN,Foods
+2594,2594.T,JPX,Key Coffee,Foods
+2597,2597.T,JPX,Unicafe,Foods
+2599,2599.T,JPX,Japan Foods,Foods
+2602,2602.T,JPX,Nisshin Oillio Group,Foods
+2607,2607.T,JPX,Fuji Oil Holdings,Foods
+2612,2612.T,JPX,Kadoya Sesame Mills,Foods
+2613,2613.T,JPX,J-Oil Mills,Foods
+2801,2801.T,JPX,Kikkoman,Foods
+2802,2802.T,JPX,Ajinomoto,Foods
+2804,2804.T,JPX,Bull-Dog Sauce,Foods
+2805,2805.T,JPX,S&B Foods,Foods
+2806,2806.T,JPX,Yutaka Foods,Foods
+2809,2809.T,JPX,Kewpie,Foods
+2810,2810.T,JPX,House Foods Group,Foods
+2811,2811.T,JPX,Kagome,Foods
+2813,2813.T,JPX,Wakou Shokuhin,Foods
+2814,2814.T,JPX,Sato Foods Industries,Foods
+2815,2815.T,JPX,Ariake Japan,Foods
+2816,2816.T,JPX,Daisho,Foods
+2818,2818.T,JPX,Pietro,Foods
+2819,2819.T,JPX,Ebara Foods Industry,Foods
+2820,2820.T,JPX,Yamami,Foods
+2830,2830.T,JPX,AOHATA,Foods
+2831,2831.T,JPX,Hagoromo Foods,Foods
+2871,2871.T,JPX,Nichirei,Foods
+2872,2872.T,JPX,Seihyo,Foods
+2875,2875.T,JPX,Toyo Suisan Kaisha,Foods
+2876,2876.T,JPX,Delsole,Foods
+2877,2877.T,JPX,NittoBest,Foods
+2882,2882.T,JPX,Eat & Holdings,Foods
+2883,2883.T,JPX,Dairei,Foods
+2884,2884.T,JPX,Yoshimura Food Holdings KK,Foods
+2892,2892.T,JPX,Nihon Shokuhin Kako,Foods
+2894,2894.T,JPX,Ishii Food,Foods
+2897,2897.T,JPX,Nissin Foods Holdings,Foods
+2899,2899.T,JPX,Nagatanien Holdings,Foods
+2901,2901.T,JPX,Ishigaki Foods,Foods
+2903,2903.T,JPX,Shinobu Foods Products,Foods
+2904,2904.T,JPX,Ichimasa Kamaboko,Foods
+2907,2907.T,JPX,Ahjikan,Foods
+2908,2908.T,JPX,Fujicco,Foods
+2910,2910.T,JPX,Rock Field,Foods
+2911,2911.T,JPX,Asahimatsu Foods,Foods
+2914,2914.T,JPX,Japan Tobacco,Foods
+2915,2915.T,JPX,KENKO Mayonnaise,Foods
+2916,2916.T,JPX,Semba Tohka Industries,Foods
+2917,2917.T,JPX,OHMORIYA,Foods
+2918,2918.T,JPX,Warabeya Nichiyo Holdings,Foods
+2922,2922.T,JPX,Natori,Foods
+2923,2923.T,JPX,Sato Foods,Foods
+2924,2924.T,JPX,Ifuji Sangyo,Foods
+2926,2926.T,JPX,Shinozakiya,Foods
+2927,2927.T,JPX,AFC HD AMS Life Science,Foods
+2929,2929.T,JPX,Pharma Foods International,Foods
+2931,2931.T,JPX,euglena,Foods
+2932,2932.T,JPX,STI Foods Holdings,Foods
+2933,2933.T,JPX,Kibun Foods,Foods
+2934,2934.T,JPX,J Frontier,Foods
+2935,2935.T,JPX,Pickles Holdings,Foods
+2936,2936.T,JPX,Base Food,Foods
+2937,2937.T,JPX,St.Cousair,Foods
+2938,2938.T,JPX,Okamura Foods,Foods
+4404,4404.T,JPX,Miyoshi Oil & Fat,Foods
+4526,4526.T,JPX,Riken Vitamin,Foods
+3110,3110.T,JPX,Nitto Boseki,Glass & Ceramics Products
+4026,4026.T,JPX,Konoshima Chemical,Glass & Ceramics Products
+5201,5201.T,JPX,AGC,Glass & Ceramics Products
+5202,5202.T,JPX,Nippon Sheet Glass,Glass & Ceramics Products
+5204,5204.T,JPX,Ishizuka Glass,Glass & Ceramics Products
+5210,5210.T,JPX,Nihon Yamamura Glass,Glass & Ceramics Products
+5214,5214.T,JPX,Nippon Electric Glass,Glass & Ceramics Products
+5216,5216.T,JPX,Kuramoto,Glass & Ceramics Products
+5217,5217.T,JPX,Techno Quartz,Glass & Ceramics Products
+5218,5218.T,JPX,Ohara,Glass & Ceramics Products
+5232,5232.T,JPX,Sumitomo Osaka Cement,Glass & Ceramics Products
+5233,5233.T,JPX,Taiheiyo Cement,Glass & Ceramics Products
+5237,5237.T,JPX,Nozawa,Glass & Ceramics Products
+5262,5262.T,JPX,Nippon Hume,Glass & Ceramics Products
+5268,5268.T,JPX,Asahi Concrete Works,Glass & Ceramics Products
+5269,5269.T,JPX,Nippon Concrete Industries,Glass & Ceramics Products
+5271,5271.T,JPX,Toyo Asano Foundation,Glass & Ceramics Products
+5273,5273.T,JPX,Mitani Sekisan,Glass & Ceramics Products
+5277,5277.T,JPX,Spancrete,Glass & Ceramics Products
+5279,5279.T,JPX,Nihon Kogyo,Glass & Ceramics Products
+5282,5282.T,JPX,GEOSTR,Glass & Ceramics Products
+5284,5284.T,JPX,Yamau Holdings,Glass & Ceramics Products
+5285,5285.T,JPX,YAMAX,Glass & Ceramics Products
+5287,5287.T,JPX,Ito Yogyo,Glass & Ceramics Products
+5288,5288.T,JPX,Asia Pile Holdings,Glass & Ceramics Products
+5290,5290.T,JPX,Vertex,Glass & Ceramics Products
+5301,5301.T,JPX,Tokai Carbon,Glass & Ceramics Products
+5302,5302.T,JPX,Nippon Carbon,Glass & Ceramics Products
+5304,5304.T,JPX,SEC CARBON,Glass & Ceramics Products
+5310,5310.T,JPX,Toyo Tanso,Glass & Ceramics Products
+5331,5331.T,JPX,Noritake,Glass & Ceramics Products
+5332,5332.T,JPX,TOTO,Glass & Ceramics Products
+5333,5333.T,JPX,NGK Insulators,Glass & Ceramics Products
+5334,5334.T,JPX,Niterra,Glass & Ceramics Products
+5337,5337.T,JPX,Danto Holdings,Glass & Ceramics Products
+5341,5341.T,JPX,Asahi Eito Holdings,Glass & Ceramics Products
+5344,5344.T,JPX,Maruwa,Glass & Ceramics Products
+5351,5351.T,JPX,Shinagawa Refractories,Glass & Ceramics Products
+5352,5352.T,JPX,Krosaki Harima,Glass & Ceramics Products
+5355,5355.T,JPX,Nippon Crucible,Glass & Ceramics Products
+5356,5356.T,JPX,Mino Ceramic,Glass & Ceramics Products
+5357,5357.T,JPX,Yotai Refractories,Glass & Ceramics Products
+5363,5363.T,JPX,TYK,Glass & Ceramics Products
+5367,5367.T,JPX,Nikkato,Glass & Ceramics Products
+5368,5368.T,JPX,Japan Insulation,Glass & Ceramics Products
+5380,5380.T,JPX,Shinto,Glass & Ceramics Products
+5381,5381.T,JPX,Mipox,Glass & Ceramics Products
+5384,5384.T,JPX,Fujimi,Glass & Ceramics Products
+5386,5386.T,JPX,Tsuruya,Glass & Ceramics Products
+5388,5388.T,JPX,Kunimine Industries,Glass & Ceramics Products
+5391,5391.T,JPX,A&A Material,Glass & Ceramics Products
+5393,5393.T,JPX,Nichias,Glass & Ceramics Products
+5395,5395.T,JPX,Riken Corundum,Glass & Ceramics Products
+7943,7943.T,JPX,Nichiha,Glass & Ceramics Products
+135A,135A.T,JPX,Vrain Solution,Information & Communication
+137A,137A.T,JPX,Cocolive,Information & Communication
+145A,145A.T,JPX,L is B,Information & Communication
+147A,147A.T,JPX,Soracom,Information & Communication
+148A,148A.T,JPX,Hatch Work,Information & Communication
+149A,149A.T,JPX,Thinca,Information & Communication
+153A,153A.T,JPX,Caulis,Information & Communication
+155A,155A.T,JPX,Information Strategy and Technology,Information & Communication
+173A,173A.T,JPX,Hammock,Information & Communication
+175A,175A.T,JPX,Will Smart,Information & Communication
+184A,184A.T,JPX,Manabi-aid,Information & Communication
+1973,1973.T,JPX,NEC Networks & System Integration,Information & Communication
+198A,198A.T,JPX,PostPrime,Information & Communication
+202A,202A.T,JPX,Mamezo Digital Holdings,Information & Communication
+2138,2138.T,JPX,CROOZ,Information & Communication
+2303,2303.T,JPX,Dawn,Information & Communication
+2307,2307.T,JPX,Cross Cat,Information & Communication
+2315,2315.T,JPX,Caica Digital,Information & Communication
+2317,2317.T,JPX,Systena,Information & Communication
+2321,2321.T,JPX,Softfront Holdings,Information & Communication
+2323,2323.T,JPX,fonfun,Information & Communication
+2326,2326.T,JPX,Digital Arts,Information & Communication
+2327,2327.T,JPX,NS Solutions,Information & Communication
+2329,2329.T,JPX,Tohokushinsha Film,Information & Communication
+2330,2330.T,JPX,Forside,Information & Communication
+2332,2332.T,JPX,Quest,Information & Communication
+2335,2335.T,JPX,Cube System,Information & Communication
+2338,2338.T,JPX,Quantum Solutions,Information & Communication
+2345,2345.T,JPX,Kushim,Information & Communication
+2349,2349.T,JPX,Nippon Information Development,Information & Communication
+2351,2351.T,JPX,ASJ,Information & Communication
+2354,2354.T,JPX,Ye Digital,Information & Communication
+2359,2359.T,JPX,Core,Information & Communication
+2411,2411.T,JPX,Gendai Agency,Information & Communication
+2477,2477.T,JPX,Temairazu,Information & Communication
+2480,2480.T,JPX,System Location,Information & Communication
+2484,2484.T,JPX,Demae-Can,Information & Communication
+3031,3031.T,JPX,Raccoon Holdings,Information & Communication
+3040,3040.T,JPX,Soliton Systems KK,Information & Communication
+3042,3042.T,JPX,SecuAvail,Information & Communication
+3371,3371.T,JPX,Softcreate Holdings,Information & Communication
+3622,3622.T,JPX,Netyear Group,Information & Communication
+3623,3623.T,JPX,Billing System,Information & Communication
+3624,3624.T,JPX,Axel Mark,Information & Communication
+3625,3625.T,JPX,Techfirm Holdings,Information & Communication
+3626,3626.T,JPX,TIS,Information & Communication
+3627,3627.T,JPX,Tecmira Holdings,Information & Communication
+3628,3628.T,JPX,Data Horizon,Information & Communication
+3632,3632.T,JPX,GREE,Information & Communication
+3633,3633.T,JPX,GMO Pepabo,Information & Communication
+3634,3634.T,JPX,Sockets,Information & Communication
+3635,3635.T,JPX,Koei Tecmo Holdings,Information & Communication
+3636,3636.T,JPX,Mitsubishi Research Institute,Information & Communication
+3639,3639.T,JPX,Voltage,Information & Communication
+3640,3640.T,JPX,Densan,Information & Communication
+3641,3641.T,JPX,Papyless,Information & Communication
+3645,3645.T,JPX,Medical Net,Information & Communication
+3646,3646.T,JPX,Ekitan,Information & Communication
+3647,3647.T,JPX,G Three Holdings,Information & Communication
+3648,3648.T,JPX,AGS,Information & Communication
+3649,3649.T,JPX,Findex,Information & Communication
+3652,3652.T,JPX,Digital Media Professionals,Information & Communication
+3653,3653.T,JPX,Morpho,Information & Communication
+3655,3655.T,JPX,BrainPad,Information & Communication
+3656,3656.T,JPX,KLab,Information & Communication
+3657,3657.T,JPX,Pole To Win Holdings,Information & Communication
+3659,3659.T,JPX,NEXON,Information & Communication
+3660,3660.T,JPX,istyle,Information & Communication
+3661,3661.T,JPX,m-up holdings,Information & Communication
+3662,3662.T,JPX,Ateam,Information & Communication
+3663,3663.T,JPX,Celsys,Information & Communication
+3664,3664.T,JPX,Mobcast Holdings,Information & Communication
+3665,3665.T,JPX,Enigmo,Information & Communication
+3666,3666.T,JPX,Tecnos Japan,Information & Communication
+3667,3667.T,JPX,Enish,Information & Communication
+3668,3668.T,JPX,COLOPL,Information & Communication
+3670,3670.T,JPX,Kyoritsu Computer & Communication,Information & Communication
+3671,3671.T,JPX,SOFTMAX,Information & Communication
+3672,3672.T,JPX,AltPlus,Information & Communication
+3673,3673.T,JPX,Broadleaf,Information & Communication
+3674,3674.T,JPX,Aucfan,Information & Communication
+3675,3675.T,JPX,Cross Marketing Group,Information & Communication
+3676,3676.T,JPX,Digital Hearts Holdings,Information & Communication
+3678,3678.T,JPX,Media Do,Information & Communication
+3679,3679.T,JPX,ZIGExN,Information & Communication
+3680,3680.T,JPX,Hotto Link,Information & Communication
+3681,3681.T,JPX,V-cube,Information & Communication
+3682,3682.T,JPX,Encourage Technologies,Information & Communication
+3683,3683.T,JPX,CYBERLINKS,Information & Communication
+3686,3686.T,JPX,DLE,Information & Communication
+3687,3687.T,JPX,Fixstars,Information & Communication
+3688,3688.T,JPX,Carta Holdings,Information & Communication
+3690,3690.T,JPX,YRGLM,Information & Communication
+3691,3691.T,JPX,Digital Plus,Information & Communication
+3692,3692.T,JPX,FFRI Security,Information & Communication
+3694,3694.T,JPX,Optim,Information & Communication
+3695,3695.T,JPX,GMO Research & AI,Information & Communication
+3696,3696.T,JPX,Ceres,Information & Communication
+3697,3697.T,JPX,Shift,Information & Communication
+3698,3698.T,JPX,CRI Middleware,Information & Communication
+3710,3710.T,JPX,Jorudan,Information & Communication
+3712,3712.T,JPX,Information Planning,Information & Communication
+3719,3719.T,JPX,Gexeed,Information & Communication
+3723,3723.T,JPX,Nihon Falcom,Information & Communication
+3727,3727.T,JPX,Aplix,Information & Communication
+3733,3733.T,JPX,Software Service,Information & Communication
+3738,3738.T,JPX,T-Gaia,Information & Communication
+3741,3741.T,JPX,Systems Engineering Consultants,Information & Communication
+3744,3744.T,JPX,SIOS,Information & Communication
+3747,3747.T,JPX,Intertrade,Information & Communication
+3750,3750.T,JPX,Cytori Cell Research Institute,Information & Communication
+3753,3753.T,JPX,Flight Solutions,Information & Communication
+3758,3758.T,JPX,Aeria,Information & Communication
+3760,3760.T,JPX,CAVE Interactive,Information & Communication
+3762,3762.T,JPX,Techmatrix,Information & Communication
+3763,3763.T,JPX,Pro-Ship,Information & Communication
+3765,3765.T,JPX,GungHo Online Entertainment,Information & Communication
+3766,3766.T,JPX,SYSTEMS DESIGN,Information & Communication
+3768,3768.T,JPX,Riskmonster.com,Information & Communication
+3769,3769.T,JPX,GMO Payment Gateway,Information & Communication
+3770,3770.T,JPX,Zappallas,Information & Communication
+3771,3771.T,JPX,System Research,Information & Communication
+3773,3773.T,JPX,Advanced Media,Information & Communication
+3774,3774.T,JPX,Internet Initiative Japan,Information & Communication
+3776,3776.T,JPX,BroadBand Tower,Information & Communication
+3777,3777.T,JPX,Environment Friendly Holdings,Information & Communication
+3778,3778.T,JPX,SAKURA Internet,Information & Communication
+3779,3779.T,JPX,J Escom Holdings,Information & Communication
+3787,3787.T,JPX,Techno Mathematical,Information & Communication
+3788,3788.T,JPX,GMO Globalsign Holdings KK,Information & Communication
+3791,3791.T,JPX,IG Port,Information & Communication
+3793,3793.T,JPX,Drecom,Information & Communication
+3796,3796.T,JPX,e-Seikatsu,Information & Communication
+3798,3798.T,JPX,ULS Group,Information & Communication
+3799,3799.T,JPX,Keyware Solutions,Information & Communication
+3800,3800.T,JPX,Unirita,Information & Communication
+3802,3802.T,JPX,Ecomic,Information & Communication
+3803,3803.T,JPX,Image Information,Information & Communication
+3804,3804.T,JPX,System D,Information & Communication
+3807,3807.T,JPX,FISCO,Information & Communication
+3810,3810.T,JPX,CyberStep,Information & Communication
+3814,3814.T,JPX,Alphax Food System,Information & Communication
+3815,3815.T,JPX,Media Kobo,Information & Communication
+3816,3816.T,JPX,Daiwa Computer,Information & Communication
+3817,3817.T,JPX,SRA Holdings,Information & Communication
+3823,3823.T,JPX,The Why How Do,Information & Communication
+3826,3826.T,JPX,System Integrator,Information & Communication
+3834,3834.T,JPX,ASAHI Net,Information & Communication
+3835,3835.T,JPX,eBASE,Information & Communication
+3836,3836.T,JPX,Avant Group,Information & Communication
+3837,3837.T,JPX,Ad-Sol Nissin,Information & Communication
+3839,3839.T,JPX,ODK Solutions,Information & Communication
+3840,3840.T,JPX,PATH,Information & Communication
+3841,3841.T,JPX,Jedat,Information & Communication
+3842,3842.T,JPX,Nextgen,Information & Communication
+3843,3843.T,JPX,FreeBit,Information & Communication
+3844,3844.T,JPX,Comture,Information & Communication
+3845,3845.T,JPX,I-Freek Mobile,Information & Communication
+3847,3847.T,JPX,Pacific Systems,Information & Communication
+3848,3848.T,JPX,Data Applications,Information & Communication
+3850,3850.T,JPX,Ntt Data Intramart,Information & Communication
+3851,3851.T,JPX,Nippon Ichi Software,Information & Communication
+3853,3853.T,JPX,Asteria,Information & Communication
+3854,3854.T,JPX,I'll,Information & Communication
+3857,3857.T,JPX,LAC,Information & Communication
+3858,3858.T,JPX,Ubiquitous AI,Information & Communication
+3900,3900.T,JPX,CrowdWorks,Information & Communication
+3901,3901.T,JPX,MarkLines,Information & Communication
+3902,3902.T,JPX,Medical Data Vision,Information & Communication
+3903,3903.T,JPX,Gumi,Information & Communication
+3904,3904.T,JPX,Kayac,Information & Communication
+3905,3905.T,JPX,Datasection,Information & Communication
+3907,3907.T,JPX,Silicon Studio,Information & Communication
+3908,3908.T,JPX,Collabos,Information & Communication
+3909,3909.T,JPX,Showcase,Information & Communication
+3910,3910.T,JPX,MKSystem,Information & Communication
+3911,3911.T,JPX,Aiming,Information & Communication
+3912,3912.T,JPX,Mobile Factory,Information & Communication
+3913,3913.T,JPX,GreenBee,Information & Communication
+3914,3914.T,JPX,JIG-SAW,Information & Communication
+3915,3915.T,JPX,TerraSky,Information & Communication
+3916,3916.T,JPX,Digital Information Technologies,Information & Communication
+3917,3917.T,JPX,IRidge,Information & Communication
+3918,3918.T,JPX,PCI Holdings,Information & Communication
+3920,3920.T,JPX,Internetworking and Broadband Consulting,Information & Communication
+3921,3921.T,JPX,NeoJapan,Information & Communication
+3922,3922.T,JPX,PR TIMES,Information & Communication
+3923,3923.T,JPX,Rakus,Information & Communication
+3924,3924.T,JPX,R&D Computer,Information & Communication
+3925,3925.T,JPX,Double Standard,Information & Communication
+3926,3926.T,JPX,Open Door,Information & Communication
+3927,3927.T,JPX,Fuva Brain,Information & Communication
+3928,3928.T,JPX,Mynet,Information & Communication
+3929,3929.T,JPX,Socialwire,Information & Communication
+3930,3930.T,JPX,Hatena,Information & Communication
+3931,3931.T,JPX,Value Golf,Information & Communication
+3932,3932.T,JPX,Akatsuki,Information & Communication
+3933,3933.T,JPX,CHieru,Information & Communication
+3934,3934.T,JPX,Benefit Japan,Information & Communication
+3935,3935.T,JPX,Edia,Information & Communication
+3936,3936.T,JPX,Globalway,Information & Communication
+3937,3937.T,JPX,Ubicom Holdings,Information & Communication
+3939,3939.T,JPX,Kanamic Network,Information & Communication
+3940,3940.T,JPX,Nomura System,Information & Communication
+3961,3961.T,JPX,Silver Egg Technology,Information & Communication
+3962,3962.T,JPX,Change Holdings,Information & Communication
+3963,3963.T,JPX,Synchro Food,Information & Communication
+3964,3964.T,JPX,AUCNET,Information & Communication
+3965,3965.T,JPX,Capital Asset Planning,Information & Communication
+3967,3967.T,JPX,Eltes,Information & Communication
+3968,3968.T,JPX,Segue Group,Information & Communication
+3969,3969.T,JPX,Atled,Information & Communication
+3970,3970.T,JPX,Innovation,Information & Communication
+3974,3974.T,JPX,SCAT,Information & Communication
+3976,3976.T,JPX,SHANON,Information & Communication
+3978,3978.T,JPX,Macromill,Information & Communication
+3979,3979.T,JPX,ULURU,Information & Communication
+3981,3981.T,JPX,Beaglee,Information & Communication
+3983,3983.T,JPX,oRo,Information & Communication
+3984,3984.T,JPX,User Local,Information & Communication
+3985,3985.T,JPX,TEMONA,Information & Communication
+3986,3986.T,JPX,bBreak Systems,Information & Communication
+3987,3987.T,JPX,Ecomott,Information & Communication
+3988,3988.T,JPX,SYS Holdings,Information & Communication
+3989,3989.T,JPX,SharingTechnology,Information & Communication
+3990,3990.T,JPX,UUUM,Information & Communication
+3991,3991.T,JPX,Wantedly,Information & Communication
+3992,3992.T,JPX,Needs Well,Information & Communication
+3993,3993.T,JPX,PKSHA Technology,Information & Communication
+3994,3994.T,JPX,Money Forward,Information & Communication
+3996,3996.T,JPX,Signpost,Information & Communication
+3997,3997.T,JPX,Trade Works,Information & Communication
+3998,3998.T,JPX,SuRaLa Net,Information & Communication
+4011,4011.T,JPX,Headwaters,Information & Communication
+4012,4012.T,JPX,Axis,Information & Communication
+4013,4013.T,JPX,Kinjiro,Information & Communication
+4014,4014.T,JPX,Karadanote,Information & Communication
+4015,4015.T,JPX,Paycloud Holdings,Information & Communication
+4016,4016.T,JPX,MIT Holdings,Information & Communication
+4017,4017.T,JPX,Creema,Information & Communication
+4019,4019.T,JPX,Stamen,Information & Communication
+4020,4020.T,JPX,Betrend,Information & Communication
+4051,4051.T,JPX,GMO Financial Gate,Information & Communication
+4052,4052.T,JPX,Ficha,Information & Communication
+4053,4053.T,JPX,Sun,Information & Communication
+4054,4054.T,JPX,Japan PropTech,Information & Communication
+4055,4055.T,JPX,T&S Group,Information & Communication
+4056,4056.T,JPX,Neural Group,Information & Communication
+4057,4057.T,JPX,Interfactory,Information & Communication
+4058,4058.T,JPX,Toyokumo,Information & Communication
+4059,4059.T,JPX,Magmag,Information & Communication
+4060,4060.T,JPX,Rakumo,Information & Communication
+4068,4068.T,JPX,Basis,Information & Communication
+4069,4069.T,JPX,BlueMeme,Information & Communication
+4071,4071.T,JPX,Plus Alpha Consulting,Information & Communication
+4072,4072.T,JPX,Densan System Holdings,Information & Communication
+4073,4073.T,JPX,Global Communication Planning,Information & Communication
+4074,4074.T,JPX,LaKeel,Information & Communication
+4075,4075.T,JPX,Brains Technology,Information & Communication
+4076,4076.T,JPX,CNS,Information & Communication
+4165,4165.T,JPX,Plaid,Information & Communication
+4166,4166.T,JPX,Cacco,Information & Communication
+4167,4167.T,JPX,Kokopelli,Information & Communication
+4168,4168.T,JPX,Yappli,Information & Communication
+4169,4169.T,JPX,Enechange,Information & Communication
+4170,4170.T,JPX,Kaizen Platform,Information & Communication
+4171,4171.T,JPX,Global Information,Information & Communication
+4172,4172.T,JPX,Towa Hi System,Information & Communication
+4173,4173.T,JPX,WACUL,Information & Communication
+4174,4174.T,JPX,Appirits,Information & Communication
+4175,4175.T,JPX,Coly,Information & Communication
+4176,4176.T,JPX,Coconala,Information & Communication
+4177,4177.T,JPX,I-plug,Information & Communication
+4178,4178.T,JPX,Sharing Innovations,Information & Communication
+4179,4179.T,JPX,G-Next,Information & Communication
+4180,4180.T,JPX,Appier Group,Information & Communication
+4192,4192.T,JPX,SpiderPlus,Information & Communication
+4193,4193.T,JPX,Fabrica Holdings,Information & Communication
+4194,4194.T,JPX,Visional,Information & Communication
+4196,4196.T,JPX,Neo Marketing,Information & Communication
+4197,4197.T,JPX,Asmarq,Information & Communication
+4198,4198.T,JPX,Tenda,Information & Communication
+4199,4199.T,JPX,WonderPlanet,Information & Communication
+4255,4255.T,JPX,Thecoo,Information & Communication
+4256,4256.T,JPX,Cynd,Information & Communication
+4258,4258.T,JPX,Amiya,Information & Communication
+4259,4259.T,JPX,ExaWizards,Information & Communication
+4260,4260.T,JPX,Hybrid Technologies,Information & Communication
+4261,4261.T,JPX,AsiaQuest,Information & Communication
+4262,4262.T,JPX,Nifty Lifestyle,Information & Communication
+4263,4263.T,JPX,Susmed,Information & Communication
+4264,4264.T,JPX,Secure,Information & Communication
+4265,4265.T,JPX,Institution for a Global Society,Information & Communication
+4267,4267.T,JPX,Lightworks,Information & Communication
+4268,4268.T,JPX,Edge Technology,Information & Communication
+4270,4270.T,JPX,BeeX,Information & Communication
+4284,4284.T,JPX,SOLXYZ,Information & Communication
+4287,4287.T,JPX,Just Planning,Information & Communication
+4288,4288.T,JPX,Asgent,Information & Communication
+4295,4295.T,JPX,Faith,Information & Communication
+4298,4298.T,JPX,Proto,Information & Communication
+4299,4299.T,JPX,HIMACS,Information & Communication
+4304,4304.T,JPX,Estore,Information & Communication
+4307,4307.T,JPX,Nomura Research Institute,Information & Communication
+4308,4308.T,JPX,J-Stream,Information & Communication
+4316,4316.T,JPX,BeMap,Information & Communication
+4320,4320.T,JPX,CE Holdings,Information & Communication
+4323,4323.T,JPX,Japan System Techniques,Information & Communication
+4326,4326.T,JPX,INTAGE HOLDINGS,Information & Communication
+4333,4333.T,JPX,Toho System Science,Information & Communication
+4334,4334.T,JPX,YUKE'S,Information & Communication
+4335,4335.T,JPX,IPS,Information & Communication
+4344,4344.T,JPX,Sourcenext,Information & Communication
+4348,4348.T,JPX,Infocom,Information & Communication
+4356,4356.T,JPX,Applied Technology,Information & Communication
+4370,4370.T,JPX,Mobilus,Information & Communication
+4371,4371.T,JPX,Core Concept Technologies,Information & Communication
+4372,4372.T,JPX,Ymirlink,Information & Communication
+4373,4373.T,JPX,Simplex Holdings,Information & Communication
+4374,4374.T,JPX,Robot Payment,Information & Communication
+4375,4375.T,JPX,Safie,Information & Communication
+4376,4376.T,JPX,Kufu,Information & Communication
+4377,4377.T,JPX,One Career,Information & Communication
+4378,4378.T,JPX,Cinc,Information & Communication
+4379,4379.T,JPX,Photosynth,Information & Communication
+4380,4380.T,JPX,M - mart,Information & Communication
+4381,4381.T,JPX,Bplats,Information & Communication
+4382,4382.T,JPX,Heroz,Information & Communication
+4384,4384.T,JPX,Raksul,Information & Communication
+4385,4385.T,JPX,Mercari,Information & Communication
+4386,4386.T,JPX,SIG Group,Information & Communication
+4387,4387.T,JPX,Zuu,Information & Communication
+4388,4388.T,JPX,AI,Information & Communication
+4389,4389.T,JPX,Property Data Bank,Information & Communication
+4390,4390.T,JPX,IPS,Information & Communication
+4391,4391.T,JPX,Logizard,Information & Communication
+4392,4392.T,JPX,Future Innovation Group,Information & Communication
+4393,4393.T,JPX,Bank of Innovation,Information & Communication
+4394,4394.T,JPX,eXmotion,Information & Communication
+4395,4395.T,JPX,Accrete,Information & Communication
+4396,4396.T,JPX,System Support,Information & Communication
+4397,4397.T,JPX,TeamSpirit,Information & Communication
+4398,4398.T,JPX,BroadBand Security,Information & Communication
+4412,4412.T,JPX,Science Arts,Information & Communication
+4413,4413.T,JPX,Baudroie,Information & Communication
+4414,4414.T,JPX,Flect,Information & Communication
+4415,4415.T,JPX,Broad Enterprise,Information & Communication
+4416,4416.T,JPX,True Data,Information & Communication
+4417,4417.T,JPX,Global Security Experts,Information & Communication
+4418,4418.T,JPX,Japan Data Science Consortium,Information & Communication
+4419,4419.T,JPX,Finatext Holdings,Information & Communication
+4420,4420.T,JPX,eSOL,Information & Communication
+4421,4421.T,JPX,D I System,Information & Communication
+4422,4422.T,JPX,Valuenex Japan,Information & Communication
+4424,4424.T,JPX,Amazia,Information & Communication
+4425,4425.T,JPX,Kudan,Information & Communication
+4427,4427.T,JPX,EduLab,Information & Communication
+4428,4428.T,JPX,Sinops,Information & Communication
+4429,4429.T,JPX,Ricksoft,Information & Communication
+4430,4430.T,JPX,Tokai Soft,Information & Communication
+4431,4431.T,JPX,Smaregi,Information & Communication
+4432,4432.T,JPX,WingArc1st,Information & Communication
+4433,4433.T,JPX,HITO-Communications Holdings,Information & Communication
+4434,4434.T,JPX,Serverworks,Information & Communication
+4435,4435.T,JPX,kaonavi,Information & Communication
+4436,4436.T,JPX,Minkabu The Infonoid,Information & Communication
+4438,4438.T,JPX,Welby,Information & Communication
+4439,4439.T,JPX,TOUMEI,Information & Communication
+4440,4440.T,JPX,WITZ,Information & Communication
+4441,4441.T,JPX,Tobila Systems,Information & Communication
+4442,4442.T,JPX,Valtes Holdings,Information & Communication
+4443,4443.T,JPX,Sansan,Information & Communication
+4444,4444.T,JPX,infoNet,Information & Communication
+4445,4445.T,JPX,Living Technologies,Information & Communication
+4446,4446.T,JPX,Link-U Group,Information & Communication
+4447,4447.T,JPX,PBSystems,Information & Communication
+4448,4448.T,JPX,Chatwork,Information & Communication
+4449,4449.T,JPX,Giftee,Information & Communication
+4450,4450.T,JPX,Power Solutions,Information & Communication
+4475,4475.T,JPX,Hennge KK,Information & Communication
+4476,4476.T,JPX,AI Cross,Information & Communication
+4477,4477.T,JPX,BASE,Information & Communication
+4478,4478.T,JPX,Freee KK,Information & Communication
+4479,4479.T,JPX,Makuake,Information & Communication
+4480,4480.T,JPX,MEDLEY,Information & Communication
+4481,4481.T,JPX,Base,Information & Communication
+4482,4482.T,JPX,Wills,Information & Communication
+4483,4483.T,JPX,JMDC,Information & Communication
+4484,4484.T,JPX,Lancers,Information & Communication
+4485,4485.T,JPX,JTower,Information & Communication
+4486,4486.T,JPX,Unite and Grow,Information & Communication
+4487,4487.T,JPX,Spacemarket,Information & Communication
+4488,4488.T,JPX,AI inside,Information & Communication
+4490,4490.T,JPX,VisasQ,Information & Communication
+4491,4491.T,JPX,Computer Management,Information & Communication
+4492,4492.T,JPX,Genetec,Information & Communication
+4493,4493.T,JPX,Cyber Security Cloud,Information & Communication
+4494,4494.T,JPX,Vario Secure,Information & Communication
+4495,4495.T,JPX,i Cubed Systems,Information & Communication
+4496,4496.T,JPX,Commerce One Holdings,Information & Communication
+4498,4498.T,JPX,Cybertrust Japan,Information & Communication
+4499,4499.T,JPX,Speee,Information & Communication
+4644,4644.T,JPX,Imagineer,Information & Communication
+4662,4662.T,JPX,Focus Systems,Information & Communication
+4667,4667.T,JPX,Aisan Technology,Information & Communication
+4674,4674.T,JPX,Cresco,Information & Communication
+4676,4676.T,JPX,FUJI Media Holdings,Information & Communication
+4684,4684.T,JPX,OBIC,Information & Communication
+4685,4685.T,JPX,Ryoyu Systems,Information & Communication
+4686,4686.T,JPX,Justsystems,Information & Communication
+4687,4687.T,JPX,TDC Soft,Information & Communication
+4689,4689.T,JPX,LY,Information & Communication
+4704,4704.T,JPX,Trend Micro,Information & Communication
+4709,4709.T,JPX,ID Holdings,Information & Communication
+4716,4716.T,JPX,Oracle Corp Japan,Information & Communication
+4719,4719.T,JPX,Alpha Systems,Information & Communication
+4722,4722.T,JPX,Future,Information & Communication
+4725,4725.T,JPX,CAC Holdings,Information & Communication
+4726,4726.T,JPX,SB Technology,Information & Communication
+4728,4728.T,JPX,TOSE,Information & Communication
+4733,4733.T,JPX,OBIC Business Consultants,Information & Communication
+4736,4736.T,JPX,Nippon RAD,Information & Communication
+4743,4743.T,JPX,ITFOR,Information & Communication
+4746,4746.T,JPX,Toukei Computer,Information & Communication
+4752,4752.T,JPX,Showa System Engineering,Information & Communication
+4761,4761.T,JPX,SAKURA KCS,Information & Communication
+4762,4762.T,JPX,XNET,Information & Communication
+4768,4768.T,JPX,Otsuka,Information & Communication
+4769,4769.T,JPX,IC,Information & Communication
+4770,4770.T,JPX,Zuken Elmic,Information & Communication
+4772,4772.T,JPX,Stream Media,Information & Communication
+4776,4776.T,JPX,Cybozu,Information & Communication
+4777,4777.T,JPX,Gala,Information & Communication
+4783,4783.T,JPX,NCD,Information & Communication
+4800,4800.T,JPX,Oricon,Information & Communication
+4811,4811.T,JPX,DreamArts,Information & Communication
+4812,4812.T,JPX,Dentsu Soken,Information & Communication
+4813,4813.T,JPX,Access,Information & Communication
+4814,4814.T,JPX,Nextware,Information & Communication
+4816,4816.T,JPX,Toei Animation,Information & Communication
+4819,4819.T,JPX,Digital Garage,Information & Communication
+4820,4820.T,JPX,EM Systems,Information & Communication
+4824,4824.T,JPX,Mediaseek,Information & Communication
+4825,4825.T,JPX,Weathernews,Information & Communication
+4826,4826.T,JPX,Computer Institute of Japan,Information & Communication
+4828,4828.T,JPX,Business Engineering,Information & Communication
+4829,4829.T,JPX,Nihon Enterprise,Information & Communication
+4832,4832.T,JPX,JFE Systems,Information & Communication
+4838,4838.T,JPX,Space Shower Skiyaki Holdings,Information & Communication
+4839,4839.T,JPX,Wowow,Information & Communication
+4845,4845.T,JPX,Scala,Information & Communication
+4847,4847.T,JPX,Intelligent Wave,Information & Communication
+5025,5025.T,JPX,Mercury Realtech Innovator,Information & Communication
+5026,5026.T,JPX,Tripleize,Information & Communication
+5027,5027.T,JPX,AnyMind Group,Information & Communication
+5028,5028.T,JPX,SecondXight Analytica,Information & Communication
+5029,5029.T,JPX,Circlace,Information & Communication
+5031,5031.T,JPX,Moi,Information & Communication
+5032,5032.T,JPX,Anycolor,Information & Communication
+5033,5033.T,JPX,Nulab,Information & Communication
+5034,5034.T,JPX,Unerry,Information & Communication
+5035,5035.T,JPX,Housei,Information & Communication
+5036,5036.T,JPX,Japan Business Systems,Information & Communication
+5038,5038.T,JPX,eWeLL,Information & Communication
+5125,5125.T,JPX,Fines,Information & Communication
+5126,5126.T,JPX,Porters,Information & Communication
+5129,5129.T,JPX,FIXER,Information & Communication
+5131,5131.T,JPX,Linkers,Information & Communication
+5132,5132.T,JPX,Pluszero,Information & Communication
+5133,5133.T,JPX,Terilogy Holdings,Information & Communication
+5134,5134.T,JPX,Poper,Information & Communication
+5136,5136.T,JPX,Tripla,Information & Communication
+5137,5137.T,JPX,SmartDrive,Information & Communication
+5138,5138.T,JPX,Rebase,Information & Communication
+5139,5139.T,JPX,OpenWork,Information & Communication
+5240,5240.T,JPX,MonoAI Technology,Information & Communication
+5242,5242.T,JPX,Eyez,Information & Communication
+5243,5243.T,JPX,Note,Information & Communication
+5244,5244.T,JPX,Jig Jp,Information & Communication
+5246,5246.T,JPX,Elements,Information & Communication
+5247,5247.T,JPX,Btm,Information & Communication
+5248,5248.T,JPX,Technologies,Information & Communication
+5250,5250.T,JPX,Prime Strategy,Information & Communication
+5252,5252.T,JPX,Nihon Knowledge,Information & Communication
+5253,5253.T,JPX,Cover,Information & Communication
+5254,5254.T,JPX,Arent,Information & Communication
+5255,5255.T,JPX,Monstarlab Holdings,Information & Communication
+5256,5256.T,JPX,Fusic,Information & Communication
+5257,5257.T,JPX,Nova System,Information & Communication
+5258,5258.T,JPX,Transaction Media Networks,Information & Communication
+5259,5259.T,JPX,BBD Initiative,Information & Communication
+5570,5570.T,JPX,Jenoba,Information & Communication
+5571,5571.T,JPX,Excite Holdings,Information & Communication
+5572,5572.T,JPX,Ridge-i,Information & Communication
+5574,5574.T,JPX,Abeja,Information & Communication
+5575,5575.T,JPX,Globee,Information & Communication
+5576,5576.T,JPX,OB System,Information & Communication
+5577,5577.T,JPX,Aidemy,Information & Communication
+5578,5578.T,JPX,AR Advanced Technology,Information & Communication
+5580,5580.T,JPX,Prodelight,Information & Communication
+5582,5582.T,JPX,GRID,Information & Communication
+5585,5585.T,JPX,Econavista,Information & Communication
+5586,5586.T,JPX,Laboro AI,Information & Communication
+5587,5587.T,JPX,Inbound Platform,Information & Communication
+5588,5588.T,JPX,Fast Accounting,Information & Communication
+5589,5589.T,JPX,Autoserver,Information & Communication
+5590,5590.T,JPX,Netstars,Information & Communication
+5591,5591.T,JPX,Avilen,Information & Communication
+5592,5592.T,JPX,Kusurinomadoguchi,Information & Communication
+5595,5595.T,JPX,Institute for Q-shu Pioneers of Space,Information & Communication
+5596,5596.T,JPX,OutlookConsulting,Information & Communication
+5597,5597.T,JPX,Blue innovation,Information & Communication
+5599,5599.T,JPX,S&J,Information & Communication
+5616,5616.T,JPX,Ame Kaze Taiyo,Information & Communication
+5618,5618.T,JPX,Nyle,Information & Communication
+5619,5619.T,JPX,MRSO,Information & Communication
+5621,5621.T,JPX,Human Technologies,Information & Communication
+6879,6879.T,JPX,Imagica Group,Information & Communication
+6888,6888.T,JPX,ACMOS,Information & Communication
+6942,6942.T,JPX,Sophia Holdings,Information & Communication
+7518,7518.T,JPX,Net One Systems,Information & Communication
+7527,7527.T,JPX,SystemSoft,Information & Communication
+7595,7595.T,JPX,Argo Graphics,Information & Communication
+7844,7844.T,JPX,Marvelous,Information & Communication
+7849,7849.T,JPX,Starts Publishing,Information & Communication
+7860,7860.T,JPX,Avex,Information & Communication
+8023,8023.T,JPX,Daiko Denshi Tsushin,Information & Communication
+8056,8056.T,JPX,Biprogy,Information & Communication
+8157,8157.T,JPX,Tsuzuki Denki,Information & Communication
+9360,9360.T,JPX,Suzuyo Shinwart,Information & Communication
+9399,9399.T,JPX,Beat Holdings,Information & Communication
+9401,9401.T,JPX,TBS Holdings,Information & Communication
+9404,9404.T,JPX,Nippon Television Holdings,Information & Communication
+9405,9405.T,JPX,Asahi Broadcasting Group Holdings,Information & Communication
+9408,9408.T,JPX,BSN Media Holdings,Information & Communication
+9409,9409.T,JPX,TV Asahi Holdings,Information & Communication
+9412,9412.T,JPX,SKY Perfect JSAT Holdings,Information & Communication
+9413,9413.T,JPX,TV Tokyo Holdings,Information & Communication
+9414,9414.T,JPX,Nippon BS Broadcasting,Information & Communication
+9416,9416.T,JPX,Vision,Information & Communication
+9417,9417.T,JPX,Smartvalue,Information & Communication
+9418,9418.T,JPX,U-Next Holdings,Information & Communication
+9419,9419.T,JPX,WirelessGate,Information & Communication
+9421,9421.T,JPX,NJ Holdings,Information & Communication
+9423,9423.T,JPX,Forval RealStraight,Information & Communication
+9424,9424.T,JPX,Japan Communications,Information & Communication
+9425,9425.T,JPX,Reyuu Japan,Information & Communication
+9428,9428.T,JPX,Crops,Information & Communication
+9432,9432.T,JPX,Nippon Telegraph & Telephone,Information & Communication
+9433,9433.T,JPX,KDDI,Information & Communication
+9434,9434.T,JPX,SoftBank,Information & Communication
+9435,9435.T,JPX,Hikari Tsushin,Information & Communication
+9436,9436.T,JPX,Okinawa Cellular Telephone,Information & Communication
+9438,9438.T,JPX,MTI,Information & Communication
+9441,9441.T,JPX,Bell-Park,Information & Communication
+9444,9444.T,JPX,Toshin Holdings,Information & Communication
+9445,9445.T,JPX,Forval Telecom,Information & Communication
+9446,9446.T,JPX,SAKAI Holdings,Information & Communication
+9449,9449.T,JPX,GMO Internet group,Information & Communication
+9450,9450.T,JPX,Fibergate,Information & Communication
+9466,9466.T,JPX,Aidma Marketing Communication,Information & Communication
+9467,9467.T,JPX,AlphaPolis,Information & Communication
+9468,9468.T,JPX,Kadokawa,Information & Communication
+9470,9470.T,JPX,Gakken Holdings,Information & Communication
+9474,9474.T,JPX,Zenrin,Information & Communication
+9475,9475.T,JPX,Shobunsha Holdings,Information & Communication
+9476,9476.T,JPX,Chuokeizai-Sha Holdings,Information & Communication
+9478,9478.T,JPX,SE Holdings and Incubations,Information & Communication
+9479,9479.T,JPX,Impress Holdings,Information & Communication
+9600,9600.T,JPX,I-Net,Information & Communication
+9601,9601.T,JPX,Shochiku,Information & Communication
+9602,9602.T,JPX,Toho,Information & Communication
+9605,9605.T,JPX,Toei,Information & Communication
+9613,9613.T,JPX,NTT Data Group,Information & Communication
+9629,9629.T,JPX,PCA,Information & Communication
+9640,9640.T,JPX,Saison Technology,Information & Communication
+9651,9651.T,JPX,Japan Process Development,Information & Communication
+9658,9658.T,JPX,Business Brain Showa Ota,Information & Communication
+9682,9682.T,JPX,DTS,Information & Communication
+9684,9684.T,JPX,Square Enix Holdings,Information & Communication
+9685,9685.T,JPX,Kycom Holdings,Information & Communication
+9687,9687.T,JPX,KSK,Information & Communication
+9691,9691.T,JPX,Ryomo Systems,Information & Communication
+9692,9692.T,JPX,Computer Engineering & Consulting,Information & Communication
+9697,9697.T,JPX,Capcom,Information & Communication
+9698,9698.T,JPX,Creo,Information & Communication
+9702,9702.T,JPX,Isb,Information & Communication
+9709,9709.T,JPX,NCS&A,Information & Communication
+9717,9717.T,JPX,JASTEC,Information & Communication
+9719,9719.T,JPX,SCSK,Information & Communication
+9739,9739.T,JPX,NSW,Information & Communication
+9742,9742.T,JPX,INES,Information & Communication
+9746,9746.T,JPX,TKC,Information & Communication
+9749,9749.T,JPX,FUJI Soft,Information & Communication
+9753,9753.T,JPX,IX Knowledge,Information & Communication
+9759,9759.T,JPX,NSD,Information & Communication
+9766,9766.T,JPX,Konami Group,Information & Communication
+9790,9790.T,JPX,Fukui Computer Holdings,Information & Communication
+9799,9799.T,JPX,Asahi Intelligence Service,Information & Communication
+9889,9889.T,JPX,JBCC Holdings,Information & Communication
+9928,9928.T,JPX,Miroku Jyoho Service,Information & Communication
+9984,9984.T,JPX,SoftBank Group,Information & Communication
+7157,7157.T,JPX,Lifenet Insurance,Insurance
+7181,7181.T,JPX,Japan Post Insurance,Insurance
+7325,7325.T,JPX,IRRC,Insurance
+7326,7326.T,JPX,SBI Insurance Group,Insurance
+7343,7343.T,JPX,Broad-Minded,Insurance
+7388,7388.T,JPX,FP Partner,Insurance
+8630,8630.T,JPX,Sompo Holdings,Insurance
+8715,8715.T,JPX,Anicom Holdings,Insurance
+8725,8725.T,JPX,MS&AD Insurance Group Holdings,Insurance
+8750,8750.T,JPX,Dai-ichi Life Holdings,Insurance
+8766,8766.T,JPX,Tokio Marine Holdings,Insurance
+8795,8795.T,JPX,T&D Holdings,Insurance
+8798,8798.T,JPX,Advance Create,Insurance
+5401,5401.T,JPX,Nippon Steel,Iron & Steel
+5406,5406.T,JPX,Kobe Steel,Iron & Steel
+5408,5408.T,JPX,Nakayama Steel Works,Iron & Steel
+5410,5410.T,JPX,Godo Steel,Iron & Steel
+5411,5411.T,JPX,JFE Holdings,Iron & Steel
+5423,5423.T,JPX,Tokyo Steel Manufacturing,Iron & Steel
+5440,5440.T,JPX,Kyoei Steel,Iron & Steel
+5444,5444.T,JPX,Yamato Kogyo,Iron & Steel
+5445,5445.T,JPX,TOKYO TEKKO,Iron & Steel
+5446,5446.T,JPX,HOKUETSU METAL,Iron & Steel
+5449,5449.T,JPX,Osaka Steel,Iron & Steel
+5451,5451.T,JPX,Yodogawa Steel Works,Iron & Steel
+5458,5458.T,JPX,Takasago Tekko KK,Iron & Steel
+5461,5461.T,JPX,Chubu Steel Plate,Iron & Steel
+5463,5463.T,JPX,Maruichi Steel Tube,Iron & Steel
+5464,5464.T,JPX,Mory Industries,Iron & Steel
+5471,5471.T,JPX,Daido Steel,Iron & Steel
+5476,5476.T,JPX,Nippon Koshuha Steel,Iron & Steel
+5480,5480.T,JPX,Nippon Yakin kogyo,Iron & Steel
+5481,5481.T,JPX,Sanyo Special Steel,Iron & Steel
+5482,5482.T,JPX,Aichi Steel,Iron & Steel
+5484,5484.T,JPX,Tohoku Steel,Iron & Steel
+5491,5491.T,JPX,NIPPON KINZOKU,Iron & Steel
+5541,5541.T,JPX,Pacific Metals,Iron & Steel
+5542,5542.T,JPX,Shinhokoku Material,Iron & Steel
+5563,5563.T,JPX,Nippon Denko,Iron & Steel
+5602,5602.T,JPX,Kurimoto,Iron & Steel
+5603,5603.T,JPX,Kogi,Iron & Steel
+5609,5609.T,JPX,Nippon Chuzo K.K.,Iron & Steel
+5610,5610.T,JPX,Daiwa Heavy Industry,Iron & Steel
+5612,5612.T,JPX,Nippon Chutetsukan KK,Iron & Steel
+5632,5632.T,JPX,Mitsubishi Steel Mfg,Iron & Steel
+5644,5644.T,JPX,Metalart,Iron & Steel
+5658,5658.T,JPX,Nichia Steel Works,Iron & Steel
+5659,5659.T,JPX,Nippon Seisen,Iron & Steel
+5660,5660.T,JPX,Kobelco Wire,Iron & Steel
+5695,5695.T,JPX,Powdertech,Iron & Steel
+5697,5697.T,JPX,Sanyu,Iron & Steel
+5698,5698.T,JPX,ENVIPRO HOLDINGS,Iron & Steel
+5699,5699.T,JPX,Ibokin,Iron & Steel
+6319,6319.T,JPX,SNT,Iron & Steel
+7305,7305.T,JPX,ARAYA INDUSTRIAL,Iron & Steel
+2384,2384.T,JPX,SBS Holdings,Land Transportation
+9001,9001.T,JPX,Tobu Railway,Land Transportation
+9003,9003.T,JPX,Sotetsu Holdings,Land Transportation
+9005,9005.T,JPX,Tokyu,Land Transportation
+9006,9006.T,JPX,Keikyu,Land Transportation
+9007,9007.T,JPX,Odakyu Electric Railway,Land Transportation
+9008,9008.T,JPX,Keio,Land Transportation
+9009,9009.T,JPX,Keisei Electric Railway,Land Transportation
+9010,9010.T,JPX,FUJI Kyuko,Land Transportation
+9012,9012.T,JPX,Chichibu Railway,Land Transportation
+9017,9017.T,JPX,Niigata Kotsu,Land Transportation
+9020,9020.T,JPX,East Japan Railway,Land Transportation
+9021,9021.T,JPX,West Japan Railway,Land Transportation
+9022,9022.T,JPX,Central Japan Railway,Land Transportation
+9024,9024.T,JPX,Seibu Holdings,Land Transportation
+9025,9025.T,JPX,Konoike Transport,Land Transportation
+9028,9028.T,JPX,Zero,Land Transportation
+9029,9029.T,JPX,Higashi Twenty One,Land Transportation
+9031,9031.T,JPX,Nishi-Nippon Railroad,Land Transportation
+9033,9033.T,JPX,Hiroshima Electric Railway,Land Transportation
+9034,9034.T,JPX,NANSO Transport,Land Transportation
+9036,9036.T,JPX,Tohbu Network,Land Transportation
+9037,9037.T,JPX,Hamakyorex,Land Transportation
+9039,9039.T,JPX,Sakai Moving Service,Land Transportation
+9041,9041.T,JPX,Kintetsu Group Holdings,Land Transportation
+9042,9042.T,JPX,Hankyu Hanshin Holdings,Land Transportation
+9044,9044.T,JPX,Nankai Electric Railway,Land Transportation
+9045,9045.T,JPX,Keihan Holdings,Land Transportation
+9046,9046.T,JPX,Kobe Electric Railway,Land Transportation
+9048,9048.T,JPX,Nagoya Railroad,Land Transportation
+9049,9049.T,JPX,Keifuku Electric Railroad,Land Transportation
+9052,9052.T,JPX,Sanyo Electric Railway,Land Transportation
+9055,9055.T,JPX,Alps Logistics,Land Transportation
+9057,9057.T,JPX,Enshu Truck,Land Transportation
+9059,9059.T,JPX,Kanda Holdings,Land Transportation
+9060,9060.T,JPX,Japan Logistic Systems,Land Transportation
+9063,9063.T,JPX,Okayamaken Freight Transportation,Land Transportation
+9064,9064.T,JPX,Yamato Holdings,Land Transportation
+9065,9065.T,JPX,Sankyu,Land Transportation
+9067,9067.T,JPX,Maruwn,Land Transportation
+9068,9068.T,JPX,Maruzen Showa Unyu,Land Transportation
+9069,9069.T,JPX,Senko Group Holdings,Land Transportation
+9070,9070.T,JPX,Tonami Holdings,Land Transportation
+9072,9072.T,JPX,NIKKON Holdings,Land Transportation
+9073,9073.T,JPX,Kyogoku unyu shoji,Land Transportation
+9074,9074.T,JPX,Japan Oil Transportation,Land Transportation
+9075,9075.T,JPX,Fukuyama Transporting,Land Transportation
+9076,9076.T,JPX,Seino Holdings,Land Transportation
+9078,9078.T,JPX,S Line Group,Land Transportation
+9081,9081.T,JPX,Kanagawa Chuo Kotsu,Land Transportation
+9082,9082.T,JPX,Daiwa Motor Transportation,Land Transportation
+9083,9083.T,JPX,Shinki Bus,Land Transportation
+9087,9087.T,JPX,TAKASE,Land Transportation
+9090,9090.T,JPX,AZ-COM Maruwa Holdings,Land Transportation
+9099,9099.T,JPX,Chilled & Frozen Logistics Holdings,Land Transportation
+9142,9142.T,JPX,Kyushu Railway,Land Transportation
+9143,9143.T,JPX,SG Holdings,Land Transportation
+9145,9145.T,JPX,Being Holdings,Land Transportation
+9147,9147.T,JPX,Nippon Express Holdings,Land Transportation
+1909,1909.T,JPX,Nippon Dry-Chemical,Machinery
+5631,5631.T,JPX,The Japan Steel Works,Machinery
+6005,6005.T,JPX,Miura,Machinery
+6013,6013.T,JPX,Takuma,Machinery
+6022,6022.T,JPX,Akasaka Diesels,Machinery
+6101,6101.T,JPX,Tsugami,Machinery
+6103,6103.T,JPX,Okuma,Machinery
+6104,6104.T,JPX,Shibaura Machine,Machinery
+6113,6113.T,JPX,AMADA,Machinery
+6118,6118.T,JPX,Aida Engineering,Machinery
+6125,6125.T,JPX,Okamoto Machine Tool Works,Machinery
+6131,6131.T,JPX,Hamai,Machinery
+6134,6134.T,JPX,Fuji,Machinery
+6135,6135.T,JPX,Makino Milling Machine,Machinery
+6136,6136.T,JPX,OSG,Machinery
+6137,6137.T,JPX,KOIKE SANSO KOGYO,Machinery
+6138,6138.T,JPX,DIJET Industrial,Machinery
+6140,6140.T,JPX,Asahi Diamond Industrial,Machinery
+6141,6141.T,JPX,Dmg Mori,Machinery
+6143,6143.T,JPX,Sodick,Machinery
+6144,6144.T,JPX,Seibu Electric & Machinery,Machinery
+6145,6145.T,JPX,Nittoku,Machinery
+6146,6146.T,JPX,Disco,Machinery
+6147,6147.T,JPX,Yamazaki,Machinery
+6149,6149.T,JPX,Odawara Engineering,Machinery
+6150,6150.T,JPX,Takeda Machinery,Machinery
+6151,6151.T,JPX,Nitto Kohki,Machinery
+6155,6155.T,JPX,Takamatsu Machinery,Machinery
+6156,6156.T,JPX,A-One Seimitsu,Machinery
+6157,6157.T,JPX,NS Tool,Machinery
+6158,6158.T,JPX,Waida Mfg,Machinery
+6159,6159.T,JPX,Micron Machinery,Machinery
+6161,6161.T,JPX,Estic,Machinery
+6164,6164.T,JPX,Taiyo Koki,Machinery
+6165,6165.T,JPX,PUNCH INDUSTRY,Machinery
+6166,6166.T,JPX,Nakamura Choukou,Machinery
+6167,6167.T,JPX,Fuji Die,Machinery
+6203,6203.T,JPX,Howa Machinery,Machinery
+6208,6208.T,JPX,Ishikawa Seisakusho,Machinery
+6209,6209.T,JPX,NPR-Riken,Machinery
+6210,6210.T,JPX,Toyo Machinery & Metal,Machinery
+6217,6217.T,JPX,Tsudakoma,Machinery
+6218,6218.T,JPX,Enshu,Machinery
+6222,6222.T,JPX,Shima Seiki Mfg,Machinery
+6223,6223.T,JPX,Seibu Giken,Machinery
+6224,6224.T,JPX,JRC,Machinery
+6226,6226.T,JPX,Moriya Transportation Engineering and Manufacturing,Machinery
+6227,6227.T,JPX,AIMECHATEC,Machinery
+6228,6228.T,JPX,JET,Machinery
+6229,6229.T,JPX,Okumura Engineering,Machinery
+6230,6230.T,JPX,Sanei,Machinery
+6231,6231.T,JPX,Kimura Kohki,Machinery
+6232,6232.T,JPX,ACSL,Machinery
+6233,6233.T,JPX,Klass,Machinery
+6235,6235.T,JPX,Optorun,Machinery
+6236,6236.T,JPX,NC Holdings,Machinery
+6237,6237.T,JPX,Iwaki,Machinery
+6238,6238.T,JPX,Furyu,Machinery
+6239,6239.T,JPX,Nagaoka International,Machinery
+6240,6240.T,JPX,Yamashin-Filter,Machinery
+6245,6245.T,JPX,Hirano Tecseed,Machinery
+6246,6246.T,JPX,Techno Smart,Machinery
+6247,6247.T,JPX,Hisaka Works,Machinery
+6248,6248.T,JPX,Yokota Manufacturing,Machinery
+6249,6249.T,JPX,Gamecard-Joyco Holdings,Machinery
+6250,6250.T,JPX,Yamabiko,Machinery
+6254,6254.T,JPX,Nomura Micro Science,Machinery
+6255,6255.T,JPX,NPC,Machinery
+6257,6257.T,JPX,Fujishoji,Machinery
+6258,6258.T,JPX,HIRATA,Machinery
+6262,6262.T,JPX,Pegasus,Machinery
+6264,6264.T,JPX,Marumae,Machinery
+6265,6265.T,JPX,Convum,Machinery
+6266,6266.T,JPX,Tazmo,Machinery
+6267,6267.T,JPX,GENERAL PACKER,Machinery
+6268,6268.T,JPX,Nabtesco,Machinery
+6269,6269.T,JPX,Modec,Machinery
+6272,6272.T,JPX,Rheon Automatic Machinery,Machinery
+6273,6273.T,JPX,SMC,Machinery
+6277,6277.T,JPX,Hosokawa Micron,Machinery
+6278,6278.T,JPX,Union Tool,Machinery
+6279,6279.T,JPX,Zuiko,Machinery
+6282,6282.T,JPX,Oiles,Machinery
+6284,6284.T,JPX,Nissei ASB Machine,Machinery
+6286,6286.T,JPX,Seiko,Machinery
+6287,6287.T,JPX,Sato Holdings,Machinery
+6289,6289.T,JPX,GIKEN,Machinery
+6291,6291.T,JPX,Airtech Japan,Machinery
+6292,6292.T,JPX,Kawata Mfg,Machinery
+6293,6293.T,JPX,Nissei Plastic Industrial,Machinery
+6294,6294.T,JPX,Okada Aiyon,Machinery
+6297,6297.T,JPX,Koken Boring Machine,Machinery
+6298,6298.T,JPX,Y.A.C.Holdings,Machinery
+6301,6301.T,JPX,Komatsu,Machinery
+6302,6302.T,JPX,Sumitomo Heavy Industries,Machinery
+6305,6305.T,JPX,Hitachi Construction Machinery,Machinery
+6306,6306.T,JPX,Nikko,Machinery
+6307,6307.T,JPX,Sansei,Machinery
+6309,6309.T,JPX,Tomoe Engineering,Machinery
+6310,6310.T,JPX,Iseki,Machinery
+6312,6312.T,JPX,Freund,Machinery
+6315,6315.T,JPX,Towa,Machinery
+6316,6316.T,JPX,Maruyama MFG,Machinery
+6317,6317.T,JPX,Kitagawa,Machinery
+6322,6322.T,JPX,Tacmina,Machinery
+6323,6323.T,JPX,RORZE,Machinery
+6324,6324.T,JPX,Harmonic Drive Systems,Machinery
+6325,6325.T,JPX,Takakita,Machinery
+6326,6326.T,JPX,Kubota,Machinery
+6327,6327.T,JPX,Kitagawa Seiki,Machinery
+6328,6328.T,JPX,EBARA JITSUGYO,Machinery
+6331,6331.T,JPX,Mitsubishi Kakoki Kaisha,Machinery
+6332,6332.T,JPX,Tsukishima Holdings,Machinery
+6333,6333.T,JPX,TEIKOKU ELECTRIC MFG,Machinery
+6334,6334.T,JPX,Meiji Machine,Machinery
+6335,6335.T,JPX,Tokyo Kikai Seisakusho,Machinery
+6336,6336.T,JPX,ISHII HYOKI,Machinery
+6337,6337.T,JPX,TESEC,Machinery
+6338,6338.T,JPX,Takatori,Machinery
+6339,6339.T,JPX,Sintokogio,Machinery
+6340,6340.T,JPX,Shibuya,Machinery
+6342,6342.T,JPX,Taihei Machinery Works,Machinery
+6343,6343.T,JPX,Freesia Macross,Machinery
+6345,6345.T,JPX,Aichi,Machinery
+6346,6346.T,JPX,Kikukawa Enterprise,Machinery
+6347,6347.T,JPX,Placo,Machinery
+6349,6349.T,JPX,Komori,Machinery
+6351,6351.T,JPX,Tsurumi Manufacturing,Machinery
+6356,6356.T,JPX,Nippon Gear,Machinery
+6357,6357.T,JPX,Sansei Technologies,Machinery
+6358,6358.T,JPX,Sakai Heavy Industries,Machinery
+6360,6360.T,JPX,Tokyo Automatic Machinery Works,Machinery
+6361,6361.T,JPX,Ebara,Machinery
+6362,6362.T,JPX,Ishii Iron Works,Machinery
+6363,6363.T,JPX,Torishima Pump Mfg,Machinery
+6364,6364.T,JPX,HOKUETSU INDUSTRIES,Machinery
+6365,6365.T,JPX,DMW,Machinery
+6367,6367.T,JPX,Daikin Industries,Machinery
+6368,6368.T,JPX,Organo,Machinery
+6369,6369.T,JPX,Toyo Kanetsu KK,Machinery
+6370,6370.T,JPX,Kurita Water Industries,Machinery
+6371,6371.T,JPX,Tsubakimoto Chain,Machinery
+6373,6373.T,JPX,Daido Kogyo,Machinery
+6378,6378.T,JPX,KIMURA CHEMICAL PLANTS,Machinery
+6380,6380.T,JPX,Oriental Chain Mfg,Machinery
+6381,6381.T,JPX,ANEST IWATA,Machinery
+6382,6382.T,JPX,Trinity Industrial,Machinery
+6383,6383.T,JPX,Daifuku,Machinery
+6384,6384.T,JPX,Showa Shinku,Machinery
+6387,6387.T,JPX,SAMCO,Machinery
+6390,6390.T,JPX,Kato Works,Machinery
+6391,6391.T,JPX,Kaji Technology,Machinery
+6392,6392.T,JPX,Yamada,Machinery
+6393,6393.T,JPX,Yuken Kogyo,Machinery
+6395,6395.T,JPX,Tadano,Machinery
+6396,6396.T,JPX,Unozawa-Gumi Iron Works,Machinery
+6400,6400.T,JPX,Fuji Seiki,Machinery
+6402,6402.T,JPX,Kanematsu Engineering,Machinery
+6403,6403.T,JPX,Suido Kiko Kaisha,Machinery
+6405,6405.T,JPX,Suzumo Machinery,Machinery
+6406,6406.T,JPX,Fujitec,Machinery
+6407,6407.T,JPX,CKD,Machinery
+6408,6408.T,JPX,Ogura Clutch,Machinery
+6411,6411.T,JPX,Nakano Refrigerators,Machinery
+6412,6412.T,JPX,Heiwa,Machinery
+6413,6413.T,JPX,Riso Kagaku,Machinery
+6416,6416.T,JPX,Katsuragawa Electric,Machinery
+6417,6417.T,JPX,Sankyo,Machinery
+6418,6418.T,JPX,Japan Cash Machine,Machinery
+6419,6419.T,JPX,Mars Group Holdings,Machinery
+6420,6420.T,JPX,Fukushima Galilei,Machinery
+6424,6424.T,JPX,Takamisawa Cybernetics,Machinery
+6425,6425.T,JPX,Universal Entertainment,Machinery
+6428,6428.T,JPX,OIZUMI,Machinery
+6430,6430.T,JPX,Daikoku Denki,Machinery
+6432,6432.T,JPX,Takeuchi Mfg,Machinery
+6433,6433.T,JPX,Hephaist,Machinery
+6436,6436.T,JPX,Amano,Machinery
+6440,6440.T,JPX,Juki,Machinery
+6444,6444.T,JPX,Sanden,Machinery
+6445,6445.T,JPX,Janome,Machinery
+6454,6454.T,JPX,MAX,Machinery
+6457,6457.T,JPX,GLORY,Machinery
+6458,6458.T,JPX,Sinko Industries,Machinery
+6459,6459.T,JPX,Daiwa Industries,Machinery
+6460,6460.T,JPX,Sega Sammy Holdings,Machinery
+6463,6463.T,JPX,TPR,Machinery
+6464,6464.T,JPX,Tsubaki Nakashima,Machinery
+6465,6465.T,JPX,Hoshizaki,Machinery
+6466,6466.T,JPX,TVE,Machinery
+6467,6467.T,JPX,Nichidai,Machinery
+6469,6469.T,JPX,Hoden Seimitsu Kako Kenkyusho,Machinery
+6470,6470.T,JPX,Taiho Kogyo,Machinery
+6471,6471.T,JPX,NSK,Machinery
+6472,6472.T,JPX,NTN,Machinery
+6473,6473.T,JPX,JTEKT,Machinery
+6474,6474.T,JPX,Nachi-Fujikoshi,Machinery
+6480,6480.T,JPX,Nippon Thompson,Machinery
+6481,6481.T,JPX,THK,Machinery
+6482,6482.T,JPX,Yushin Precision Equipment,Machinery
+6484,6484.T,JPX,KVK,Machinery
+6485,6485.T,JPX,Maezawa Kyuso Industries,Machinery
+6486,6486.T,JPX,Eagle Industry,Machinery
+6488,6488.T,JPX,Yoshitake,Machinery
+6489,6489.T,JPX,Maezawa Industries,Machinery
+6490,6490.T,JPX,Nippon Pillar Packing,Machinery
+6492,6492.T,JPX,OKANO VALVE MFG,Machinery
+6494,6494.T,JPX,NFK HOLDINGS,Machinery
+6495,6495.T,JPX,Miyairi Valve Mfg,Machinery
+6496,6496.T,JPX,Nakakita Seisakusho,Machinery
+6497,6497.T,JPX,Hamai Industries,Machinery
+6498,6498.T,JPX,Kitz,Machinery
+6586,6586.T,JPX,Makita,Machinery
+7003,7003.T,JPX,Mitsui E&S,Machinery
+7004,7004.T,JPX,Hitachi Zosen,Machinery
+7011,7011.T,JPX,Mitsubishi Heavy Industries,Machinery
+7013,7013.T,JPX,IHI,Machinery
+7021,7021.T,JPX,NITCHITSU,Machinery
+7022,7022.T,JPX,Sanoyas Holdings,Machinery
+7718,7718.T,JPX,Star Micronics,Machinery
+7726,7726.T,JPX,Kuroda Precision Industries,Machinery
+7991,7991.T,JPX,Mamiya-OP,Machinery
+9101,9101.T,JPX,Nippon Yusen Kabushiki Kaisha,Marine Transportation
+9104,9104.T,JPX,Mitsui O.S.K. Lines,Marine Transportation
+9107,9107.T,JPX,Kawasaki Kisen Kaisha,Marine Transportation
+9110,9110.T,JPX,NS United Kaiun Kaisha,Marine Transportation
+9115,9115.T,JPX,Meiji Shipping Group,Marine Transportation
+9119,9119.T,JPX,Iino Kaiun Kaisha,Marine Transportation
+9127,9127.T,JPX,Tamai Steamship,Marine Transportation
+9130,9130.T,JPX,Kyoei Tanker,Marine Transportation
+9171,9171.T,JPX,Kuribayashi Steamship,Marine Transportation
+9173,9173.T,JPX,Tokai Kisen,Marine Transportation
+9308,9308.T,JPX,Inui Global Logistics,Marine Transportation
+2961,2961.T,JPX,Nitcho,Metal Products
+2962,2962.T,JPX,Tecnisco,Metal Products
+3420,3420.T,JPX,KFC,Metal Products
+3421,3421.T,JPX,Inaba Seisakusho,Metal Products
+3422,3422.T,JPX,J-MAX,Metal Products
+3423,3423.T,JPX,S E,Metal Products
+3426,3426.T,JPX,ATOM LIVIN TECH,Metal Products
+3431,3431.T,JPX,Miyaji Engineering Group,Metal Products
+3433,3433.T,JPX,TOCALO,Metal Products
+3434,3434.T,JPX,Alpha,Metal Products
+3435,3435.T,JPX,Sanko Techno,Metal Products
+3436,3436.T,JPX,SUMCO,Metal Products
+3437,3437.T,JPX,Tokuden,Metal Products
+3439,3439.T,JPX,Mitsuchi,Metal Products
+3440,3440.T,JPX,Nisso Pronity,Metal Products
+3441,3441.T,JPX,SANNO,Metal Products
+3443,3443.T,JPX,Kawada Technologies,Metal Products
+3444,3444.T,JPX,Kikuchi Seisakusho,Metal Products
+3445,3445.T,JPX,RS Technologies,Metal Products
+3446,3446.T,JPX,JTEC,Metal Products
+3447,3447.T,JPX,Shinwa Company,Metal Products
+3449,3449.T,JPX,Technoflex,Metal Products
+5900,5900.T,JPX,Daiken,Metal Products
+5901,5901.T,JPX,Toyo Seikan Group Holdings,Metal Products
+5902,5902.T,JPX,Hokkan Holdings,Metal Products
+5903,5903.T,JPX,Shinpo,Metal Products
+5905,5905.T,JPX,Nihon Seikan KK,Metal Products
+5906,5906.T,JPX,Mk Seiko,Metal Products
+5909,5909.T,JPX,Corona,Metal Products
+5911,5911.T,JPX,Yokogawa Bridge Holdings,Metal Products
+5915,5915.T,JPX,Komaihaltec,Metal Products
+5918,5918.T,JPX,Takigami Steel Construction,Metal Products
+5921,5921.T,JPX,Kawagishi Bridge Works,Metal Products
+5922,5922.T,JPX,Nasu Denki Tekko,Metal Products
+5923,5923.T,JPX,Takadakiko (Steel Construction),Metal Products
+5928,5928.T,JPX,Almetax Manufacturing,Metal Products
+5929,5929.T,JPX,Sanwa Holdings,Metal Products
+5930,5930.T,JPX,Bunka Shutter,Metal Products
+5932,5932.T,JPX,Sankyo Tateyama,Metal Products
+5933,5933.T,JPX,Alinco,Metal Products
+5935,5935.T,JPX,Gantan Beauty Industry,Metal Products
+5936,5936.T,JPX,Toyo Shutter,Metal Products
+5938,5938.T,JPX,LIXIL,Metal Products
+5939,5939.T,JPX,Otani Kogyo,Metal Products
+5940,5940.T,JPX,Fujisash,Metal Products
+5941,5941.T,JPX,Nakanishi Mfg,Metal Products
+5942,5942.T,JPX,Nippon Filcon,Metal Products
+5943,5943.T,JPX,Noritz,Metal Products
+5945,5945.T,JPX,Tenryu Saw Mfg,Metal Products
+5946,5946.T,JPX,Chofu Seisakusho,Metal Products
+5947,5947.T,JPX,Rinnai,Metal Products
+5950,5950.T,JPX,Japan Power Fastening,Metal Products
+5951,5951.T,JPX,Dainichi,Metal Products
+5952,5952.T,JPX,Amatei,Metal Products
+5955,5955.T,JPX,Yamashina,Metal Products
+5956,5956.T,JPX,Toso,Metal Products
+5957,5957.T,JPX,Nittoseiko,Metal Products
+5958,5958.T,JPX,Sanyo Industries,Metal Products
+5959,5959.T,JPX,Okabe,Metal Products
+5965,5965.T,JPX,Fujimak,Metal Products
+5966,5966.T,JPX,Kyoto Tool,Metal Products
+5967,5967.T,JPX,TONE,Metal Products
+5969,5969.T,JPX,LOBTEX,Metal Products
+5970,5970.T,JPX,G-Tekt,Metal Products
+5971,5971.T,JPX,Kyowakogyosyo,Metal Products
+5973,5973.T,JPX,Toami,Metal Products
+5974,5974.T,JPX,Chugokukogyo,Metal Products
+5975,5975.T,JPX,Topre,Metal Products
+5976,5976.T,JPX,Neturen,Metal Products
+5981,5981.T,JPX,Tokyo Rope Mfg,Metal Products
+5982,5982.T,JPX,Maruzen,Metal Products
+5983,5983.T,JPX,Iwabuchi,Metal Products
+5984,5984.T,JPX,Kanefusa,Metal Products
+5985,5985.T,JPX,Suncall,Metal Products
+5986,5986.T,JPX,Molitec Steel,Metal Products
+5988,5988.T,JPX,Piolax,Metal Products
+5989,5989.T,JPX,H-ONE,Metal Products
+5990,5990.T,JPX,Super Tool,Metal Products
+5991,5991.T,JPX,NHK Spring,Metal Products
+5992,5992.T,JPX,Chuo Spring,Metal Products
+5994,5994.T,JPX,FINE SINTER,Metal Products
+5997,5997.T,JPX,Kyoritsu Air Tech,Metal Products
+5998,5998.T,JPX,Advanex,Metal Products
+7985,7985.T,JPX,NEPON,Metal Products
+7989,7989.T,JPX,Tachikawa,Metal Products
+8155,8155.T,JPX,Mimasu Semiconductor Industry,Metal Products
+1514,1514.T,JPX,Sumiseki Holdings,Mining
+1515,1515.T,JPX,Nittetsu Mining,Mining
+1518,1518.T,JPX,Mitsui Matsushima Holdings,Mining
+1605,1605.T,JPX,Inpex,Mining
+1662,1662.T,JPX,Japan Petroleum Exploration,Mining
+1663,1663.T,JPX,K&O Energy Group,Mining
+1491,1491.T,JPX,Chugai Mining,Nonferrous Metals
+5702,5702.T,JPX,Daiki Aluminium Industry,Nonferrous Metals
+5703,5703.T,JPX,Nippon Light Metal Holdings,Nonferrous Metals
+5704,5704.T,JPX,JMC,Nonferrous Metals
+5706,5706.T,JPX,Mitsui Mining and Smelting,Nonferrous Metals
+5707,5707.T,JPX,Toho Zinc,Nonferrous Metals
+5711,5711.T,JPX,Mitsubishi Materials,Nonferrous Metals
+5713,5713.T,JPX,Sumitomo Metal Mining,Nonferrous Metals
+5714,5714.T,JPX,DOWA Holdings,Nonferrous Metals
+5715,5715.T,JPX,Furukawa,Nonferrous Metals
+5721,5721.T,JPX,S Science,Nonferrous Metals
+5724,5724.T,JPX,Asaka Riken,Nonferrous Metals
+5726,5726.T,JPX,OSAKA Titanium technologies,Nonferrous Metals
+5727,5727.T,JPX,Toho Titanium,Nonferrous Metals
+5729,5729.T,JPX,Nihon Seiko,Nonferrous Metals
+5741,5741.T,JPX,UACJ,Nonferrous Metals
+5742,5742.T,JPX,NIC Autotec,Nonferrous Metals
+5753,5753.T,JPX,Nippon Shindo,Nonferrous Metals
+5757,5757.T,JPX,CK San-Etsu,Nonferrous Metals
+5759,5759.T,JPX,Nippon Denkai,Nonferrous Metals
+5801,5801.T,JPX,Furukawa Electric,Nonferrous Metals
+5802,5802.T,JPX,Sumitomo Electric Industries,Nonferrous Metals
+5803,5803.T,JPX,Fujikura,Nonferrous Metals
+5805,5805.T,JPX,SWCC,Nonferrous Metals
+5809,5809.T,JPX,Tatsuta Electric Wire and Cable,Nonferrous Metals
+5816,5816.T,JPX,Onamba,Nonferrous Metals
+5817,5817.T,JPX,JMACS Japan,Nonferrous Metals
+5819,5819.T,JPX,Canare Electric,Nonferrous Metals
+5820,5820.T,JPX,Mitsuboshi,Nonferrous Metals
+5821,5821.T,JPX,Hirakawa Hewtech,Nonferrous Metals
+5851,5851.T,JPX,Ryobi,Nonferrous Metals
+5852,5852.T,JPX,Ahresty,Nonferrous Metals
+5857,5857.T,JPX,Are Holdings,Nonferrous Metals
+3315,3315.T,JPX,Nippon Coke & Engineering,Oil & Coal Products
+5010,5010.T,JPX,Nippon Seiro,Oil & Coal Products
+5011,5011.T,JPX,Nichireki,Oil & Coal Products
+5013,5013.T,JPX,Yushiro Chemical Industry,Oil & Coal Products
+5015,5015.T,JPX,BP Castrol KK,Oil & Coal Products
+5017,5017.T,JPX,Fuji Oil,Oil & Coal Products
+5018,5018.T,JPX,Moresco,Oil & Coal Products
+5019,5019.T,JPX,Idemitsu Kosan,Oil & Coal Products
+5020,5020.T,JPX,ENEOS Holdings,Oil & Coal Products
+5021,5021.T,JPX,Cosmo Energy Holdings,Oil & Coal Products
+196A,196A.T,JPX,MFS,Other Financing Business
+2388,2388.T,JPX,Wedge Holdings,Other Financing Business
+4346,4346.T,JPX,Nexyz Group,Other Financing Business
+4351,4351.T,JPX,Yamada Servicer Synthetic Office,Other Financing Business
+5843,5843.T,JPX,Nippon Insure,Other Financing Business
+5845,5845.T,JPX,Zenhoren,Other Financing Business
+7164,7164.T,JPX,ZENKOKU HOSHO,Other Financing Business
+7183,7183.T,JPX,Anshin Guarantor Service,Other Financing Business
+7187,7187.T,JPX,J Lease,Other Financing Business
+7191,7191.T,JPX,Entrust,Other Financing Business
+7192,7192.T,JPX,Mortgage Service Japan,Other Financing Business
+7196,7196.T,JPX,Casa,Other Financing Business
+7198,7198.T,JPX,SBI Aruhi,Other Financing Business
+7199,7199.T,JPX,Premium Group,Other Financing Business
+7320,7320.T,JPX,Japan Living Warranty,Other Financing Business
+7345,7345.T,JPX,Ai Partners Financial,Other Financing Business
+7383,7383.T,JPX,Net Protections Holdings,Other Financing Business
+7386,7386.T,JPX,Japan Warranty Support,Other Financing Business
+8253,8253.T,JPX,Credit Saison,Other Financing Business
+8424,8424.T,JPX,Fuyo General Lease,Other Financing Business
+8425,8425.T,JPX,Mizuho Leasing,Other Financing Business
+8439,8439.T,JPX,Tokyo Century,Other Financing Business
+8508,8508.T,JPX,J Trust,Other Financing Business
+8511,8511.T,JPX,Japan Securities Finance,Other Financing Business
+8515,8515.T,JPX,Aiful,Other Financing Business
+8566,8566.T,JPX,Ricoh Leasing,Other Financing Business
+8570,8570.T,JPX,AEON Financial Service,Other Financing Business
+8572,8572.T,JPX,Acom,Other Financing Business
+8584,8584.T,JPX,Jaccs,Other Financing Business
+8585,8585.T,JPX,Orient,Other Financing Business
+8591,8591.T,JPX,ORIX,Other Financing Business
+8593,8593.T,JPX,Mitsubishi HC Capital,Other Financing Business
+8596,8596.T,JPX,Kyushu Leasing Service,Other Financing Business
+8697,8697.T,JPX,Japan Exchange Group,Other Financing Business
+8771,8771.T,JPX,eGuarantee,Other Financing Business
+8772,8772.T,JPX,ASAX,Other Financing Business
+8783,8783.T,JPX,GFA,Other Financing Business
+8789,8789.T,JPX,FinTech Global,Other Financing Business
+8793,8793.T,JPX,NEC Capital Solutions,Other Financing Business
+168A,168A.T,JPX,Itamiarts,Other Products
+5962,5962.T,JPX,Asaka Industrial,Other Products
+7791,7791.T,JPX,Dreambed,Other Products
+7792,7792.T,JPX,Colan Totte,Other Products
+7793,7793.T,JPX,Image Magic,Other Products
+7794,7794.T,JPX,EDP,Other Products
+7795,7795.T,JPX,Kyoritsu,Other Products
+7800,7800.T,JPX,Amifa,Other Products
+7803,7803.T,JPX,Bushiroad,Other Products
+7804,7804.T,JPX,B&P,Other Products
+7805,7805.T,JPX,Printnet,Other Products
+7806,7806.T,JPX,MTG,Other Products
+7807,7807.T,JPX,Kowa,Other Products
+7808,7808.T,JPX,C.S.Lumber,Other Products
+7809,7809.T,JPX,Kotobukiya,Other Products
+7810,7810.T,JPX,Crossfor,Other Products
+7811,7811.T,JPX,Nakamoto Packs,Other Products
+7812,7812.T,JPX,Crestec,Other Products
+7813,7813.T,JPX,Platz,Other Products
+7814,7814.T,JPX,Japan Creative Platform Group,Other Products
+7815,7815.T,JPX,Tokyo Board Industries,Other Products
+7816,7816.T,JPX,Snow Peak,Other Products
+7817,7817.T,JPX,Paramount Bed Holdings,Other Products
+7818,7818.T,JPX,TRANSACTION,Other Products
+7819,7819.T,JPX,Shobido,Other Products
+7820,7820.T,JPX,Nihon Flush,Other Products
+7821,7821.T,JPX,Maeda Kosen,Other Products
+7822,7822.T,JPX,Eidai,Other Products
+7823,7823.T,JPX,Artnature,Other Products
+7826,7826.T,JPX,Furuya Metal,Other Products
+7827,7827.T,JPX,Orvis,Other Products
+7831,7831.T,JPX,Wellco Holdings,Other Products
+7832,7832.T,JPX,BANDAI NAMCO Holdings,Other Products
+7833,7833.T,JPX,IFIS Japan,Other Products
+7836,7836.T,JPX,AVIX,Other Products
+7837,7837.T,JPX,R.C. Core,Other Products
+7839,7839.T,JPX,Shoei,Other Products
+7840,7840.T,JPX,France Bed Holdings,Other Products
+7841,7841.T,JPX,Endo Manufacturing,Other Products
+7846,7846.T,JPX,Pilot,Other Products
+7847,7847.T,JPX,Graphite Design,Other Products
+7850,7850.T,JPX,Sougou Shouken,Other Products
+7851,7851.T,JPX,Kawase Computer Supplies,Other Products
+7856,7856.T,JPX,Hagihara Industries,Other Products
+7857,7857.T,JPX,SEKI,Other Products
+7859,7859.T,JPX,Almedio,Other Products
+7863,7863.T,JPX,HIRAGA,Other Products
+7864,7864.T,JPX,FUJI Seal International,Other Products
+7865,7865.T,JPX,People,Other Products
+7867,7867.T,JPX,TOMY,Other Products
+7868,7868.T,JPX,Kosaido Holdings,Other Products
+7872,7872.T,JPX,Estelle Holdings,Other Products
+7875,7875.T,JPX,Takeda IP Holdings,Other Products
+7878,7878.T,JPX,Kohsai,Other Products
+7879,7879.T,JPX,Noda,Other Products
+7883,7883.T,JPX,Sun Messe,Other Products
+7885,7885.T,JPX,Takano,Other Products
+7887,7887.T,JPX,Nankai Plywood,Other Products
+7893,7893.T,JPX,Pronexus,Other Products
+7896,7896.T,JPX,Seven Industries,Other Products
+7897,7897.T,JPX,Hokushin,Other Products
+7898,7898.T,JPX,Wood One,Other Products
+7901,7901.T,JPX,Matsumoto,Other Products
+7902,7902.T,JPX,Sonocom,Other Products
+7906,7906.T,JPX,Yonex,Other Products
+7911,7911.T,JPX,Toppan Holdings,Other Products
+7912,7912.T,JPX,Dai Nippon Printing,Other Products
+7914,7914.T,JPX,Kyodo Printing,Other Products
+7915,7915.T,JPX,Nissha,Other Products
+7916,7916.T,JPX,Mitsumura Printing,Other Products
+7919,7919.T,JPX,Nozaki Insatsu Shigyo,Other Products
+7921,7921.T,JPX,Takara & Company,Other Products
+7922,7922.T,JPX,Sanko Sangyo,Other Products
+7923,7923.T,JPX,TOIN,Other Products
+7932,7932.T,JPX,Nippi,Other Products
+7936,7936.T,JPX,ASICS,Other Products
+7937,7937.T,JPX,Tsutsumi Jewelry,Other Products
+7938,7938.T,JPX,Regal,Other Products
+7939,7939.T,JPX,Kensoh,Other Products
+7944,7944.T,JPX,Roland,Other Products
+7946,7946.T,JPX,Koyosha,Other Products
+7949,7949.T,JPX,Komatsu Wall Industry,Other Products
+7951,7951.T,JPX,Yamaha,Other Products
+7952,7952.T,JPX,Kawai Musical Instruments Manufacturing,Other Products
+7953,7953.T,JPX,Kikusui Chemical Industries,Other Products
+7955,7955.T,JPX,Cleanup,Other Products
+7956,7956.T,JPX,Pigeon,Other Products
+7957,7957.T,JPX,Fujicopian,Other Products
+7962,7962.T,JPX,King Jim,Other Products
+7963,7963.T,JPX,Koken,Other Products
+7966,7966.T,JPX,LINTEC,Other Products
+7972,7972.T,JPX,Itoki,Other Products
+7974,7974.T,JPX,Nintendo,Other Products
+7975,7975.T,JPX,Lihit Lab,Other Products
+7976,7976.T,JPX,Mitsubishi Pencil,Other Products
+7980,7980.T,JPX,Shigematsu Works,Other Products
+7981,7981.T,JPX,Takara Standard,Other Products
+7983,7983.T,JPX,Miroku,Other Products
+7984,7984.T,JPX,Kokuyo,Other Products
+7986,7986.T,JPX,NIHON ISK,Other Products
+7987,7987.T,JPX,Nakabayashi,Other Products
+7990,7990.T,JPX,GLOBERIDE,Other Products
+7992,7992.T,JPX,Sailor Pen,Other Products
+7994,7994.T,JPX,Okamura,Other Products
+7997,7997.T,JPX,Kurogane Kosakusho,Other Products
+8022,8022.T,JPX,Mizuno,Other Products
+130A,130A.T,JPX,Veritas In Silico,Pharmaceutical
+190A,190A.T,JPX,Chordia Therapeutics,Pharmaceutical
+197A,197A.T,JPX,Tauns Laboratories,Pharmaceutical
+2160,2160.T,JPX,GNI Group,Pharmaceutical
+4151,4151.T,JPX,Kyowa Kirin,Pharmaceutical
+4502,4502.T,JPX,Takeda Pharmaceutical,Pharmaceutical
+4503,4503.T,JPX,Astellas Pharma,Pharmaceutical
+4506,4506.T,JPX,Sumitomo Pharma,Pharmaceutical
+4507,4507.T,JPX,Shionogi,Pharmaceutical
+4512,4512.T,JPX,Wakamoto Pharmaceutical,Pharmaceutical
+4516,4516.T,JPX,Nippon Shinyaku,Pharmaceutical
+4519,4519.T,JPX,Chugai Pharmaceutical,Pharmaceutical
+4521,4521.T,JPX,Kaken Pharmaceutical,Pharmaceutical
+4523,4523.T,JPX,Eisai,Pharmaceutical
+4524,4524.T,JPX,Morishita Jintan,Pharmaceutical
+4527,4527.T,JPX,Rohto Pharmaceutical,Pharmaceutical
+4528,4528.T,JPX,Ono Pharmaceutical,Pharmaceutical
+4530,4530.T,JPX,Hisamitsu Pharmaceutical,Pharmaceutical
+4534,4534.T,JPX,Mochida Pharmaceutical,Pharmaceutical
+4536,4536.T,JPX,Santen Pharmaceutical,Pharmaceutical
+4538,4538.T,JPX,Fuso Pharmaceutical Industries,Pharmaceutical
+4539,4539.T,JPX,Nippon Chemiphar,Pharmaceutical
+4540,4540.T,JPX,Tsumura,Pharmaceutical
+4547,4547.T,JPX,Kissei Pharmaceutical,Pharmaceutical
+4548,4548.T,JPX,Seikagaku,Pharmaceutical
+4549,4549.T,JPX,Eiken Chemical,Pharmaceutical
+4551,4551.T,JPX,Torii Pharmaceutical,Pharmaceutical
+4552,4552.T,JPX,JCR Pharmaceuticals,Pharmaceutical
+4553,4553.T,JPX,TOWA Pharmaceutical,Pharmaceutical
+4554,4554.T,JPX,Fuji Pharma,Pharmaceutical
+4556,4556.T,JPX,KAINOS Laboratories,Pharmaceutical
+4558,4558.T,JPX,Chukyo Iyakuhin,Pharmaceutical
+4559,4559.T,JPX,Zeria Pharmaceutical,Pharmaceutical
+4563,4563.T,JPX,AnGes,Pharmaceutical
+4564,4564.T,JPX,OncoTherapy Science,Pharmaceutical
+4565,4565.T,JPX,Nxera Pharma,Pharmaceutical
+4568,4568.T,JPX,Daiichi Sankyo,Pharmaceutical
+4569,4569.T,JPX,Kyorin Pharmaceutical,Pharmaceutical
+4570,4570.T,JPX,Immuno-Biological Laboratories,Pharmaceutical
+4571,4571.T,JPX,Nano Mrna,Pharmaceutical
+4572,4572.T,JPX,Carna Biosciences,Pharmaceutical
+4574,4574.T,JPX,Taiko Pharmaceutical,Pharmaceutical
+4575,4575.T,JPX,CanBas,Pharmaceutical
+4576,4576.T,JPX,D. Western Therapeutics Institute,Pharmaceutical
+4577,4577.T,JPX,Daito Pharmaceutical,Pharmaceutical
+4578,4578.T,JPX,Otsuka Holdings,Pharmaceutical
+4579,4579.T,JPX,RaQualia Pharma,Pharmaceutical
+4582,4582.T,JPX,SymBio Pharmaceuticals,Pharmaceutical
+4583,4583.T,JPX,Chiome Bioscience,Pharmaceutical
+4584,4584.T,JPX,Kidswell Bio,Pharmaceutical
+4586,4586.T,JPX,Medrx,Pharmaceutical
+4587,4587.T,JPX,PeptiDream,Pharmaceutical
+4588,4588.T,JPX,Oncolys BioPharma,Pharmaceutical
+4591,4591.T,JPX,Ribomic,Pharmaceutical
+4592,4592.T,JPX,SanBio,Pharmaceutical
+4593,4593.T,JPX,Healios KK,Pharmaceutical
+4594,4594.T,JPX,BrightPath Biotherapeutics,Pharmaceutical
+4595,4595.T,JPX,Mizuho Medy,Pharmaceutical
+4596,4596.T,JPX,Kubota Pharmaceutical Holdings,Pharmaceutical
+4597,4597.T,JPX,Solasia Pharma KK,Pharmaceutical
+4598,4598.T,JPX,Delta-Fly Pharma,Pharmaceutical
+4599,4599.T,JPX,StemRIM,Pharmaceutical
+4875,4875.T,JPX,MediciNova,Pharmaceutical
+4880,4880.T,JPX,CellSource,Pharmaceutical
+4881,4881.T,JPX,FunPep,Pharmaceutical
+4882,4882.T,JPX,Perseus Proteomics,Pharmaceutical
+4883,4883.T,JPX,Modalis Therapeutics,Pharmaceutical
+4884,4884.T,JPX,Kringle Pharma,Pharmaceutical
+4885,4885.T,JPX,Muromachi Chemicals,Pharmaceutical
+4886,4886.T,JPX,ASKA Pharmaceutical Holdings,Pharmaceutical
+4887,4887.T,JPX,Sawai Group Holdings,Pharmaceutical
+4888,4888.T,JPX,Stella Pharma,Pharmaceutical
+4889,4889.T,JPX,Renascience,Pharmaceutical
+4890,4890.T,JPX,Tsubota Laboratory,Pharmaceutical
+4891,4891.T,JPX,TMS,Pharmaceutical
+4892,4892.T,JPX,Cyfuse Biomedical KK,Pharmaceutical
+4893,4893.T,JPX,Noile-Immune Biotech,Pharmaceutical
+4894,4894.T,JPX,Cuorips,Pharmaceutical
+4896,4896.T,JPX,K Pharma,Pharmaceutical
+4543,4543.T,JPX,Terumo,Precision Instruments
+5187,5187.T,JPX,Create Medic,Precision Instruments
+6376,6376.T,JPX,Nikkiso,Precision Instruments
+7600,7600.T,JPX,Japan Medical Dynamic Marketing,Precision Instruments
+7701,7701.T,JPX,Shimadzu,Precision Instruments
+7702,7702.T,JPX,JMS,Precision Instruments
+7705,7705.T,JPX,GL Sciences,Precision Instruments
+7707,7707.T,JPX,Precision System Science,Precision Instruments
+7709,7709.T,JPX,Kubotek,Precision Instruments
+7711,7711.T,JPX,Sukegawa Electric,Precision Instruments
+7713,7713.T,JPX,Sigma Koki,Precision Instruments
+7715,7715.T,JPX,Nagano Keiki,Precision Instruments
+7716,7716.T,JPX,Nakanishi,Precision Instruments
+7717,7717.T,JPX,V Technology,Precision Instruments
+7719,7719.T,JPX,TOKYO KOKI,Precision Instruments
+7721,7721.T,JPX,TOKYO KEIKI,Precision Instruments
+7722,7722.T,JPX,KOKUSAI,Precision Instruments
+7723,7723.T,JPX,Aichi Tokei Denki,Precision Instruments
+7725,7725.T,JPX,Inter Action,Precision Instruments
+7727,7727.T,JPX,Oval,Precision Instruments
+7729,7729.T,JPX,Tokyo Seimitsu,Precision Instruments
+7730,7730.T,JPX,Mani,Precision Instruments
+7731,7731.T,JPX,Nikon,Precision Instruments
+7732,7732.T,JPX,Topcon,Precision Instruments
+7733,7733.T,JPX,Olympus,Precision Instruments
+7734,7734.T,JPX,RIKEN KEIKI,Precision Instruments
+7740,7740.T,JPX,Tamron,Precision Instruments
+7741,7741.T,JPX,Hoya,Precision Instruments
+7743,7743.T,JPX,Seed,Precision Instruments
+7744,7744.T,JPX,Noritsu Koki,Precision Instruments
+7745,7745.T,JPX,A&D Holon Holdings,Precision Instruments
+7746,7746.T,JPX,Okamoto Glass,Precision Instruments
+7747,7747.T,JPX,Asahi Intecc,Precision Instruments
+7749,7749.T,JPX,Medikit,Precision Instruments
+7760,7760.T,JPX,IMV,Precision Instruments
+7762,7762.T,JPX,Citizen Watch,Precision Instruments
+7769,7769.T,JPX,Rhythm,Precision Instruments
+7771,7771.T,JPX,Nihon Seimitsu,Precision Instruments
+7774,7774.T,JPX,Japan Tissue Engineering,Precision Instruments
+7775,7775.T,JPX,Daiken Medical,Precision Instruments
+7776,7776.T,JPX,CellSeed,Precision Instruments
+7777,7777.T,JPX,3-D Matrix,Precision Instruments
+7779,7779.T,JPX,Cyberdyne,Precision Instruments
+7780,7780.T,JPX,Menicon,Precision Instruments
+7781,7781.T,JPX,HIRAYAMA Holdings,Precision Instruments
+7782,7782.T,JPX,Sincere,Precision Instruments
+7979,7979.T,JPX,Shofu,Precision Instruments
+8050,8050.T,JPX,Seiko Group,Precision Instruments
+8086,8086.T,JPX,Nipro,Precision Instruments
+3708,3708.T,JPX,Tokushu Tokai Paper,Pulp & Paper
+3861,3861.T,JPX,Oji Holdings,Pulp & Paper
+3863,3863.T,JPX,Nippon Paper Industries,Pulp & Paper
+3864,3864.T,JPX,Mitsubishi Paper Mills,Pulp & Paper
+3865,3865.T,JPX,Hokuetsu,Pulp & Paper
+3877,3877.T,JPX,Chuetsu Pulp & Paper,Pulp & Paper
+3880,3880.T,JPX,Daio Paper,Pulp & Paper
+3891,3891.T,JPX,Nippon Kodoshi,Pulp & Paper
+3892,3892.T,JPX,Okayama Paper Industries,Pulp & Paper
+3895,3895.T,JPX,Havix,Pulp & Paper
+3896,3896.T,JPX,Awa Paper & Technological,Pulp & Paper
+3941,3941.T,JPX,Rengo,Pulp & Paper
+3943,3943.T,JPX,Ohishi Sangyo,Pulp & Paper
+3944,3944.T,JPX,Furubayashi Shiko,Pulp & Paper
+3946,3946.T,JPX,Tomoku,Pulp & Paper
+3947,3947.T,JPX,Dynapac,Pulp & Paper
+3948,3948.T,JPX,Hikari Business Form,Pulp & Paper
+3950,3950.T,JPX,Pack,Pulp & Paper
+3951,3951.T,JPX,Asahi Printing,Pulp & Paper
+3953,3953.T,JPX,Ohmura Shigyo,Pulp & Paper
+3954,3954.T,JPX,Showa Paxxs,Pulp & Paper
+3955,3955.T,JPX,Imura,Pulp & Paper
+3958,3958.T,JPX,Sasatoku Printing,Pulp & Paper
+1435,1435.T,JPX,Robot Home,Real Estate
+146A,146A.T,JPX,Columbia Works,Real Estate
+166A,166A.T,JPX,Tasuki Holdings,Real Estate
+1783,1783.T,JPX,Fantasista,Real Estate
+1878,1878.T,JPX,Daito Trust Construction,Real Estate
+187A,187A.T,JPX,Samty Holdings,Real Estate
+2337,2337.T,JPX,Ichigo,Real Estate
+2353,2353.T,JPX,Nippon Parking Development,Real Estate
+2970,2970.T,JPX,Good Life,Real Estate
+2975,2975.T,JPX,Star Mica Holdings,Real Estate
+2978,2978.T,JPX,Tsukuruba,Real Estate
+2980,2980.T,JPX,SRE Holdings,Real Estate
+2981,2981.T,JPX,Landix,Real Estate
+2982,2982.T,JPX,A D Works Group,Real Estate
+2983,2983.T,JPX,Arr Planner,Real Estate
+2984,2984.T,JPX,Yamaichi Uniheim Real Estate,Real Estate
+2986,2986.T,JPX,LA Holdings,Real Estate
+2991,2991.T,JPX,Landnet,Real Estate
+2993,2993.T,JPX,Choei,Real Estate
+2997,2997.T,JPX,Storage-OH,Real Estate
+2998,2998.T,JPX,Creal,Real Estate
+2999,2999.T,JPX,Home Position,Real Estate
+3003,3003.T,JPX,Hulic,Real Estate
+3231,3231.T,JPX,Nomura Real Estate Holdings,Real Estate
+3232,3232.T,JPX,Mie Kotsu Group Holdings,Real Estate
+3236,3236.T,JPX,Properst,Real Estate
+3237,3237.T,JPX,Intrance,Real Estate
+3238,3238.T,JPX,Central General Development,Real Estate
+3241,3241.T,JPX,WILL,Real Estate
+3242,3242.T,JPX,Urbanet,Real Estate
+3245,3245.T,JPX,Dear Life,Real Estate
+3246,3246.T,JPX,Kose R.E.,Real Estate
+3248,3248.T,JPX,Early Age,Real Estate
+3252,3252.T,JPX,Jinushi,Real Estate
+3254,3254.T,JPX,Pressance,Real Estate
+3261,3261.T,JPX,Grandes,Real Estate
+3264,3264.T,JPX,Ascot,Real Estate
+3266,3266.T,JPX,Fund Creation Group,Real Estate
+3271,3271.T,JPX,Global,Real Estate
+3275,3275.T,JPX,Housecom,Real Estate
+3276,3276.T,JPX,Japan Property Management Center,Real Estate
+3277,3277.T,JPX,Sansei Landic,Real Estate
+3280,3280.T,JPX,STrust,Real Estate
+3284,3284.T,JPX,Hoosiers Holdings,Real Estate
+3286,3286.T,JPX,Trust Holdings,Real Estate
+3288,3288.T,JPX,Open House Group,Real Estate
+3289,3289.T,JPX,Tokyu Fudosan Holdings,Real Estate
+3291,3291.T,JPX,Iida Group Holdings,Real Estate
+3293,3293.T,JPX,AZUMA HOUSE,Real Estate
+3294,3294.T,JPX,e'grand,Real Estate
+3297,3297.T,JPX,Toubujyuhan,Real Estate
+3299,3299.T,JPX,MUGEN ESTATE,Real Estate
+3300,3300.T,JPX,Ambition Dx Holdings,Real Estate
+3452,3452.T,JPX,B-Lot,Real Estate
+3454,3454.T,JPX,First Brothers,Real Estate
+3457,3457.T,JPX,&Do Holdings,Real Estate
+3458,3458.T,JPX,CRE,Real Estate
+3461,3461.T,JPX,Palma,Real Estate
+3465,3465.T,JPX,Ki-Star Real Estate,Real Estate
+3467,3467.T,JPX,Agratio urban design,Real Estate
+3469,3469.T,JPX,Dualtap,Real Estate
+3474,3474.T,JPX,G-Factory,Real Estate
+3475,3475.T,JPX,Good Com Asset,Real Estate
+3477,3477.T,JPX,FORLIFE,Real Estate
+3479,3479.T,JPX,TKP,Real Estate
+3480,3480.T,JPX,J.S.B,Real Estate
+3482,3482.T,JPX,Loadstar Capital KK,Real Estate
+3484,3484.T,JPX,Tenpo Innovation,Real Estate
+3486,3486.T,JPX,Global Link Management,Real Estate
+3489,3489.T,JPX,FaithNetwork,Real Estate
+3490,3490.T,JPX,Azplanning,Real Estate
+3491,3491.T,JPX,GAtechnologies,Real Estate
+3494,3494.T,JPX,Mullion,Real Estate
+3495,3495.T,JPX,Koryojyuhan,Real Estate
+3496,3496.T,JPX,AZoom,Real Estate
+3497,3497.T,JPX,LeTech,Real Estate
+3498,3498.T,JPX,Kasumigaseki Capital,Real Estate
+3772,3772.T,JPX,Wealth Management,Real Estate
+4666,4666.T,JPX,Park24,Real Estate
+4809,4809.T,JPX,Paraca,Real Estate
+5280,5280.T,JPX,Yoshicon,Real Estate
+5527,5527.T,JPX,Property Technologies,Real Estate
+5532,5532.T,JPX,Realgate,Real Estate
+5533,5533.T,JPX,Elitz Holdings,Real Estate
+5535,5535.T,JPX,Migalo Holdings,Real Estate
+6620,6620.T,JPX,Miyakoshi Holdings,Real Estate
+6625,6625.T,JPX,JALCO Holdings,Real Estate
+8801,8801.T,JPX,Mitsui Fudosan,Real Estate
+8802,8802.T,JPX,Mitsubishi Estate,Real Estate
+8803,8803.T,JPX,Heiwa Real Estate,Real Estate
+8804,8804.T,JPX,Tokyo Tatemono,Real Estate
+8818,8818.T,JPX,Keihanshin Building,Real Estate
+8830,8830.T,JPX,Sumitomo Realty & Development,Real Estate
+8836,8836.T,JPX,Rise,Real Estate
+8841,8841.T,JPX,TOC,Real Estate
+8844,8844.T,JPX,Cosmos Initia,Real Estate
+8848,8848.T,JPX,Leo Palace21,Real Estate
+8850,8850.T,JPX,Starts,Real Estate
+8860,8860.T,JPX,Fuji,Real Estate
+8864,8864.T,JPX,Airport Facilities,Real Estate
+8869,8869.T,JPX,Meiwa Estate,Real Estate
+8871,8871.T,JPX,Goldcrest,Real Estate
+8877,8877.T,JPX,Eslead,Real Estate
+8881,8881.T,JPX,Nisshin Group Holdings,Real Estate
+8886,8886.T,JPX,Wood Friends,Real Estate
+8887,8887.T,JPX,Cumica,Real Estate
+8889,8889.T,JPX,Apaman,Real Estate
+8890,8890.T,JPX,Raysum,Real Estate
+8891,8891.T,JPX,AMG Holdings,Real Estate
+8892,8892.T,JPX,ES-CON JAPAN,Real Estate
+8894,8894.T,JPX,Revolution,Real Estate
+8897,8897.T,JPX,Mirarth Holdings,Real Estate
+8898,8898.T,JPX,Century21 Real Estate Of Japan,Real Estate
+8904,8904.T,JPX,Avantia,Real Estate
+8905,8905.T,JPX,AEON Mall,Real Estate
+8908,8908.T,JPX,Mainichi Comnet,Real Estate
+8912,8912.T,JPX,Area Quest,Real Estate
+8914,8914.T,JPX,Arealink,Real Estate
+8917,8917.T,JPX,First Juken,Real Estate
+8918,8918.T,JPX,Land,Real Estate
+8919,8919.T,JPX,Katitas,Real Estate
+8923,8923.T,JPX,Tosei,Real Estate
+8927,8927.T,JPX,Meiho Enterprise,Real Estate
+8928,8928.T,JPX,Anabuki Kosan,Real Estate
+8929,8929.T,JPX,Aoyama Zaisan Networks,Real Estate
+8931,8931.T,JPX,Wadakohsan,Real Estate
+8934,8934.T,JPX,Sun Frontier Fudousan,Real Estate
+8935,8935.T,JPX,FJ Next Holdings,Real Estate
+8938,8938.T,JPX,Glome Holdings,Real Estate
+8940,8940.T,JPX,Intellex,Real Estate
+8944,8944.T,JPX,Land Business,Real Estate
+8945,8945.T,JPX,Sunnexta Group,Real Estate
+8946,8946.T,JPX,Asian Star,Real Estate
+8995,8995.T,JPX,Makoto Construction,Real Estate
+8996,8996.T,JPX,Housefreedom,Real Estate
+8999,8999.T,JPX,Grandy House,Real Estate
+9706,9706.T,JPX,Japan Airport Terminal,Real Estate
+9816,9816.T,JPX,Striders,Real Estate
+9820,9820.T,JPX,Mt Genex,Real Estate
+138A,138A.T,JPX,Hikari Food Service,Retail Trade
+141A,141A.T,JPX,Trial Holdings,Retail Trade
+2651,2651.T,JPX,Lawson,Retail Trade
+2652,2652.T,JPX,Mandarake,Retail Trade
+2653,2653.T,JPX,Aeon Kyushu,Retail Trade
+2654,2654.T,JPX,Asmo,Retail Trade
+2656,2656.T,JPX,Vector Holdings,Retail Trade
+2659,2659.T,JPX,SAN-A,Retail Trade
+2664,2664.T,JPX,Cawachi,Retail Trade
+2666,2666.T,JPX,AUTOWAVE,Retail Trade
+2669,2669.T,JPX,Kanemi,Retail Trade
+2670,2670.T,JPX,ABC-Mart,Retail Trade
+2673,2673.T,JPX,Yumemitsuketai,Retail Trade
+2674,2674.T,JPX,Hard Off,Retail Trade
+2678,2678.T,JPX,ASKUL,Retail Trade
+2681,2681.T,JPX,Geo Holdings,Retail Trade
+2683,2683.T,JPX,Uoki,Retail Trade
+2685,2685.T,JPX,Adastria,Retail Trade
+2686,2686.T,JPX,Gfoot,Retail Trade
+2687,2687.T,JPX,CVS Bay Area,Retail Trade
+2694,2694.T,JPX,Yakiniku Sakai Holdings,Retail Trade
+2695,2695.T,JPX,Kura Sushi,Retail Trade
+2698,2698.T,JPX,Can Do,Retail Trade
+2702,2702.T,JPX,McDonald's Holdings Co (Japan),Retail Trade
+2705,2705.T,JPX,OOTOYA Holdings,Retail Trade
+2722,2722.T,JPX,Ik Holdings,Retail Trade
+2726,2726.T,JPX,PAL Group Holdings,Retail Trade
+2730,2730.T,JPX,EDION,Retail Trade
+2734,2734.T,JPX,Sala,Retail Trade
+2735,2735.T,JPX,Watts,Retail Trade
+2736,2736.T,JPX,Festaria Holdings,Retail Trade
+2742,2742.T,JPX,Halows,Retail Trade
+2747,2747.T,JPX,Hokuyu Lucky,Retail Trade
+2752,2752.T,JPX,Fujio Food Group,Retail Trade
+2753,2753.T,JPX,Amiyaki Tei,Retail Trade
+2754,2754.T,JPX,Tokatsu Holdings,Retail Trade
+2762,2762.T,JPX,Sanko Marketing Foods,Retail Trade
+2764,2764.T,JPX,Hiramatsu,Retail Trade
+2769,2769.T,JPX,Village Vanguard,Retail Trade
+2778,2778.T,JPX,Palemo Holdings,Retail Trade
+2780,2780.T,JPX,Komehyo Holdings,Retail Trade
+2782,2782.T,JPX,Seria,Retail Trade
+2789,2789.T,JPX,Karula,Retail Trade
+2790,2790.T,JPX,NAFCO,Retail Trade
+2791,2791.T,JPX,Daikokutenbussan,Retail Trade
+2792,2792.T,JPX,Honeys Holdings,Retail Trade
+2796,2796.T,JPX,Pharmarise Holdings,Retail Trade
+2798,2798.T,JPX,Y's table,Retail Trade
+3011,3011.T,JPX,Banners,Retail Trade
+3020,3020.T,JPX,Applied,Retail Trade
+3028,3028.T,JPX,Alpen,Retail Trade
+3030,3030.T,JPX,HUB,Retail Trade
+3034,3034.T,JPX,Qol Holdings,Retail Trade
+3046,3046.T,JPX,JINS Holdings,Retail Trade
+3048,3048.T,JPX,BIC Camera,Retail Trade
+3050,3050.T,JPX,DCM Holdings,Retail Trade
+3053,3053.T,JPX,Pepper Food Service,Retail Trade
+3058,3058.T,JPX,Sanyodo Holdings,Retail Trade
+3059,3059.T,JPX,Hiraki,Retail Trade
+3063,3063.T,JPX,J-Group Holdings,Retail Trade
+3064,3064.T,JPX,MonotaRO,Retail Trade
+3065,3065.T,JPX,Life Foods,Retail Trade
+3067,3067.T,JPX,Tokyo Ichiban Foods,Retail Trade
+3068,3068.T,JPX,WDI,Retail Trade
+3069,3069.T,JPX,JFLA Holdings,Retail Trade
+3071,3071.T,JPX,Stream,Retail Trade
+3073,3073.T,JPX,DD Group,Retail Trade
+3075,3075.T,JPX,Choushimaru,Retail Trade
+3077,3077.T,JPX,Horiifoodservice,Retail Trade
+3080,3080.T,JPX,Jason,Retail Trade
+3082,3082.T,JPX,Kichiri Holdings,Retail Trade
+3083,3083.T,JPX,C'sMEN,Retail Trade
+3086,3086.T,JPX,J Front Retailing,Retail Trade
+3087,3087.T,JPX,Doutor Nichires Holdings,Retail Trade
+3088,3088.T,JPX,MatsukiyoCocokara,Retail Trade
+3091,3091.T,JPX,Bronco Billy,Retail Trade
+3092,3092.T,JPX,Zozo,Retail Trade
+3093,3093.T,JPX,Treasure Factory,Retail Trade
+3094,3094.T,JPX,Super Value,Retail Trade
+3096,3096.T,JPX,Ocean System,Retail Trade
+3097,3097.T,JPX,Monogatari,Retail Trade
+3099,3099.T,JPX,Isetan Mitsukoshi Holdings,Retail Trade
+3133,3133.T,JPX,kaihan,Retail Trade
+3134,3134.T,JPX,Hamee,Retail Trade
+3135,3135.T,JPX,MarketEnterprise,Retail Trade
+3137,3137.T,JPX,Fundely,Retail Trade
+3138,3138.T,JPX,Fujisan Magazine Service,Retail Trade
+3141,3141.T,JPX,Welcia Holdings,Retail Trade
+3148,3148.T,JPX,Create SD Holdings,Retail Trade
+3159,3159.T,JPX,Maruzen CHI Holdings,Retail Trade
+3169,3169.T,JPX,Misawa,Retail Trade
+3172,3172.T,JPX,Tea Life,Retail Trade
+3174,3174.T,JPX,Happiness and D,Retail Trade
+3175,3175.T,JPX,AP Holdings,Retail Trade
+3177,3177.T,JPX,Arigatou Services,Retail Trade
+3178,3178.T,JPX,Chimney,Retail Trade
+3179,3179.T,JPX,Syuppin,Retail Trade
+3181,3181.T,JPX,KAITORI OKOKU,Retail Trade
+3182,3182.T,JPX,Oisix ra daichi,Retail Trade
+3184,3184.T,JPX,International Conglomerate of Distribution for Automobile Holdings,Retail Trade
+3185,3185.T,JPX,DREAM VISION,Retail Trade
+3186,3186.T,JPX,NEXTAGE,Retail Trade
+3187,3187.T,JPX,Sanwa,Retail Trade
+3189,3189.T,JPX,ANAP,Retail Trade
+3190,3190.T,JPX,Hotman,Retail Trade
+3191,3191.T,JPX,Joyful Honda,Retail Trade
+3192,3192.T,JPX,Shirohato,Retail Trade
+3193,3193.T,JPX,Eternal Hospitality Group,Retail Trade
+3195,3195.T,JPX,Generation Pass,Retail Trade
+3196,3196.T,JPX,Hotland,Retail Trade
+3197,3197.T,JPX,Skylark Holdings,Retail Trade
+3198,3198.T,JPX,SFP Holdings,Retail Trade
+3199,3199.T,JPX,Watahan,Retail Trade
+3221,3221.T,JPX,Yossix Holdings,Retail Trade
+3222,3222.T,JPX,United Super Markets Holdings,Retail Trade
+3223,3223.T,JPX,SLD Entertainment,Retail Trade
+3224,3224.T,JPX,General Oyster,Retail Trade
+3317,3317.T,JPX,Flying Garden,Retail Trade
+3319,3319.T,JPX,Golf Digest Online,Retail Trade
+3328,3328.T,JPX,Beenos,Retail Trade
+3329,3329.T,JPX,Towa Food Service,Retail Trade
+3333,3333.T,JPX,Asahi,Retail Trade
+3341,3341.T,JPX,Nihon Chouzai,Retail Trade
+3347,3347.T,JPX,Trust,Retail Trade
+3349,3349.T,JPX,COSMOS Pharmaceutical,Retail Trade
+3352,3352.T,JPX,Buffalo,Retail Trade
+3353,3353.T,JPX,Medical Ikkou Group,Retail Trade
+3358,3358.T,JPX,Y.S.Food,Retail Trade
+3361,3361.T,JPX,Toell,Retail Trade
+3370,3370.T,JPX,Fujita,Retail Trade
+3372,3372.T,JPX,Kanmonkai,Retail Trade
+3375,3375.T,JPX,Zoa,Retail Trade
+3382,3382.T,JPX,Seven & i Holdings,Retail Trade
+3387,3387.T,JPX,Create Restaurants Holdings,Retail Trade
+3391,3391.T,JPX,Tsuruha Holdings,Retail Trade
+3395,3395.T,JPX,Saint Marc Holdings,Retail Trade
+3396,3396.T,JPX,Felissimo,Retail Trade
+3397,3397.T,JPX,Toridoll Holdings,Retail Trade
+3399,3399.T,JPX,Maruchiyo Yamaokaya,Retail Trade
+3415,3415.T,JPX,Tokyo Base,Retail Trade
+3416,3416.T,JPX,Pixta,Retail Trade
+3418,3418.T,JPX,Balnibarbi,Retail Trade
+3536,3536.T,JPX,AXAS Holdings,Retail Trade
+3538,3538.T,JPX,Willplus Holdings,Retail Trade
+3539,3539.T,JPX,JM Holdings,Retail Trade
+3542,3542.T,JPX,Vega,Retail Trade
+3544,3544.T,JPX,Satudora Holdings,Retail Trade
+3546,3546.T,JPX,Alleanza Holdings,Retail Trade
+3547,3547.T,JPX,Kushikatsu Tanaka Holdings,Retail Trade
+3548,3548.T,JPX,Baroque Japan,Retail Trade
+3549,3549.T,JPX,Kusuri No Aoki Holdings,Retail Trade
+3550,3550.T,JPX,STUDIO ATAO,Retail Trade
+3556,3556.T,JPX,Renet Japan Group,Retail Trade
+3557,3557.T,JPX,United & Collective,Retail Trade
+3558,3558.T,JPX,Jade Group,Retail Trade
+3560,3560.T,JPX,Hobonichi,Retail Trade
+3561,3561.T,JPX,Chikaranomoto Holdings,Retail Trade
+3563,3563.T,JPX,Food & Life Companies,Retail Trade
+3566,3566.T,JPX,Uniform Next,Retail Trade
+3726,3726.T,JPX,4Cs HD,Retail Trade
+3825,3825.T,JPX,Remixpoint,Retail Trade
+4350,4350.T,JPX,Medical System Network,Retail Trade
+5856,5856.T,JPX,Life Intelligent Enterprise Holdings,Retail Trade
+5884,5884.T,JPX,Kuradashi,Retail Trade
+5888,5888.T,JPX,Daiwa Cycle,Retail Trade
+5889,5889.T,JPX,Japan Eyewear Holdings,Retail Trade
+5891,5891.T,JPX,Kairikiya,Retail Trade
+5892,5892.T,JPX,Yutori,Retail Trade
+6993,6993.T,JPX,Daikokuya Holdings,Retail Trade
+7110,7110.T,JPX,Kurashicom,Retail Trade
+7112,7112.T,JPX,Cube,Retail Trade
+7119,7119.T,JPX,Halmek holdings,Retail Trade
+7126,7126.T,JPX,Global Style,Retail Trade
+7127,7127.T,JPX,Ikka Holdings,Retail Trade
+7129,7129.T,JPX,Miahelsa Holdings,Retail Trade
+7133,7133.T,JPX,Hyuga Primary Care,Retail Trade
+7134,7134.T,JPX,UP Garage Group,Retail Trade
+7135,7135.T,JPX,Japan Craft Holdings,Retail Trade
+7138,7138.T,JPX,TORICO,Retail Trade
+7140,7140.T,JPX,Petgo,Retail Trade
+7412,7412.T,JPX,Atom,Retail Trade
+7416,7416.T,JPX,Haruyama Holdings,Retail Trade
+7419,7419.T,JPX,Nojima,Retail Trade
+7421,7421.T,JPX,Kappa Create,Retail Trade
+7445,7445.T,JPX,Right On,Retail Trade
+7450,7450.T,JPX,Sunday,Retail Trade
+7453,7453.T,JPX,Ryohin Keikaku,Retail Trade
+7455,7455.T,JPX,Paris Miki Holdings,Retail Trade
+7462,7462.T,JPX,Capita,Retail Trade
+7463,7463.T,JPX,Advan Group,Retail Trade
+7475,7475.T,JPX,Albis,Retail Trade
+7494,7494.T,JPX,Konaka,Retail Trade
+7506,7506.T,JPX,HOUSE OF ROSE,Retail Trade
+7508,7508.T,JPX,G-7 HOLDINGS,Retail Trade
+7509,7509.T,JPX,I. A. Group,Retail Trade
+7512,7512.T,JPX,Aeon Hokkaido,Retail Trade
+7513,7513.T,JPX,Kojima,Retail Trade
+7514,7514.T,JPX,Himaraya,Retail Trade
+7515,7515.T,JPX,Maruyoshi Center,Retail Trade
+7516,7516.T,JPX,Kohnan Shoji,Retail Trade
+7520,7520.T,JPX,Eco's,Retail Trade
+7522,7522.T,JPX,Watami,Retail Trade
+7523,7523.T,JPX,Art Vivant,Retail Trade
+7524,7524.T,JPX,Marche,Retail Trade
+7532,7532.T,JPX,Pan Pacific International Holdings,Retail Trade
+7544,7544.T,JPX,Three F,Retail Trade
+7545,7545.T,JPX,Nishimatsuya Chain,Retail Trade
+7550,7550.T,JPX,Zensho Holdings,Retail Trade
+7554,7554.T,JPX,Kourakuen Holdings,Retail Trade
+7561,7561.T,JPX,Hurxley,Retail Trade
+7562,7562.T,JPX,ANRAKUTEI,Retail Trade
+7564,7564.T,JPX,Workman,Retail Trade
+7571,7571.T,JPX,Yamano Holdings,Retail Trade
+7578,7578.T,JPX,Nichiryoku,Retail Trade
+7581,7581.T,JPX,Saizeriya,Retail Trade
+7585,7585.T,JPX,Kan-Nanmaru,Retail Trade
+7593,7593.T,JPX,VT HOLDINGS,Retail Trade
+7596,7596.T,JPX,Uoriki,Retail Trade
+7601,7601.T,JPX,Poplar,Retail Trade
+7603,7603.T,JPX,Mac House,Retail Trade
+7604,7604.T,JPX,Umenohana,Retail Trade
+7605,7605.T,JPX,Fuji,Retail Trade
+7606,7606.T,JPX,United Arrows,Retail Trade
+7610,7610.T,JPX,Tay Two,Retail Trade
+7611,7611.T,JPX,HIDAY HIDAKA,Retail Trade
+7614,7614.T,JPX,OM2 Network,Retail Trade
+7615,7615.T,JPX,YU-WA Creation Holdings,Retail Trade
+7616,7616.T,JPX,Colowide,Retail Trade
+7621,7621.T,JPX,Ukai,Retail Trade
+7623,7623.T,JPX,Sunautas,Retail Trade
+7625,7625.T,JPX,Global-Dining,Retail Trade
+7630,7630.T,JPX,Ichibanya,Retail Trade
+7636,7636.T,JPX,HANDSMAN,Retail Trade
+7638,7638.T,JPX,New Art Holdings,Retail Trade
+7640,7640.T,JPX,Top Culture,Retail Trade
+7643,7643.T,JPX,Daiichi,Retail Trade
+7646,7646.T,JPX,PLANT,Retail Trade
+7649,7649.T,JPX,Sugi Holdings,Retail Trade
+7674,7674.T,JPX,Natty Swanky Holdings,Retail Trade
+7676,7676.T,JPX,Good Speed,Retail Trade
+7678,7678.T,JPX,Asakuma,Retail Trade
+7679,7679.T,JPX,Yakuodo Holdings,Retail Trade
+7682,7682.T,JPX,Hamayuu,Retail Trade
+7683,7683.T,JPX,WA,Retail Trade
+7686,7686.T,JPX,Kakuyasu Group,Retail Trade
+7694,7694.T,JPX,itsumo,Retail Trade
+7695,7695.T,JPX,Koukandekirukun,Retail Trade
+7918,7918.T,JPX,VIA Holdings,Retail Trade
+8005,8005.T,JPX,Scroll,Retail Trade
+8008,8008.T,JPX,YONDOSHI HOLDINGS,Retail Trade
+8160,8160.T,JPX,Kisoji,Retail Trade
+8163,8163.T,JPX,Srs Holdings,Retail Trade
+8165,8165.T,JPX,Senshukai,Retail Trade
+8166,8166.T,JPX,Taka-Q,Retail Trade
+8167,8167.T,JPX,Retail Partners,Retail Trade
+8173,8173.T,JPX,Joshin Denki,Retail Trade
+8174,8174.T,JPX,Nippon Gas,Retail Trade
+8179,8179.T,JPX,ROYAL HOLDINGS,Retail Trade
+8181,8181.T,JPX,Totenko,Retail Trade
+8182,8182.T,JPX,Inageya,Retail Trade
+8185,8185.T,JPX,Chiyoda,Retail Trade
+8194,8194.T,JPX,Life,Retail Trade
+8198,8198.T,JPX,Maxvalu Tokai,Retail Trade
+8200,8200.T,JPX,Ringer Hut,Retail Trade
+8202,8202.T,JPX,Laox Holdings,Retail Trade
+8203,8203.T,JPX,MrMax Holdings,Retail Trade
+8207,8207.T,JPX,Ten Allied,Retail Trade
+8208,8208.T,JPX,Encho,Retail Trade
+8209,8209.T,JPX,Friendly,Retail Trade
+8214,8214.T,JPX,AOKI Holdings,Retail Trade
+8215,8215.T,JPX,Ginza Yamagataya,Retail Trade
+8217,8217.T,JPX,Okuwa,Retail Trade
+8218,8218.T,JPX,Komeri,Retail Trade
+8219,8219.T,JPX,Aoyama Trading,Retail Trade
+8227,8227.T,JPX,Shimamura,Retail Trade
+8230,8230.T,JPX,Hasegawa,Retail Trade
+8233,8233.T,JPX,Takashimaya,Retail Trade
+8237,8237.T,JPX,Matsuya,Retail Trade
+8242,8242.T,JPX,H2O Retailing,Retail Trade
+8244,8244.T,JPX,Kintetsu Department Store,Retail Trade
+8247,8247.T,JPX,Daiwa,Retail Trade
+8252,8252.T,JPX,Marui Group,Retail Trade
+8254,8254.T,JPX,Saikaya Department Store,Retail Trade
+8255,8255.T,JPX,Axial Retailing,Retail Trade
+8260,8260.T,JPX,Izutsuya,Retail Trade
+8267,8267.T,JPX,AEON,Retail Trade
+8273,8273.T,JPX,Izumi,Retail Trade
+8276,8276.T,JPX,HEIWADO,Retail Trade
+8278,8278.T,JPX,Fuji,Retail Trade
+8279,8279.T,JPX,Yaoko,Retail Trade
+8281,8281.T,JPX,XEBIO holdings,Retail Trade
+8282,8282.T,JPX,K'S Holdings,Retail Trade
+8289,8289.T,JPX,Olympic Group,Retail Trade
+8291,8291.T,JPX,Nissan Tokyo Sales Holdings,Retail Trade
+9262,9262.T,JPX,Silver Life,Retail Trade
+9267,9267.T,JPX,Genky Drug Stores,Retail Trade
+9271,9271.T,JPX,Wagokoro,Retail Trade
+9275,9275.T,JPX,Narumiya International,Retail Trade
+9278,9278.T,JPX,Bookoff Group Holdings,Retail Trade
+9279,9279.T,JPX,Gift Holdings,Retail Trade
+9627,9627.T,JPX,Ain Holdings,Retail Trade
+9823,9823.T,JPX,Mammy Mart,Retail Trade
+9828,9828.T,JPX,Genki Sushi,Retail Trade
+9831,9831.T,JPX,Yamada Holdings,Retail Trade
+9835,9835.T,JPX,Juntendo,Retail Trade
+9842,9842.T,JPX,Arclands,Retail Trade
+9843,9843.T,JPX,Nitori Holdings,Retail Trade
+9846,9846.T,JPX,Tenmaya Store,Retail Trade
+9850,9850.T,JPX,Gourmet Kineya,Retail Trade
+9853,9853.T,JPX,Ginza Renoir,Retail Trade
+9854,9854.T,JPX,Aigan,Retail Trade
+9856,9856.T,JPX,KU Holdings,Retail Trade
+9861,9861.T,JPX,Yoshinoya Holdings,Retail Trade
+9873,9873.T,JPX,KFC Holdings Japan,Retail Trade
+9876,9876.T,JPX,Cox,Retail Trade
+9878,9878.T,JPX,Sekido,Retail Trade
+9887,9887.T,JPX,Matsuya Foods Holdings,Retail Trade
+9890,9890.T,JPX,Makiya,Retail Trade
+9900,9900.T,JPX,Sagami Holdings,Retail Trade
+9903,9903.T,JPX,Kanseki,Retail Trade
+9904,9904.T,JPX,Verite,Retail Trade
+9919,9919.T,JPX,Kansai Food Market,Retail Trade
+9927,9927.T,JPX,Watt Mann,Retail Trade
+9936,9936.T,JPX,Ohsho Food Service,Retail Trade
+9946,9946.T,JPX,Ministop,Retail Trade
+9948,9948.T,JPX,Arcs,Retail Trade
+9950,9950.T,JPX,Hachi-Ban,Retail Trade
+9956,9956.T,JPX,Valor Holdings,Retail Trade
+9959,9959.T,JPX,Aseed Holdings,Retail Trade
+9969,9969.T,JPX,Shokubun,Retail Trade
+9973,9973.T,JPX,Kozosushi,Retail Trade
+9974,9974.T,JPX,Belc,Retail Trade
+9976,9976.T,JPX,Sekichu,Retail Trade
+9978,9978.T,JPX,Bunkyodo Group Holdings,Retail Trade
+9979,9979.T,JPX,Daisyo,Retail Trade
+9980,9980.T,JPX,MRK Holdings,Retail Trade
+9983,9983.T,JPX,Fast Retailing,Retail Trade
+9989,9989.T,JPX,Sundrug,Retail Trade
+9990,9990.T,JPX,Sac's Bar Holdings,Retail Trade
+9993,9993.T,JPX,Yamazawa,Retail Trade
+9994,9994.T,JPX,Yamaya,Retail Trade
+9997,9997.T,JPX,Belluna,Retail Trade
+5101,5101.T,JPX,Yokohama Rubber,Rubber Products
+5103,5103.T,JPX,Showa Holdings,Rubber Products
+5105,5105.T,JPX,Toyo Tire,Rubber Products
+5108,5108.T,JPX,Bridgestone,Rubber Products
+5110,5110.T,JPX,Sumitomo Rubber Industries,Rubber Products
+5121,5121.T,JPX,Fujikura Composites,Rubber Products
+5122,5122.T,JPX,Okamoto Industries,Rubber Products
+5161,5161.T,JPX,NISHIKAWA RUBBER,Rubber Products
+5162,5162.T,JPX,Asahi Rubber,Rubber Products
+5184,5184.T,JPX,Nichirin,Rubber Products
+5185,5185.T,JPX,Fukoku,Rubber Products
+5186,5186.T,JPX,Nitta,Rubber Products
+5189,5189.T,JPX,SAKURA RUBBER,Rubber Products
+5191,5191.T,JPX,Sumitomo Riko,Rubber Products
+5192,5192.T,JPX,Mitsuboshi Belting,Rubber Products
+5194,5194.T,JPX,Sagami Rubber Industries,Rubber Products
+5195,5195.T,JPX,Bando Chemical Industries,Rubber Products
+5199,5199.T,JPX,Fuji Latex,Rubber Products
+165A,165A.T,JPX,SBI Rheos Hifumi,Securities & Commodity Futures
+3113,3113.T,JPX,Univa Oak Holdings,Securities & Commodity Futures
+5834,5834.T,JPX,SBI Leasing Services,Securities & Commodity Futures
+5842,5842.T,JPX,Integral,Securities & Commodity Futures
+7148,7148.T,JPX,Financial Partners Group,Securities & Commodity Futures
+7162,7162.T,JPX,ASTMAX,Securities & Commodity Futures
+7172,7172.T,JPX,Japan Investment Adviser,Securities & Commodity Futures
+7175,7175.T,JPX,The Imamura Securities,Securities & Commodity Futures
+7177,7177.T,JPX,GMO Financial Holdings,Securities & Commodity Futures
+7185,7185.T,JPX,Hirose Tusyo,Securities & Commodity Futures
+7342,7342.T,JPX,WealthNavi,Securities & Commodity Futures
+7347,7347.T,JPX,Mercuria Holdings,Securities & Commodity Futures
+8462,8462.T,JPX,Future Venture Capital,Securities & Commodity Futures
+8473,8473.T,JPX,SBI Holdings,Securities & Commodity Futures
+8518,8518.T,JPX,Japan Asia Investment,Securities & Commodity Futures
+8595,8595.T,JPX,Jafco Group,Securities & Commodity Futures
+8601,8601.T,JPX,Daiwa Securities Group,Securities & Commodity Futures
+8604,8604.T,JPX,Nomura Holdings,Securities & Commodity Futures
+8609,8609.T,JPX,Okasan Securities Group,Securities & Commodity Futures
+8613,8613.T,JPX,Marusan Securities,Securities & Commodity Futures
+8614,8614.T,JPX,Toyo Securities,Securities & Commodity Futures
+8616,8616.T,JPX,Tokai Tokyo Financial Holdings,Securities & Commodity Futures
+8617,8617.T,JPX,The Kosei Securities,Securities & Commodity Futures
+8622,8622.T,JPX,Mito Securities,Securities & Commodity Futures
+8624,8624.T,JPX,Ichiyoshi Securities,Securities & Commodity Futures
+8628,8628.T,JPX,Matsui Securities,Securities & Commodity Futures
+8698,8698.T,JPX,Monex Group,Securities & Commodity Futures
+8699,8699.T,JPX,HS Holdings,Securities & Commodity Futures
+8700,8700.T,JPX,Maruhachi Securities,Securities & Commodity Futures
+8704,8704.T,JPX,Traders Holdings,Securities & Commodity Futures
+8705,8705.T,JPX,Nissan Securities Group,Securities & Commodity Futures
+8706,8706.T,JPX,Kyokuto Securities,Securities & Commodity Futures
+8707,8707.T,JPX,IwaiCosmo Holdings,Securities & Commodity Futures
+8708,8708.T,JPX,Aizawa Securities Group,Securities & Commodity Futures
+8732,8732.T,JPX,Money Partners Group,Securities & Commodity Futures
+8737,8737.T,JPX,Akatsuki,Securities & Commodity Futures
+8739,8739.T,JPX,SPARX Group,Securities & Commodity Futures
+8742,8742.T,JPX,Kobayashi Yoko,Securities & Commodity Futures
+8746,8746.T,JPX,Daiichi Commodities,Securities & Commodity Futures
+8747,8747.T,JPX,Yutaka Trusty Securities,Securities & Commodity Futures
+142A,142A.T,JPX,Jinjib,Services
+143A,143A.T,JPX,Ishin,Services
+150A,150A.T,JPX,JSH,Services
+151A,151A.T,JPX,Dive,Services
+156A,156A.T,JPX,Material Group,Services
+157A,157A.T,JPX,Green Monster,Services
+160A,160A.T,JPX,As Partners,Services
+1717,1717.T,JPX,Meiho Facility Works,Services
+186A,186A.T,JPX,Astroscale Holdings,Services
+189A,189A.T,JPX,D&M Co,Services
+192A,192A.T,JPX,Integroup,Services
+194A,194A.T,JPX,Wolves Hand,Services
+195A,195A.T,JPX,Ricecurry,Services
+2120,2120.T,JPX,Lifull,Services
+2121,2121.T,JPX,mixi,Services
+2122,2122.T,JPX,Interspace,Services
+2124,2124.T,JPX,JAC Recruitment,Services
+2127,2127.T,JPX,Nihon M&A Center Holdings,Services
+2130,2130.T,JPX,Members,Services
+2134,2134.T,JPX,Sun Capital Management,Services
+2136,2136.T,JPX,HIP,Services
+2139,2139.T,JPX,CHUCO,Services
+2146,2146.T,JPX,UT Group,Services
+2148,2148.T,JPX,ITmedia,Services
+2150,2150.T,JPX,CareNet,Services
+2152,2152.T,JPX,Youji,Services
+2153,2153.T,JPX,E J Holdings,Services
+2154,2154.T,JPX,Open Up Group,Services
+2156,2156.T,JPX,Saylor Advertising,Services
+2157,2157.T,JPX,Koshidaka Holdings,Services
+2158,2158.T,JPX,Fronteo,Services
+2162,2162.T,JPX,NMS Holdings,Services
+2163,2163.T,JPX,Artner,Services
+2164,2164.T,JPX,Chiikishinbunsha,Services
+2168,2168.T,JPX,Pasona Group,Services
+2169,2169.T,JPX,CDS,Services
+2170,2170.T,JPX,Link and Motivation,Services
+2173,2173.T,JPX,Hakuten,Services
+2175,2175.T,JPX,SMS,Services
+2179,2179.T,JPX,Seigakusha,Services
+2180,2180.T,JPX,Sunny Side Up Group,Services
+2181,2181.T,JPX,Persol Holdings,Services
+2183,2183.T,JPX,Linical,Services
+2185,2185.T,JPX,CMC,Services
+2186,2186.T,JPX,Sobal,Services
+2193,2193.T,JPX,Cookpad,Services
+2195,2195.T,JPX,Amita Holdings,Services
+2196,2196.T,JPX,ESCRIT,Services
+2198,2198.T,JPX,IKK Holdings,Services
+2300,2300.T,JPX,Kyokuto,Services
+2301,2301.T,JPX,Gakujo,Services
+2304,2304.T,JPX,CSS HOLDINGS,Services
+2305,2305.T,JPX,Studio Alice,Services
+2311,2311.T,JPX,EPCO,Services
+2325,2325.T,JPX,NJS,Services
+2331,2331.T,JPX,Sohgo Security Services,Services
+2334,2334.T,JPX,eole,Services
+2340,2340.T,JPX,Gokurakuyu Holdings,Services
+2341,2341.T,JPX,Arbeit-Times,Services
+2342,2342.T,JPX,Trans Genic,Services
+2344,2344.T,JPX,Heian Ceremony Service,Services
+2370,2370.T,JPX,Medinet,Services
+2371,2371.T,JPX,Kakaku.com,Services
+2372,2372.T,JPX,I rom Group,Services
+2373,2373.T,JPX,Care Twentyone,Services
+2374,2374.T,JPX,Saint-Care Holding,Services
+2375,2375.T,JPX,GIG Works,Services
+2376,2376.T,JPX,Scinex,Services
+2378,2378.T,JPX,Renaissance,Services
+2379,2379.T,JPX,DIP,Services
+2385,2385.T,JPX,Soiken Holdings,Services
+2389,2389.T,JPX,Digital Holdings,Services
+2391,2391.T,JPX,Planet,Services
+2393,2393.T,JPX,Nippon Care Supply,Services
+2395,2395.T,JPX,Shin Nippon Biomedical Laboratories,Services
+2397,2397.T,JPX,DNA Chip Research,Services
+2404,2404.T,JPX,Tetsujin Holdings,Services
+2408,2408.T,JPX,KG Intelligence,Services
+2410,2410.T,JPX,Career Design Center,Services
+2413,2413.T,JPX,M3,Services
+2415,2415.T,JPX,Human Holdings,Services
+2418,2418.T,JPX,Tsukada Global Holdings,Services
+2424,2424.T,JPX,Brass,Services
+2425,2425.T,JPX,Care Service,Services
+2428,2428.T,JPX,Wellnet,Services
+2429,2429.T,JPX,World Holdings,Services
+2432,2432.T,JPX,DeNA,Services
+2433,2433.T,JPX,Hakuhodo DY Holdings,Services
+2435,2435.T,JPX,CEDAR,Services
+2436,2436.T,JPX,Kyodo Public Relations,Services
+2437,2437.T,JPX,Shinwa Wise Holdings,Services
+2438,2438.T,JPX,Asukanet,Services
+2440,2440.T,JPX,Gurunavi,Services
+2445,2445.T,JPX,Takamiya,Services
+2449,2449.T,JPX,PRAP Japan,Services
+2454,2454.T,JPX,All About,Services
+2459,2459.T,JPX,Aun Consulting,Services
+2461,2461.T,JPX,Fan Communications,Services
+2462,2462.T,JPX,LIKE,Services
+2464,2464.T,JPX,Aoba-BBT,Services
+2468,2468.T,JPX,FueTrek,Services
+2469,2469.T,JPX,Hibino,Services
+2471,2471.T,JPX,S-Pool,Services
+2475,2475.T,JPX,WDB Holdings,Services
+2479,2479.T,JPX,JTEC,Services
+2481,2481.T,JPX,Townnews-Sha,Services
+2483,2483.T,JPX,HONYAKU Center,Services
+2485,2485.T,JPX,TEAR,Services
+2487,2487.T,JPX,CDG,Services
+2488,2488.T,JPX,JTP,Services
+2489,2489.T,JPX,Adways,Services
+2491,2491.T,JPX,ValueCommerce,Services
+2492,2492.T,JPX,Infomart,Services
+2493,2493.T,JPX,E-SUPPORTLINK,Services
+2497,2497.T,JPX,UNITED,Services
+2498,2498.T,JPX,Oriental Consultants Holdings,Services
+2499,2499.T,JPX,Nihonwasou Holdings,Services
+2749,2749.T,JPX,JP-HOLDINGS,Services
+3010,3010.T,JPX,Polaris Holdings,Services
+3021,3021.T,JPX,Pacific Net,Services
+3121,3121.T,JPX,MBK,Services
+3326,3326.T,JPX,Runsystem,Services
+3521,3521.T,JPX,Econach Holdings,Services
+4286,4286.T,JPX,CL Holdings,Services
+4290,4290.T,JPX,Prestige International,Services
+4293,4293.T,JPX,Septeni Holdings,Services
+4301,4301.T,JPX,Amuse,Services
+4310,4310.T,JPX,Dream Incubator,Services
+4317,4317.T,JPX,Ray,Services
+4318,4318.T,JPX,Quick,Services
+4319,4319.T,JPX,TAC,Services
+4324,4324.T,JPX,Dentsu Group,Services
+4331,4331.T,JPX,Take And Give Needs,Services
+4337,4337.T,JPX,PIA,Services
+4341,4341.T,JPX,Seiryo Electric,Services
+4343,4343.T,JPX,AEON Fantasy,Services
+4345,4345.T,JPX,CTS,Services
+4347,4347.T,JPX,Broadmedia,Services
+4544,4544.T,JPX,H U Group Holdings,Services
+4641,4641.T,JPX,Altech,Services
+4642,4642.T,JPX,Original Engineering Consultants,Services
+4645,4645.T,JPX,Ichishin Holdings,Services
+4650,4650.T,JPX,SD Entertainment,Services
+4651,4651.T,JPX,Sanix,Services
+4657,4657.T,JPX,Environmental Control Center,Services
+4658,4658.T,JPX,Nippon Air Conditioning Services,Services
+4659,4659.T,JPX,AJIS,Services
+4661,4661.T,JPX,Oriental Land,Services
+4664,4664.T,JPX,Japan Reliance Service,Services
+4665,4665.T,JPX,Duskin,Services
+4668,4668.T,JPX,Meiko Network Japan,Services
+4671,4671.T,JPX,Falco Holdings,Services
+4673,4673.T,JPX,Kawasaki Geological Engineering,Services
+4678,4678.T,JPX,Shuei Yobiko,Services
+4679,4679.T,JPX,Taya,Services
+4680,4680.T,JPX,Round One,Services
+4681,4681.T,JPX,Resorttrust,Services
+4690,4690.T,JPX,Nippon Pallet Pool,Services
+4691,4691.T,JPX,Washington Hotel,Services
+4694,4694.T,JPX,BML,Services
+4705,4705.T,JPX,CLIP,Services
+4707,4707.T,JPX,Kitac,Services
+4712,4712.T,JPX,KeyHolder,Services
+4714,4714.T,JPX,Riso Kyoiku,Services
+4718,4718.T,JPX,Waseda Academy,Services
+4720,4720.T,JPX,Johnan Academic Preparatory Institute,Services
+4732,4732.T,JPX,USS,Services
+4735,4735.T,JPX,Kyoshin,Services
+4745,4745.T,JPX,Tokyo Individualized Educational Institute,Services
+4750,4750.T,JPX,Daisan,Services
+4751,4751.T,JPX,CyberAgent,Services
+4754,4754.T,JPX,Tosnet,Services
+4755,4755.T,JPX,Rakuten Group,Services
+4760,4760.T,JPX,Alpha,Services
+4763,4763.T,JPX,CREEK & RIVER,Services
+4765,4765.T,JPX,SBI Global Asset Management,Services
+4766,4766.T,JPX,PA,Services
+4767,4767.T,JPX,TOW,Services
+4771,4771.T,JPX,F&M,Services
+4781,4781.T,JPX,Nihon Housing,Services
+4784,4784.T,JPX,GMO AD Partners,Services
+4792,4792.T,JPX,YAMADA Consulting Group,Services
+4801,4801.T,JPX,Central Sports,Services
+4833,4833.T,JPX,Success Holders,Services
+4840,4840.T,JPX,TriIs,Services
+4848,4848.T,JPX,Fullcast Holdings,Services
+4849,4849.T,JPX,En Japan,Services
+5261,5261.T,JPX,Resol Holdings,Services
+5867,5867.T,JPX,Es Networks,Services
+5868,5868.T,JPX,Rococo,Services
+5869,5869.T,JPX,Waseda Gakushukenkyukai,Services
+5870,5870.T,JPX,Nalnet Communications,Services
+5871,5871.T,JPX,Solize,Services
+6026,6026.T,JPX,Gmo Tech,Services
+6027,6027.T,JPX,Bengo4.com,Services
+6028,6028.T,JPX,TechnoPro Holdings,Services
+6029,6029.T,JPX,Artra Group,Services
+6030,6030.T,JPX,Adventure,Services
+6031,6031.T,JPX,Scigineer,Services
+6033,6033.T,JPX,Extreme,Services
+6034,6034.T,JPX,MRT,Services
+6035,6035.T,JPX,IR Japan Holdings,Services
+6036,6036.T,JPX,KeePer Technical Laboratory,Services
+6037,6037.T,JPX,Firstlogic,Services
+6038,6038.T,JPX,IID,Services
+6039,6039.T,JPX,Japan Animal Referral Medical Center,Services
+6040,6040.T,JPX,Nippon Ski Resort Development,Services
+6044,6044.T,JPX,Sanki Service,Services
+6045,6045.T,JPX,Rentracks,Services
+6046,6046.T,JPX,Linkbal,Services
+6047,6047.T,JPX,Gunosy,Services
+6048,6048.T,JPX,DesignOne Japan,Services
+6049,6049.T,JPX,ItoKuro,Services
+6050,6050.T,JPX,E-Guardian,Services
+6054,6054.T,JPX,Livesense,Services
+6055,6055.T,JPX,Japan Material,Services
+6058,6058.T,JPX,Vector,Services
+6059,6059.T,JPX,Uchiyama Holdings,Services
+6060,6060.T,JPX,Cocolonet,Services
+6061,6061.T,JPX,Universal Engeisha,Services
+6062,6062.T,JPX,Charm Care,Services
+6063,6063.T,JPX,Emergency Assistance Japan,Services
+6069,6069.T,JPX,Trenders,Services
+6070,6070.T,JPX,CAREERLINK,Services
+6071,6071.T,JPX,IBJ,Services
+6072,6072.T,JPX,Jibannet Holdings,Services
+6073,6073.T,JPX,ASANTE,Services
+6074,6074.T,JPX,JSS,Services
+6078,6078.T,JPX,Value HR,Services
+6080,6080.T,JPX,M&A Capital Partners,Services
+6081,6081.T,JPX,Allied Architects,Services
+6082,6082.T,JPX,RIDE ON EXPRESS Holdings,Services
+6083,6083.T,JPX,ERI HOLDINGS,Services
+6085,6085.T,JPX,Architects Studio Japan,Services
+6086,6086.T,JPX,Shin Maint Holdings,Services
+6087,6087.T,JPX,ABIST,Services
+6088,6088.T,JPX,Sigmaxyz Holdings,Services
+6089,6089.T,JPX,WILL GROUP,Services
+6090,6090.T,JPX,Human Metabolome Technologies,Services
+6091,6091.T,JPX,Wesco Holdings,Services
+6092,6092.T,JPX,EnBio Holdings,Services
+6093,6093.T,JPX,Escrow Agent Japan,Services
+6094,6094.T,JPX,FreakOut Holdings,Services
+6095,6095.T,JPX,MedPeer,Services
+6096,6096.T,JPX,RareJob,Services
+6098,6098.T,JPX,Recruit Holdings,Services
+6099,6099.T,JPX,ELAN,Services
+6171,6171.T,JPX,C. E. Management Integrated Laboratory,Services
+6173,6173.T,JPX,Aqualine,Services
+6176,6176.T,JPX,Brangista,Services
+6177,6177.T,JPX,AppBank,Services
+6178,6178.T,JPX,Japan Post Holdings,Services
+6180,6180.T,JPX,GMO Media,Services
+6181,6181.T,JPX,Tameny,Services
+6182,6182.T,JPX,MetaReal,Services
+6183,6183.T,JPX,Bellsystem24 Holdings,Services
+6184,6184.T,JPX,Kamakura Shinsho,Services
+6185,6185.T,JPX,SMN,Services
+6186,6186.T,JPX,Ichikura,Services
+6189,6189.T,JPX,Global Kids,Services
+6190,6190.T,JPX,PhoenixBio,Services
+6191,6191.T,JPX,AirTrip,Services
+6193,6193.T,JPX,Virtualex Holdings,Services
+6194,6194.T,JPX,Atrae,Services
+6195,6195.T,JPX,Hope,Services
+6196,6196.T,JPX,Strike Company,Services
+6197,6197.T,JPX,Solasto,Services
+6198,6198.T,JPX,Career,Services
+6199,6199.T,JPX,Seraku,Services
+6200,6200.T,JPX,Insource,Services
+6532,6532.T,JPX,BayCurrent Consulting,Services
+6533,6533.T,JPX,Orchestra Holdings,Services
+6535,6535.T,JPX,i-mobile,Services
+6537,6537.T,JPX,WASH House,Services
+6538,6538.T,JPX,CareerIndex,Services
+6539,6539.T,JPX,Matching Service Japan,Services
+6540,6540.T,JPX,SEMBA,Services
+6542,6542.T,JPX,Founder's Consultants Holdings,Services
+6543,6543.T,JPX,Nissen,Services
+6544,6544.T,JPX,Japan Elevator Service Holdings,Services
+6545,6545.T,JPX,internet infinity,Services
+6546,6546.T,JPX,Fulltech,Services
+6547,6547.T,JPX,Greens,Services
+6548,6548.T,JPX,TABIKOBO,Services
+6549,6549.T,JPX,DM Solutions,Services
+6550,6550.T,JPX,Unipos,Services
+6551,6551.T,JPX,Tsunagu Group Holdings,Services
+6552,6552.T,JPX,GameWith,Services
+6554,6554.T,JPX,SUS,Services
+6555,6555.T,JPX,MS & Consulting,Services
+6557,6557.T,JPX,Aiai Group,Services
+6558,6558.T,JPX,Cookbiz,Services
+6560,6560.T,JPX,LTS,Services
+6561,6561.T,JPX,Hanatour Japan,Services
+6562,6562.T,JPX,Geniee,Services
+6563,6563.T,JPX,Mirai Works,Services
+6564,6564.T,JPX,Midac Holdings,Services
+6565,6565.T,JPX,Abhotel,Services
+6566,6566.T,JPX,Kaname Kogyo,Services
+6568,6568.T,JPX,KNC Laboratories,Services
+6570,6570.T,JPX,Kyowa,Services
+6571,6571.T,JPX,QB Net Holdings,Services
+6572,6572.T,JPX,OPEN Group,Services
+6573,6573.T,JPX,Agile Media Network,Services
+6574,6574.T,JPX,Convano,Services
+6577,6577.T,JPX,Bestone.Com,Services
+6578,6578.T,JPX,Correc,Services
+6579,6579.T,JPX,Logly,Services
+6580,6580.T,JPX,Writeup,Services
+6786,6786.T,JPX,RVH,Services
+6819,6819.T,JPX,Izu Shaboten Resort,Services
+7030,7030.T,JPX,Sprix,Services
+7031,7031.T,JPX,Inbound Tech,Services
+7033,7033.T,JPX,Management Solutions,Services
+7034,7034.T,JPX,Prored Partners,Services
+7035,7035.T,JPX,And Factory,Services
+7036,7036.T,JPX,eMnet Japan,Services
+7037,7037.T,JPX,Teno Holdings,Services
+7038,7038.T,JPX,Frontier Management,Services
+7039,7039.T,JPX,Bridge International,Services
+7040,7040.T,JPX,Sun Life Holding,Services
+7041,7041.T,JPX,CRG Holdings,Services
+7042,7042.T,JPX,Access Group Holdings,Services
+7043,7043.T,JPX,Alue,Services
+7044,7044.T,JPX,PIALA,Services
+7046,7046.T,JPX,TDSE,Services
+7047,7047.T,JPX,Port,Services
+7048,7048.T,JPX,VELTRA,Services
+7049,7049.T,JPX,Shikigaku,Services
+7050,7050.T,JPX,Frontier International,Services
+7057,7057.T,JPX,New Constructor's Network,Services
+7058,7058.T,JPX,Kyoei Security Service,Services
+7059,7059.T,JPX,Copro Holdings,Services
+7060,7060.T,JPX,Geechs,Services
+7061,7061.T,JPX,Japan Hospice Holdings,Services
+7062,7062.T,JPX,Fureasu,Services
+7063,7063.T,JPX,Birdman,Services
+7064,7064.T,JPX,Howtelevision,Services
+7065,7065.T,JPX,UPR,Services
+7066,7066.T,JPX,Peers,Services
+7067,7067.T,JPX,Branding Technology,Services
+7068,7068.T,JPX,Feedforce Group,Services
+7069,7069.T,JPX,CyberBuzz,Services
+7071,7071.T,JPX,Amvis Holdings,Services
+7072,7072.T,JPX,Intimate Merger,Services
+7073,7073.T,JPX,JAIC,Services
+7074,7074.T,JPX,Twenty-four seven,Services
+7077,7077.T,JPX,Alink Internet,Services
+7078,7078.T,JPX,Inclusive,Services
+7079,7079.T,JPX,WDB coco,Services
+7080,7080.T,JPX,Sportsfield,Services
+7081,7081.T,JPX,Koyou Rentia,Services
+7082,7082.T,JPX,Jimoty,Services
+7083,7083.T,JPX,AHC Group,Services
+7084,7084.T,JPX,Kids Smile Holdings,Services
+7085,7085.T,JPX,Curves Holdings,Services
+7086,7086.T,JPX,Kizuna Holdings,Services
+7087,7087.T,JPX,Willtec,Services
+7088,7088.T,JPX,Forum Engineering,Services
+7089,7089.T,JPX,for Startups,Services
+7091,7091.T,JPX,Living Platform,Services
+7092,7092.T,JPX,Fast Fitness Japan,Services
+7093,7093.T,JPX,adish,Services
+7094,7094.T,JPX,NexTone,Services
+7095,7095.T,JPX,Macbee Planet,Services
+7096,7096.T,JPX,StemCell Institute,Services
+7097,7097.T,JPX,Sakurasaku Plus,Services
+7351,7351.T,JPX,Goodpatch,Services
+7352,7352.T,JPX,Two stone & Sons,Services
+7353,7353.T,JPX,KIYO Learning,Services
+7354,7354.T,JPX,Direct Marketing MiX,Services
+7356,7356.T,JPX,Retty,Services
+7357,7357.T,JPX,Geocode,Services
+7358,7358.T,JPX,Poppins,Services
+7359,7359.T,JPX,Tokyo Communications Group,Services
+7360,7360.T,JPX,Ondeck,Services
+7361,7361.T,JPX,Human Creation Holdings,Services
+7362,7362.T,JPX,Terminalcare Support Institute,Services
+7363,7363.T,JPX,baby calendar,Services
+7366,7366.T,JPX,Litalico,Services
+7367,7367.T,JPX,CELM,Services
+7368,7368.T,JPX,HYOJITO,Services
+7369,7369.T,JPX,Meiho Holdings,Services
+7370,7370.T,JPX,Enjin,Services
+7371,7371.T,JPX,Zenken,Services
+7372,7372.T,JPX,Decollte Holdings,Services
+7373,7373.T,JPX,Aidma Holdings,Services
+7374,7374.T,JPX,Interworks Confidence,Services
+7375,7375.T,JPX,Refinverse Group,Services
+7376,7376.T,JPX,BCC,Services
+7377,7377.T,JPX,DN Holdings,Services
+7378,7378.T,JPX,Asiro,Services
+7379,7379.T,JPX,Circulation,Services
+7502,7502.T,JPX,Plaza Holdings,Services
+7647,7647.T,JPX,ONTSU,Services
+8769,8769.T,JPX,Advantage Risk Management,Services
+8876,8876.T,JPX,Relo Group,Services
+8920,8920.T,JPX,Tosho,Services
+9158,9158.T,JPX,CUC,Services
+9159,9159.T,JPX,W Tokyo,Services
+9160,9160.T,JPX,Novarese,Services
+9161,9161.T,JPX,Integrated Design & Engineering Holdings,Services
+9162,9162.T,JPX,Bleach,Services
+9163,9163.T,JPX,Nareru Group,Services
+9164,9164.T,JPX,TRYT,Services
+9165,9165.T,JPX,Qualtec,Services
+9166,9166.T,JPX,Genda,Services
+9168,9168.T,JPX,Rise Consulting Group,Services
+9211,9211.T,JPX,f-code,Services
+9212,9212.T,JPX,Green Earth Institute,Services
+9213,9213.T,JPX,Seyfert,Services
+9214,9214.T,JPX,Recovery International,Services
+9215,9215.T,JPX,Casy,Services
+9216,9216.T,JPX,Bewith,Services
+9218,9218.T,JPX,Mental Health Technologies,Services
+9219,9219.T,JPX,GiXo,Services
+9220,9220.T,JPX,FB Care Service,Services
+9221,9221.T,JPX,Fuluhashi Epo,Services
+9223,9223.T,JPX,ASNOVA,Services
+9225,9225.T,JPX,Bridge Consulting Group,Services
+9227,9227.T,JPX,Microwave Chemical,Services
+9229,9229.T,JPX,Sunwels,Services
+9235,9235.T,JPX,Ureru Net Advertising,Services
+9236,9236.T,JPX,Japan M&A Solution,Services
+9237,9237.T,JPX,Emimen,Services
+9238,9238.T,JPX,Value Creation,Services
+9240,9240.T,JPX,Delivery Consulting,Services
+9241,9241.T,JPX,Future Link Network,Services
+9242,9242.T,JPX,Media Research Institute,Services
+9244,9244.T,JPX,Digitalift,Services
+9245,9245.T,JPX,Livero,Services
+9246,9246.T,JPX,Project Holdings,Services
+9247,9247.T,JPX,Tre Holdings,Services
+9248,9248.T,JPX,People Dreams & Technologies Group,Services
+9249,9249.T,JPX,Japan Ecosystem,Services
+9250,9250.T,JPX,GRCS,Services
+9251,9251.T,JPX,AB&Company,Services
+9252,9252.T,JPX,Last One Mile,Services
+9253,9253.T,JPX,Slogan,Services
+9254,9254.T,JPX,Lovable Marketing Group,Services
+9256,9256.T,JPX,Succeed,Services
+9257,9257.T,JPX,YCP Holdings (Global),Services
+9258,9258.T,JPX,CS-C,Services
+9259,9259.T,JPX,Takayoshi Holdings,Services
+9272,9272.T,JPX,Boutiques,Services
+9330,9330.T,JPX,AGEHA,Services
+9331,9331.T,JPX,Caster,Services
+9332,9332.T,JPX,Nisso Holdings,Services
+9336,9336.T,JPX,Daiei Kankyo,Services
+9337,9337.T,JPX,Toridori,Services
+9338,9338.T,JPX,Inforich,Services
+9339,9339.T,JPX,Coach A,Services
+9340,9340.T,JPX,Aso International,Services
+9341,9341.T,JPX,Genova,Services
+9342,9342.T,JPX,Sumasapo,Services
+9343,9343.T,JPX,ibis,Services
+9344,9344.T,JPX,Axis Consulting,Services
+9345,9345.T,JPX,Bizmates,Services
+9346,9346.T,JPX,Cocorport,Services
+9347,9347.T,JPX,Nippon Kanzai Holdings,Services
+9348,9348.T,JPX,ispace,Services
+9376,9376.T,JPX,EURASIA TRAVEL,Services
+9439,9439.T,JPX,M H Group,Services
+9552,9552.T,JPX,M&A Research Institute Holdings,Services
+9553,9553.T,JPX,MicroAd,Services
+9554,9554.T,JPX,Avic,Services
+9556,9556.T,JPX,Intloop,Services
+9557,9557.T,JPX,AirCloset,Services
+9558,9558.T,JPX,Japaniace,Services
+9560,9560.T,JPX,Progrit,Services
+9561,9561.T,JPX,Glad Cube,Services
+9562,9562.T,JPX,Business Coach,Services
+9563,9563.T,JPX,Atlas Technologies,Services
+9564,9564.T,JPX,FCE,Services
+9565,9565.T,JPX,Gloe,Services
+9603,9603.T,JPX,H.I.S.,Services
+9610,9610.T,JPX,Wilson Learning Worldwide,Services
+9612,9612.T,JPX,Luckland,Services
+9616,9616.T,JPX,Kyoritsu Maintenance,Services
+9619,9619.T,JPX,Ichinen Holdings,Services
+9621,9621.T,JPX,CTI Engineering,Services
+9622,9622.T,JPX,Space,Services
+9625,9625.T,JPX,Cerespo,Services
+9628,9628.T,JPX,San Holdings,Services
+9632,9632.T,JPX,Subaru Enterprise,Services
+9633,9633.T,JPX,Tokyo Theatres,Services
+9635,9635.T,JPX,Musashino Kogyo,Services
+9636,9636.T,JPX,Kin-Ei,Services
+9639,9639.T,JPX,Sankyo Frontier,Services
+9644,9644.T,JPX,Tanabe Consulting Group,Services
+9647,9647.T,JPX,Kyowa Engineering Consultants,Services
+9656,9656.T,JPX,Greenland Resort,Services
+9661,9661.T,JPX,Kabuki-Za,Services
+9663,9663.T,JPX,Nagawa,Services
+9672,9672.T,JPX,Tokyotokeiba,Services
+9675,9675.T,JPX,Joban Kosan,Services
+9678,9678.T,JPX,Kanamoto,Services
+9679,9679.T,JPX,Horai,Services
+9686,9686.T,JPX,Toyo Tec,Services
+9696,9696.T,JPX,With us,Services
+9699,9699.T,JPX,Nishio Holdings,Services
+9701,9701.T,JPX,Tokyo Kaikan,Services
+9704,9704.T,JPX,Agora Hospitality Group,Services
+9708,9708.T,JPX,Imperial Hotel,Services
+9713,9713.T,JPX,The Royal Hotel,Services
+9715,9715.T,JPX,transcosmos,Services
+9716,9716.T,JPX,NOMURA,Services
+9720,9720.T,JPX,Hotel Newgrand,Services
+9722,9722.T,JPX,Fujita Kanko,Services
+9723,9723.T,JPX,The Kyoto Hotel,Services
+9726,9726.T,JPX,KNT-CT Holdings,Services
+9729,9729.T,JPX,TOKAI,Services
+9731,9731.T,JPX,Hakuyosha,Services
+9733,9733.T,JPX,Nagase Brothers,Services
+9735,9735.T,JPX,SECOM,Services
+9740,9740.T,JPX,Central Security Patrols,Services
+9743,9743.T,JPX,Tanseisha,Services
+9744,9744.T,JPX,Meitec Group Holdings,Services
+9755,9755.T,JPX,OYO,Services
+9757,9757.T,JPX,Funai Soken Holdings,Services
+9760,9760.T,JPX,Shingakukai Holdings,Services
+9761,9761.T,JPX,Tokai Lease,Services
+9765,9765.T,JPX,Ohba,Services
+9767,9767.T,JPX,Nikken Kogaku,Services
+9768,9768.T,JPX,IDEA Consultants,Services
+9769,9769.T,JPX,Gakkyusha,Services
+9776,9776.T,JPX,Sapporo Clinical Laboratory,Services
+9778,9778.T,JPX,Subaru,Services
+9780,9780.T,JPX,Harima B.Stem,Services
+9782,9782.T,JPX,DMS,Services
+9787,9787.T,JPX,AEON DELIGHT,Services
+9788,9788.T,JPX,Nac,Services
+9791,9791.T,JPX,Biken Techno,Services
+9793,9793.T,JPX,Daiseki,Services
+9795,9795.T,JPX,Step,Services
+3001,3001.T,JPX,Katakura Industries,Textiles & Apparels
+3002,3002.T,JPX,Gunze,Textiles & Apparels
+3101,3101.T,JPX,Toyobo,Textiles & Apparels
+3103,3103.T,JPX,Unitika,Textiles & Apparels
+3104,3104.T,JPX,Fujibo Holdings,Textiles & Apparels
+3106,3106.T,JPX,Kurabo Industries,Textiles & Apparels
+3109,3109.T,JPX,Shikibo,Textiles & Apparels
+3111,3111.T,JPX,Omikenshi,Textiles & Apparels
+3123,3123.T,JPX,Saibo,Textiles & Apparels
+3201,3201.T,JPX,Japan Wool Textile,Textiles & Apparels
+3202,3202.T,JPX,Daitobo,Textiles & Apparels
+3204,3204.T,JPX,Toabo,Textiles & Apparels
+3205,3205.T,JPX,Daidoh,Textiles & Apparels
+3302,3302.T,JPX,Teikoku Sen-I,Textiles & Apparels
+3401,3401.T,JPX,Teijin,Textiles & Apparels
+3402,3402.T,JPX,Toray Industries,Textiles & Apparels
+3409,3409.T,JPX,Kitanihon Spinning,Textiles & Apparels
+3501,3501.T,JPX,Suminoe Textile,Textiles & Apparels
+3512,3512.T,JPX,Nippon Felt,Textiles & Apparels
+3513,3513.T,JPX,Ichikawa,Textiles & Apparels
+3524,3524.T,JPX,Nitto Seimo,Textiles & Apparels
+3529,3529.T,JPX,Atsugi,Textiles & Apparels
+3551,3551.T,JPX,Dynic,Textiles & Apparels
+3569,3569.T,JPX,Seiren,Textiles & Apparels
+3571,3571.T,JPX,Sotoh,Textiles & Apparels
+3577,3577.T,JPX,Tokai Senko KK,Textiles & Apparels
+3580,3580.T,JPX,Komatsu Matere,Textiles & Apparels
+3583,3583.T,JPX,AuBEX,Textiles & Apparels
+3591,3591.T,JPX,Wacoal Holdings,Textiles & Apparels
+3593,3593.T,JPX,Hogy Medical,Textiles & Apparels
+3597,3597.T,JPX,Jichodo,Textiles & Apparels
+3598,3598.T,JPX,Yamaki,Textiles & Apparels
+3600,3600.T,JPX,Fujix,Textiles & Apparels
+3604,3604.T,JPX,Kawamoto,Textiles & Apparels
+3607,3607.T,JPX,Kuraudia Holdings,Textiles & Apparels
+3608,3608.T,JPX,TSI Holdings,Textiles & Apparels
+3611,3611.T,JPX,Matsuoka,Textiles & Apparels
+3612,3612.T,JPX,World,Textiles & Apparels
+8011,8011.T,JPX,Sanyo Shokai,Textiles & Apparels
+8013,8013.T,JPX,Naigai,Textiles & Apparels
+8016,8016.T,JPX,Onward Holdings,Textiles & Apparels
+8029,8029.T,JPX,Look Holdings,Textiles & Apparels
+8040,8040.T,JPX,Tokyo Soir,Textiles & Apparels
+8107,8107.T,JPX,Kimuratan,Textiles & Apparels
+8111,8111.T,JPX,Goldwin,Textiles & Apparels
+8114,8114.T,JPX,Descente,Textiles & Apparels
+8118,8118.T,JPX,KING,Textiles & Apparels
+8127,8127.T,JPX,Yamato International,Textiles & Apparels
+8143,8143.T,JPX,Lapine,Textiles & Apparels
+3116,3116.T,JPX,Toyota Boshoku,Transportation Equipment
+3526,3526.T,JPX,Ashimori Industry,Transportation Equipment
+5949,5949.T,JPX,Unipres,Transportation Equipment
+6016,6016.T,JPX,Japan Engine,Transportation Equipment
+6018,6018.T,JPX,Hanshin Diesel Works,Transportation Equipment
+6023,6023.T,JPX,Daihatsu Diesel Mfg,Transportation Equipment
+6042,6042.T,JPX,Nikki,Transportation Equipment
+6201,6201.T,JPX,Toyota Industries,Transportation Equipment
+6455,6455.T,JPX,Morita Holdings,Transportation Equipment
+6493,6493.T,JPX,Nittan,Transportation Equipment
+6584,6584.T,JPX,Sanoh Industrial,Transportation Equipment
+6902,6902.T,JPX,Denso,Transportation Equipment
+6982,6982.T,JPX,Lead,Transportation Equipment
+6995,6995.T,JPX,Tokai Rika,Transportation Equipment
+7012,7012.T,JPX,Kawasaki Heavy Industries,Transportation Equipment
+7014,7014.T,JPX,Namura Shipbuilding,Transportation Equipment
+7018,7018.T,JPX,Naikai Zosen,Transportation Equipment
+7102,7102.T,JPX,Nippon Sharyo,Transportation Equipment
+7105,7105.T,JPX,Mitsubishi Logisnext,Transportation Equipment
+7122,7122.T,JPX,Kinki Sharyo,Transportation Equipment
+7201,7201.T,JPX,Nissan Motor,Transportation Equipment
+7202,7202.T,JPX,Isuzu Motors,Transportation Equipment
+7203,7203.T,JPX,Toyota Motor,Transportation Equipment
+7205,7205.T,JPX,Hino Motors,Transportation Equipment
+7208,7208.T,JPX,Kanemitsu,Transportation Equipment
+7211,7211.T,JPX,Mitsubishi Motors,Transportation Equipment
+7212,7212.T,JPX,F-TECH,Transportation Equipment
+7213,7213.T,JPX,Lecip Holdings,Transportation Equipment
+7214,7214.T,JPX,GMB,Transportation Equipment
+7215,7215.T,JPX,FALTEC,Transportation Equipment
+7217,7217.T,JPX,Tein,Transportation Equipment
+7218,7218.T,JPX,Tanaka Seimitsu Kogyo,Transportation Equipment
+7219,7219.T,JPX,HKS,Transportation Equipment
+7220,7220.T,JPX,Musashi Seimitsu Industry,Transportation Equipment
+7222,7222.T,JPX,Nissan Shatai,Transportation Equipment
+7224,7224.T,JPX,ShinMaywa Industries,Transportation Equipment
+7226,7226.T,JPX,Kyokuto Kaihatsu Kogyo,Transportation Equipment
+7228,7228.T,JPX,Daytona,Transportation Equipment
+7229,7229.T,JPX,Yutaka Giken,Transportation Equipment
+7231,7231.T,JPX,Topy Industries,Transportation Equipment
+7235,7235.T,JPX,Tokyo Radiator Mfg,Transportation Equipment
+7236,7236.T,JPX,T.RAD,Transportation Equipment
+7238,7238.T,JPX,Akebono Brake Industry,Transportation Equipment
+7239,7239.T,JPX,Tachi-S,Transportation Equipment
+7240,7240.T,JPX,NOK,Transportation Equipment
+7241,7241.T,JPX,Futaba Industrial,Transportation Equipment
+7242,7242.T,JPX,KYB,Transportation Equipment
+7245,7245.T,JPX,Daido Metal,Transportation Equipment
+7246,7246.T,JPX,Press Kogyo,Transportation Equipment
+7247,7247.T,JPX,Mikuni,Transportation Equipment
+7250,7250.T,JPX,Pacific Industrial,Transportation Equipment
+7254,7254.T,JPX,Univance,Transportation Equipment
+7255,7255.T,JPX,Sakurai,Transportation Equipment
+7256,7256.T,JPX,KASAI KOGYO,Transportation Equipment
+7259,7259.T,JPX,Aisin,Transportation Equipment
+7261,7261.T,JPX,Mazda Motor,Transportation Equipment
+7264,7264.T,JPX,Muro,Transportation Equipment
+7265,7265.T,JPX,Eiken Industries,Transportation Equipment
+7266,7266.T,JPX,Imasen Electric Industrial,Transportation Equipment
+7267,7267.T,JPX,Honda Motor,Transportation Equipment
+7268,7268.T,JPX,TATSUMI,Transportation Equipment
+7269,7269.T,JPX,Suzuki Motor,Transportation Equipment
+7270,7270.T,JPX,Subaru,Transportation Equipment
+7271,7271.T,JPX,Yasunaga,Transportation Equipment
+7272,7272.T,JPX,Yamaha Motor,Transportation Equipment
+7273,7273.T,JPX,Ikuyo,Transportation Equipment
+7277,7277.T,JPX,TBK,Transportation Equipment
+7278,7278.T,JPX,Exedy,Transportation Equipment
+7279,7279.T,JPX,Hi-Lex,Transportation Equipment
+7282,7282.T,JPX,Toyoda Gosei,Transportation Equipment
+7283,7283.T,JPX,Aisan Industry,Transportation Equipment
+7284,7284.T,JPX,MEIWA INDUSTRY,Transportation Equipment
+7287,7287.T,JPX,Nippon Seiki,Transportation Equipment
+7291,7291.T,JPX,Nihon Plast,Transportation Equipment
+7292,7292.T,JPX,Murakami,Transportation Equipment
+7294,7294.T,JPX,Yorozu,Transportation Equipment
+7296,7296.T,JPX,F.C.C.,Transportation Equipment
+7297,7297.T,JPX,Car Mate Mfg,Transportation Equipment
+7299,7299.T,JPX,Fuji Oozx,Transportation Equipment
+7309,7309.T,JPX,Shimano,Transportation Equipment
+7313,7313.T,JPX,TS Tech,Transportation Equipment
+7314,7314.T,JPX,Odawara Auto-Machine Mfg,Transportation Equipment
+7317,7317.T,JPX,Matsuya R&D,Transportation Equipment
+7318,7318.T,JPX,Serendip Holdings,Transportation Equipment
+7399,7399.T,JPX,Nansin,Transportation Equipment
+7408,7408.T,JPX,Jamco,Transportation Equipment
+7409,7409.T,JPX,AeroEdge,Transportation Equipment
+7551,7551.T,JPX,Weds,Transportation Equipment
+9058,9058.T,JPX,Trancom,Warehousing & Harbor Transportation Services
+9066,9066.T,JPX,Nissin,Warehousing & Harbor Transportation Services
+9193,9193.T,JPX,Tokyo Kisen,Warehousing & Harbor Transportation Services
+9301,9301.T,JPX,Mitsubishi Logistics,Warehousing & Harbor Transportation Services
+9302,9302.T,JPX,Mitsui-Soko Holdings,Warehousing & Harbor Transportation Services
+9303,9303.T,JPX,Sumitomo Warehouse,Warehousing & Harbor Transportation Services
+9304,9304.T,JPX,Shibusawa Warehouse,Warehousing & Harbor Transportation Services
+9306,9306.T,JPX,Toyo Logistics,Warehousing & Harbor Transportation Services
+9307,9307.T,JPX,Sugimura Warehouse,Warehousing & Harbor Transportation Services
+9310,9310.T,JPX,Japan Transcity,Warehousing & Harbor Transportation Services
+9312,9312.T,JPX,Keihin,Warehousing & Harbor Transportation Services
+9313,9313.T,JPX,Maruhachi Warehouse,Warehousing & Harbor Transportation Services
+9319,9319.T,JPX,Chuo Warehouse,Warehousing & Harbor Transportation Services
+9322,9322.T,JPX,Kawanishi Warehouse,Warehousing & Harbor Transportation Services
+9324,9324.T,JPX,Yasuda Logistics,Warehousing & Harbor Transportation Services
+9325,9325.T,JPX,PHYZ Holdings,Warehousing & Harbor Transportation Services
+9326,9326.T,JPX,Kantsu,Warehousing & Harbor Transportation Services
+9327,9327.T,JPX,e-LogiT,Warehousing & Harbor Transportation Services
+9351,9351.T,JPX,Toyo Wharf & Warehouse,Warehousing & Harbor Transportation Services
+9353,9353.T,JPX,Sakurajima Futo Kaisha,Warehousing & Harbor Transportation Services
+9355,9355.T,JPX,Rinko,Warehousing & Harbor Transportation Services
+9361,9361.T,JPX,Fushiki Kairiku Unso,Warehousing & Harbor Transportation Services
+9362,9362.T,JPX,Hyoki Kaiun Kaisha,Warehousing & Harbor Transportation Services
+9363,9363.T,JPX,Daiun,Warehousing & Harbor Transportation Services
+9364,9364.T,JPX,Kamigumi,Warehousing & Harbor Transportation Services
+9365,9365.T,JPX,Tradia,Warehousing & Harbor Transportation Services
+9366,9366.T,JPX,Sanritsu,Warehousing & Harbor Transportation Services
+9367,9367.T,JPX,Daito Koun,Warehousing & Harbor Transportation Services
+9368,9368.T,JPX,Kimura Unity,Warehousing & Harbor Transportation Services
+9369,9369.T,JPX,K.R.S.,Warehousing & Harbor Transportation Services
+9377,9377.T,JPX,AGP,Warehousing & Harbor Transportation Services
+9380,9380.T,JPX,Azuma Shipping,Warehousing & Harbor Transportation Services
+9381,9381.T,JPX,AIT,Warehousing & Harbor Transportation Services
+9384,9384.T,JPX,Naigai Trans Line,Warehousing & Harbor Transportation Services
+9386,9386.T,JPX,NIPPON CONCEPT,Warehousing & Harbor Transportation Services
+167A,167A.T,JPX,Ryoyo Ryosan Holdings,Wholesale Trade
+2667,2667.T,JPX,ImageONE,Wholesale Trade
+2668,2668.T,JPX,Tabio,Wholesale Trade
+2676,2676.T,JPX,Takachiho Koheki,Wholesale Trade
+2689,2689.T,JPX,Olba Healthcare Holdings,Wholesale Trade
+2692,2692.T,JPX,ITOCHU-SHOKUHIN,Wholesale Trade
+2693,2693.T,JPX,Ykt,Wholesale Trade
+2700,2700.T,JPX,Kitoku Shinryo,Wholesale Trade
+2708,2708.T,JPX,Kuze,Wholesale Trade
+2715,2715.T,JPX,Elematec,Wholesale Trade
+2721,2721.T,JPX,J-Holdings,Wholesale Trade
+2733,2733.T,JPX,Arata,Wholesale Trade
+2737,2737.T,JPX,Tomen Devices,Wholesale Trade
+2743,2743.T,JPX,Pixel,Wholesale Trade
+2750,2750.T,JPX,S.Ishimitsu,Wholesale Trade
+2751,2751.T,JPX,Tenpos Holdings,Wholesale Trade
+2760,2760.T,JPX,Tokyo Electron Device,Wholesale Trade
+2763,2763.T,JPX,FTGroup,Wholesale Trade
+2767,2767.T,JPX,Tsuburaya Fields Holdings,Wholesale Trade
+2768,2768.T,JPX,Sojitz,Wholesale Trade
+2776,2776.T,JPX,Shinto Holdings,Wholesale Trade
+2784,2784.T,JPX,Alfresa Holdings,Wholesale Trade
+2788,2788.T,JPX,Apple International,Wholesale Trade
+2795,2795.T,JPX,Nippon Primex,Wholesale Trade
+2874,2874.T,JPX,Yokorei,Wholesale Trade
+3004,3004.T,JPX,Shinyei Kaisha,Wholesale Trade
+3023,3023.T,JPX,Rasa,Wholesale Trade
+3024,3024.T,JPX,Create,Wholesale Trade
+3035,3035.T,JPX,ktk,Wholesale Trade
+3036,3036.T,JPX,Alconix,Wholesale Trade
+3038,3038.T,JPX,Kobe Bussan,Wholesale Trade
+3041,3041.T,JPX,Beauty Kadan Holdings,Wholesale Trade
+3045,3045.T,JPX,Kawasaki,Wholesale Trade
+3054,3054.T,JPX,HYPER,Wholesale Trade
+3070,3070.T,JPX,AMAGASA,Wholesale Trade
+3076,3076.T,JPX,Ai Holdings,Wholesale Trade
+3079,3079.T,JPX,DVx,Wholesale Trade
+3089,3089.T,JPX,Techno Alpha,Wholesale Trade
+3107,3107.T,JPX,Daiwabo Holdings,Wholesale Trade
+3131,3131.T,JPX,Shinden Hightex,Wholesale Trade
+3132,3132.T,JPX,Macnica Holdings,Wholesale Trade
+3139,3139.T,JPX,Lacto Japan,Wholesale Trade
+3140,3140.T,JPX,Bruno,Wholesale Trade
+3143,3143.T,JPX,O'will,Wholesale Trade
+3150,3150.T,JPX,Gremz,Wholesale Trade
+3151,3151.T,JPX,Vital KSK Holdings,Wholesale Trade
+3153,3153.T,JPX,Yashima Denki,Wholesale Trade
+3154,3154.T,JPX,Medius Holdings,Wholesale Trade
+3156,3156.T,JPX,Restar,Wholesale Trade
+3157,3157.T,JPX,Geolive Group,Wholesale Trade
+3160,3160.T,JPX,Oomitsu,Wholesale Trade
+3161,3161.T,JPX,Azearth,Wholesale Trade
+3166,3166.T,JPX,OCHI HOLDINGS,Wholesale Trade
+3167,3167.T,JPX,Tokai Holdings,Wholesale Trade
+3168,3168.T,JPX,Kurotani,Wholesale Trade
+3173,3173.T,JPX,Cominix,Wholesale Trade
+3176,3176.T,JPX,Sanyo Trading,Wholesale Trade
+3180,3180.T,JPX,Beauty Garage,Wholesale Trade
+3183,3183.T,JPX,WIN-Partners,Wholesale Trade
+3306,3306.T,JPX,The Nihon Seima,Wholesale Trade
+3320,3320.T,JPX,Cross Plus,Wholesale Trade
+3321,3321.T,JPX,Mitachi,Wholesale Trade
+3322,3322.T,JPX,Alpha Group,Wholesale Trade
+3323,3323.T,JPX,RECOMM,Wholesale Trade
+3350,3350.T,JPX,Metaplanet,Wholesale Trade
+3355,3355.T,JPX,Kuriyama Holdings,Wholesale Trade
+3359,3359.T,JPX,Cotta,Wholesale Trade
+3360,3360.T,JPX,Ship Healthcare Holdings,Wholesale Trade
+3374,3374.T,JPX,Naigai Tec,Wholesale Trade
+3377,3377.T,JPX,Bike O,Wholesale Trade
+3386,3386.T,JPX,Cosmo Bio,Wholesale Trade
+3388,3388.T,JPX,Meiji Electric Industries,Wholesale Trade
+3392,3392.T,JPX,Delica Foods Holdings,Wholesale Trade
+3393,3393.T,JPX,Startia Holdings,Wholesale Trade
+3417,3417.T,JPX,Ohki Healthcare Holdings,Wholesale Trade
+3537,3537.T,JPX,Shoei Yakuhin,Wholesale Trade
+3540,3540.T,JPX,CI Medical,Wholesale Trade
+3541,3541.T,JPX,Nousouken,Wholesale Trade
+3543,3543.T,JPX,Komeda Holdings,Wholesale Trade
+3559,3559.T,JPX,p-ban.com,Wholesale Trade
+3562,3562.T,JPX,No.1,Wholesale Trade
+3565,3565.T,JPX,Ascentech KK,Wholesale Trade
+5009,5009.T,JPX,Fuji Kosan,Wholesale Trade
+5283,5283.T,JPX,Takamisawa,Wholesale Trade
+5885,5885.T,JPX,GDEP Advance,Wholesale Trade
+6973,6973.T,JPX,Kyoei Sangyo,Wholesale Trade
+7111,7111.T,JPX,INEST,Wholesale Trade
+7114,7114.T,JPX,Foodison,Wholesale Trade
+7115,7115.T,JPX,Alpha Purchase,Wholesale Trade
+7116,7116.T,JPX,Daiwa Tsushin,Wholesale Trade
+7120,7120.T,JPX,Shinko,Wholesale Trade
+7128,7128.T,JPX,Maruka Furusato,Wholesale Trade
+7130,7130.T,JPX,Yamae Group Holdings,Wholesale Trade
+7131,7131.T,JPX,Nomura,Wholesale Trade
+7413,7413.T,JPX,Sokensha,Wholesale Trade
+7414,7414.T,JPX,Onoken,Wholesale Trade
+7417,7417.T,JPX,Nanyo,Wholesale Trade
+7420,7420.T,JPX,Satori Electric,Wholesale Trade
+7425,7425.T,JPX,Hatsuho Shouji,Wholesale Trade
+7426,7426.T,JPX,Yamadai,Wholesale Trade
+7427,7427.T,JPX,Echo Trading,Wholesale Trade
+7433,7433.T,JPX,Hakuto,Wholesale Trade
+7434,7434.T,JPX,Otake,Wholesale Trade
+7435,7435.T,JPX,Nadex,Wholesale Trade
+7438,7438.T,JPX,Kondotec,Wholesale Trade
+7442,7442.T,JPX,Nakayamafuku,Wholesale Trade
+7443,7443.T,JPX,Yokohama Gyorui,Wholesale Trade
+7444,7444.T,JPX,Harima-Kyowa,Wholesale Trade
+7446,7446.T,JPX,TOHOKU CHEMICAL,Wholesale Trade
+7447,7447.T,JPX,Nagaileben,Wholesale Trade
+7451,7451.T,JPX,Mitsubishi Shokuhin,Wholesale Trade
+7456,7456.T,JPX,Matsuda Sangyo,Wholesale Trade
+7458,7458.T,JPX,Daiichikosho,Wholesale Trade
+7459,7459.T,JPX,Medipal Holdings,Wholesale Trade
+7460,7460.T,JPX,Yagi,Wholesale Trade
+7461,7461.T,JPX,Kimura,Wholesale Trade
+7464,7464.T,JPX,Saftec,Wholesale Trade
+7466,7466.T,JPX,SPK,Wholesale Trade
+7467,7467.T,JPX,Hagiwara Electric Holdings,Wholesale Trade
+7472,7472.T,JPX,Toba,Wholesale Trade
+7476,7476.T,JPX,As One,Wholesale Trade
+7477,7477.T,JPX,Muraki,Wholesale Trade
+7480,7480.T,JPX,Suzuden,Wholesale Trade
+7481,7481.T,JPX,Oie Sangyo,Wholesale Trade
+7482,7482.T,JPX,Shimojima,Wholesale Trade
+7483,7483.T,JPX,Doshisha,Wholesale Trade
+7486,7486.T,JPX,Sanrin,Wholesale Trade
+7487,7487.T,JPX,OZU,Wholesale Trade
+7490,7490.T,JPX,Nissin Shoji,Wholesale Trade
+7500,7500.T,JPX,NISHIKAWA KEISOKU,Wholesale Trade
+7501,7501.T,JPX,Tiemco,Wholesale Trade
+7504,7504.T,JPX,Kohsoku,Wholesale Trade
+7505,7505.T,JPX,Fuso Dentsu,Wholesale Trade
+7510,7510.T,JPX,Takebishi,Wholesale Trade
+7521,7521.T,JPX,Musashi,Wholesale Trade
+7525,7525.T,JPX,Rix,Wholesale Trade
+7531,7531.T,JPX,Seiwa Chuo Holdings,Wholesale Trade
+7537,7537.T,JPX,Marubun,Wholesale Trade
+7538,7538.T,JPX,Daisui,Wholesale Trade
+7539,7539.T,JPX,Ainavo Holdings,Wholesale Trade
+7552,7552.T,JPX,Happinet,Wholesale Trade
+7555,7555.T,JPX,Ota Floriculture Auction,Wholesale Trade
+7559,7559.T,JPX,Global Food Creators,Wholesale Trade
+7565,7565.T,JPX,Mansei,Wholesale Trade
+7567,7567.T,JPX,Sakae Electronics,Wholesale Trade
+7570,7570.T,JPX,Hashimoto Sogyo Holdings,Wholesale Trade
+7575,7575.T,JPX,Japan Lifeline,Wholesale Trade
+7590,7590.T,JPX,Takasho,Wholesale Trade
+7599,7599.T,JPX,IDOM,Wholesale Trade
+7602,7602.T,JPX,Carchs Holdings,Wholesale Trade
+7607,7607.T,JPX,Shinwa,Wholesale Trade
+7608,7608.T,JPX,Sk Japan,Wholesale Trade
+7609,7609.T,JPX,Daitron,Wholesale Trade
+7613,7613.T,JPX,Siix,Wholesale Trade
+7619,7619.T,JPX,Tanaka,Wholesale Trade
+7624,7624.T,JPX,Naito,Wholesale Trade
+7628,7628.T,JPX,Ohashi Technica,Wholesale Trade
+7634,7634.T,JPX,Hoshi Iryo-Sanki,Wholesale Trade
+7635,7635.T,JPX,Sugita Ace,Wholesale Trade
+7637,7637.T,JPX,Hakudo,Wholesale Trade
+7670,7670.T,JPX,O-Well,Wholesale Trade
+7673,7673.T,JPX,DAIKO Tsusan,Wholesale Trade
+7677,7677.T,JPX,Yashima,Wholesale Trade
+7681,7681.T,JPX,Leoclan,Wholesale Trade
+7685,7685.T,JPX,BuySell Technologies,Wholesale Trade
+7687,7687.T,JPX,Micreed,Wholesale Trade
+7689,7689.T,JPX,Copa,Wholesale Trade
+7698,7698.T,JPX,Iceco,Wholesale Trade
+7699,7699.T,JPX,Omni-Plus System,Wholesale Trade
+8001,8001.T,JPX,ITOCHU,Wholesale Trade
+8002,8002.T,JPX,Marubeni,Wholesale Trade
+8006,8006.T,JPX,Yuasa Funashoku,Wholesale Trade
+8007,8007.T,JPX,Takashima,Wholesale Trade
+8012,8012.T,JPX,Nagase,Wholesale Trade
+8014,8014.T,JPX,Chori,Wholesale Trade
+8015,8015.T,JPX,Toyota Tsusho,Wholesale Trade
+8018,8018.T,JPX,Sankyo Seiko,Wholesale Trade
+8020,8020.T,JPX,Kanematsu,Wholesale Trade
+8025,8025.T,JPX,Tsukamoto,Wholesale Trade
+8030,8030.T,JPX,Chuo Gyorui,Wholesale Trade
+8031,8031.T,JPX,Mitsui,Wholesale Trade
+8032,8032.T,JPX,Japan Pulp and Paper,Wholesale Trade
+8037,8037.T,JPX,Kamei,Wholesale Trade
+8038,8038.T,JPX,Tohto Suisan,Wholesale Trade
+8039,8039.T,JPX,Tsukiji Uoichiba,Wholesale Trade
+8041,8041.T,JPX,OUG Holdings,Wholesale Trade
+8043,8043.T,JPX,Starzen,Wholesale Trade
+8045,8045.T,JPX,Yokohama Maruuo,Wholesale Trade
+8046,8046.T,JPX,Marufuji Sheet Piling,Wholesale Trade
+8051,8051.T,JPX,Yamazen,Wholesale Trade
+8052,8052.T,JPX,Tsubakimoto Kogyo,Wholesale Trade
+8053,8053.T,JPX,Sumitomo,Wholesale Trade
+8057,8057.T,JPX,Uchida Yoko,Wholesale Trade
+8058,8058.T,JPX,Mitsubishi,Wholesale Trade
+8059,8059.T,JPX,Daiichi Jitsugyo,Wholesale Trade
+8060,8060.T,JPX,Canon Marketing Japan,Wholesale Trade
+8061,8061.T,JPX,Seika,Wholesale Trade
+8065,8065.T,JPX,Sato Shoji,Wholesale Trade
+8066,8066.T,JPX,Mitani,Wholesale Trade
+8070,8070.T,JPX,Tokyo Sangyo,Wholesale Trade
+8074,8074.T,JPX,Yuasa Trading,Wholesale Trade
+8075,8075.T,JPX,Shinsho,Wholesale Trade
+8076,8076.T,JPX,Canox,Wholesale Trade
+8077,8077.T,JPX,TORQ,Wholesale Trade
+8078,8078.T,JPX,Hanwa,Wholesale Trade
+8079,8079.T,JPX,Shoei Foods,Wholesale Trade
+8081,8081.T,JPX,Kanaden,Wholesale Trade
+8084,8084.T,JPX,Ryoden,Wholesale Trade
+8085,8085.T,JPX,Narasaki Sangyo,Wholesale Trade
+8088,8088.T,JPX,Iwatani,Wholesale Trade
+8089,8089.T,JPX,Nice,Wholesale Trade
+8091,8091.T,JPX,Nichimo,Wholesale Trade
+8093,8093.T,JPX,Kyokuto Boeki Kaisha,Wholesale Trade
+8095,8095.T,JPX,Astena Holdings,Wholesale Trade
+8097,8097.T,JPX,San-Ai Obbli,Wholesale Trade
+8098,8098.T,JPX,Inabata,Wholesale Trade
+8101,8101.T,JPX,GSI Creos,Wholesale Trade
+8103,8103.T,JPX,Meiwa,Wholesale Trade
+8104,8104.T,JPX,Kuwazawa Holdings,Wholesale Trade
+8105,8105.T,JPX,Marusho Hotta,Wholesale Trade
+8115,8115.T,JPX,Moonbat,Wholesale Trade
+8117,8117.T,JPX,Central Automotive Products,Wholesale Trade
+8119,8119.T,JPX,Sanyei,Wholesale Trade
+8123,8123.T,JPX,T. Kawabe,Wholesale Trade
+8125,8125.T,JPX,Wakita,Wholesale Trade
+8129,8129.T,JPX,Toho Holdings,Wholesale Trade
+8130,8130.T,JPX,Sangetsu,Wholesale Trade
+8131,8131.T,JPX,Mitsuuroko Group Holdings,Wholesale Trade
+8132,8132.T,JPX,Sinanen Holdings,Wholesale Trade
+8133,8133.T,JPX,Itochu Enex,Wholesale Trade
+8135,8135.T,JPX,ZETT,Wholesale Trade
+8136,8136.T,JPX,Sanrio,Wholesale Trade
+8137,8137.T,JPX,Sun-Wa Technos,Wholesale Trade
+8138,8138.T,JPX,Sankyo Kasei,Wholesale Trade
+8139,8139.T,JPX,Nagahori,Wholesale Trade
+8141,8141.T,JPX,Shinko Shoji,Wholesale Trade
+8142,8142.T,JPX,TOHO,Wholesale Trade
+8144,8144.T,JPX,Denkyo Group Holdings,Wholesale Trade
+8147,8147.T,JPX,Tomita,Wholesale Trade
+8150,8150.T,JPX,Sanshin Electronics,Wholesale Trade
+8151,8151.T,JPX,TOYO,Wholesale Trade
+8152,8152.T,JPX,Somar,Wholesale Trade
+8153,8153.T,JPX,Mos Food Services,Wholesale Trade
+8154,8154.T,JPX,Kaga Electronics,Wholesale Trade
+8158,8158.T,JPX,Soda Nikka,Wholesale Trade
+8159,8159.T,JPX,Tachibana Eletech,Wholesale Trade
+8225,8225.T,JPX,Takachiho,Wholesale Trade
+8226,8226.T,JPX,Rikei,Wholesale Trade
+8275,8275.T,JPX,Forval,Wholesale Trade
+8283,8283.T,JPX,Paltac,Wholesale Trade
+8285,8285.T,JPX,Mitani Sangyo,Wholesale Trade
+8835,8835.T,JPX,Taiheiyo Kouhatsu,Wholesale Trade
+9260,9260.T,JPX,Nishimoto,Wholesale Trade
+9264,9264.T,JPX,Puequ,Wholesale Trade
+9265,9265.T,JPX,Yamashita Health Care Holdings,Wholesale Trade
+9268,9268.T,JPX,Optimus Group,Wholesale Trade
+9270,9270.T,JPX,Valuence Holdings,Wholesale Trade
+9273,9273.T,JPX,Koa Shoji Holdings,Wholesale Trade
+9274,9274.T,JPX,Kpp Group Holdings,Wholesale Trade
+9305,9305.T,JPX,Yamatane,Wholesale Trade
+9763,9763.T,JPX,Marubeni Construction Material Lease,Wholesale Trade
+9812,9812.T,JPX,T.O. Holdings,Wholesale Trade
+9818,9818.T,JPX,Daimaru Enawin,Wholesale Trade
+9824,9824.T,JPX,Senshu Electric,Wholesale Trade
+9827,9827.T,JPX,Lilycolor,Wholesale Trade
+9830,9830.T,JPX,Trusco Nakayama,Wholesale Trade
+9832,9832.T,JPX,Autobacs Seven,Wholesale Trade
+9837,9837.T,JPX,Morito,Wholesale Trade
+9849,9849.T,JPX,Kyodo Paper Holdings,Wholesale Trade
+9852,9852.T,JPX,CB Group Management,Wholesale Trade
+9857,9857.T,JPX,Eiwa,Wholesale Trade
+9867,9867.T,JPX,Solekia,Wholesale Trade
+9869,9869.T,JPX,Kato Sangyo,Wholesale Trade
+9872,9872.T,JPX,Kitakei,Wholesale Trade
+9882,9882.T,JPX,Yellow Hat,Wholesale Trade
+9885,9885.T,JPX,Charle,Wholesale Trade
+9888,9888.T,JPX,UEX,Wholesale Trade
+9895,9895.T,JPX,Consec,Wholesale Trade
+9896,9896.T,JPX,JK Holdings,Wholesale Trade
+9902,9902.T,JPX,NICHIDEN,Wholesale Trade
+9906,9906.T,JPX,Fujii Sangyo,Wholesale Trade
+9908,9908.T,JPX,Nihon Denkei,Wholesale Trade
+9913,9913.T,JPX,Nippo,Wholesale Trade
+9914,9914.T,JPX,Uematsu Shokai,Wholesale Trade
+9929,9929.T,JPX,Heiwa Paper,Wholesale Trade
+9930,9930.T,JPX,Kitazawa Sangyo,Wholesale Trade
+9932,9932.T,JPX,Sugimoto,Wholesale Trade
+9934,9934.T,JPX,Inaba Denkisangyo,Wholesale Trade
+9941,9941.T,JPX,Taiyo Bussan Kaisha,Wholesale Trade
+9955,9955.T,JPX,Yonkyu,Wholesale Trade
+9960,9960.T,JPX,Totech,Wholesale Trade
+9962,9962.T,JPX,MISUMI Group,Wholesale Trade
+9972,9972.T,JPX,Altech,Wholesale Trade
+9982,9982.T,JPX,Takihyo,Wholesale Trade
+9986,9986.T,JPX,Zaoh,Wholesale Trade
+9987,9987.T,JPX,Suzuken,Wholesale Trade
+9991,9991.T,JPX,Gecoss,Wholesale Trade
+9996,9996.T,JPX,Satoh,Wholesale Trade
+8421,8421.T,JPX,Shinkin Central Bank,-
