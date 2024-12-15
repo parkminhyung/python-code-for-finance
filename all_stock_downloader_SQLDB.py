@@ -4,6 +4,7 @@ import yfinance as yf
 import pandas as pd
 from tqdm import tqdm
 from datetime import datetime
+from datetime import timedelta
 
 # Target Database KRX_DB  SSE_DB  US_DB  IND_DB  JPX_DB
 ## target_DB can be obtained from my repository : tickers DB folder
@@ -66,6 +67,10 @@ else:
     last_date = (datetime.today() - pd.Timedelta(days=180)).date()
 
 today_date = datetime.today().date()
+
+if today_date.weekday() in [5, 6]:  
+    days_to_subtract = today_date.weekday() - 4  
+    today_date = today_date - timedelta(days=days_to_subtract)
 
 if last_date >= today_date:
     print("Data is already up to date. Skipping update.")
