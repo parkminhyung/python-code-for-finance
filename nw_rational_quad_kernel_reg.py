@@ -33,5 +33,5 @@ def nw_rational_quad_kernel_reg(src: pd.Series, h: int, r: float, x_0: int):
 import yfinance as yf
 data = yf.download("AAPL","2023-01-01","2024-12-20",progress=False)
 
-data['yhat1'] = nw_rational_quad_kernel_reg(data['Adj Close'], h=8, r=8, x_0=25)[:]
+data['yhat1'] = nw_rational_quad_kernel_reg(data['Adj Close'], h=8, r=8, x_0=25)[:,-1]
 data.tail(5)
