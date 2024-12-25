@@ -29,7 +29,6 @@ def nw_rational_quad_kernel_reg(src: pd.Series, h: int, r: float, x_0: int):
 
     return yhat_value
 
-
 #Example 
 import yfinance as yf
 data = yf.download("AAPL","2023-01-01","2024-12-20",progress=False)
