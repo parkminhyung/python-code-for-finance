@@ -35,4 +35,4 @@ import yfinance as yf
 data = yf.download("AAPL","2023-01-01","2024-12-20")
 
 data['yhat1'] = nw_rational_quad_kernel_reg(data['Adj Close'], h=8, r=8, x_0=25)
-data.tail()
+data.tail(5)
