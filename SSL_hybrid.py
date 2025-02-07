@@ -432,30 +432,6 @@ def ssl_hybrid(df, **kwargs):
 # 5. 예제: 사용법
 ##############################
 
-if __name__ == "__main__":
-    # 예제용 더미 데이터 생성 (실제 사용 시 여러분의 데이터를 사용)
-    dates = pd.date_range(start="2023-01-01", periods=200, freq="D")
-    np.random.seed(0)
-    price = np.cumsum(np.random.randn(len(dates))) + 100
-    high = price + np.random.rand(len(dates))
-    low = price - np.random.rand(len(dates))
-    open_ = price + (np.random.rand(len(dates)) - 0.5)
-    close = price + (np.random.rand(len(dates)) - 0.5)
-    data = pd.DataFrame({
-        "open": open_,
-        "high": high,
-        "low": low,
-        "close": close
-    }, index=dates)
-
-    # 기본 파라미터로 계산
-    result = ssl_hybrid(data, atrlen=14, smoothing="EMA", len1=100)
-    print(result[["close", "BBMC", "sslDown", "sslDown2", "sslExit", "codiff", "buy_atr", "sell_atr"]].tail(10))
-
-    
-
-##### EXAMPLE
-
 start_date = "2024-01-01"
 end_date = datetime.datetime.today()
 
@@ -467,3 +443,5 @@ del data['close']
 data = data.rename(columns = {"adj close":"close"})
 
 result = ssl_hybrid(data, atrlen=20, smoothing="EMA", len1=100)
+
+
