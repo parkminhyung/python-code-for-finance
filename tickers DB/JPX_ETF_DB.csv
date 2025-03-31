@@ -1,0 +1,367 @@
+code,tickers,name
+1360,1360.T,Nikkei225 Bear -2x
+1459,1459.T,Rakuten Nikkei 225 Double Inverse
+1615,1615.T,Nomura TSE Bank Listed
+1568,1568.T,TOPIX Bull 2x
+1570,1570.T,NEXT FUNDS Nikkei 225 Leveraged Index
+1475,1475.T,iShares Core TOPIX
+1306,1306.T,Nomura TOPIX Listed
+1655,1655.T,iShares S&P 500
+1356,1356.T,TOPIX Bear -2x
+1366,1366.T,Daiwa ETF Japan Nikkei 225 Double Inverse
+1678,1678.T,NEXT FUNDS Nifty 50 Linked
+1357,1357.T,NEXT FUNDS Nikkei 225 Double Inverse Index
+1571,1571.T,NEXT FUNDS Nikkei 225 Inverse Index
+314A,314A.T,iShares Gold
+316A,316A.T,iFreeETF FANG+
+2621,2621.T,iShares 20+ Year US Treasury Bond JPY Hedged
+1489,1489.T,NEXT FUNDS Nikkei 225 High Dividend Yield Stock 50
+2644,2644.T,Global X Japan Semiconductor
+2013,2013.T,iShares US High Dividend
+2563,2563.T,iShares S&P 500 JPY Hedged
+2255,2255.T,iShares 20+ Year US Treasury Bond
+318A,318A.T,SIMPLEX VIX Short-Term Futures
+221A,221A.T,MAXIS Nikkei Semiconductor Stock (Japan)
+1321,1321.T,Nomura Nikkei 225 Listed
+1540,1540.T,Mitsubishi Japan Physical Gold
+2865,2865.T,Global X Nasdaq 100 Covered Call
+2516,2516.T,TSE Mothers
+1458,1458.T,Rakuten Nikkei 225 Leveraged
+282A,282A.T,Global X Japan Semiconductor Top 10
+1305,1305.T,Daiwa ETF TOPIX Listed
+1308,1308.T,Nikko TOPIX Listed
+1580,1580.T,Simplex Nikkei 225 Bear -1x
+237A,237A.T,iShares 25+ Year US Treasury Bond Long Duration
+2014,2014.T,iShares US Dividend Growth
+2244,2244.T,Global X US Tech Top 20
+1343,1343.T,NEXT FUNDS REIT Index
+313A,313A.T,iShares S&P 500 Top 20
+2633,2633.T,NEXT FUNDS S&P 500 (Unhedged) Exchange Traded
+200A,200A.T,NEXT FUNDS Nikkei Semiconductor Stock Index Exchan
+213A,213A.T,Listed Index Fund Nikkei Semiconductor Stock
+133A,133A.T,Global X Ultra Short-Term T-Bill
+2243,2243.T,Global X Semiconductor
+2017,2017.T,iFreeETF JPX Prime 150
+2248,2248.T,iFreeETF S&P500 (JPY HEDGED)
+2254,2254.T,Global X China Electric Vehicle and Battery
+2011,2011.T,SMDAM Active Japan High Dividend Equity
+201A,201A.T,iShares Nifty 50
+1569,1569.T,TOPIX Bear -1x
+1329,1329.T,iShares Core Nikkei 225
+1368,1368.T,Daiwa ETF Japan TOPIX Double Inverse (-2x)
+1488,1488.T,Daiwa ETF Tokyo Stock Exchange REIT Index
+2840,2840.T,iFreeETF NASDAQ100 (NON HEDGED)
+1656,1656.T,iShares Core 7-10 US Treasury Bond
+346A,346A.T,NEXT FUNDS S&P 500 Semiconductors & Semiconductor
+1330,1330.T,Nikko Nikkei 225 Listed
+1699,1699.T,NEXT FUNDS NOMURA Crude Oil Long Index Linked
+238A,238A.T,iShares 25+ Year US Treasury Bond Long Duration JP
+2085,2085.T,MAXIS High Dividend Japan Equity Actively Managed
+1320,1320.T,Daiwa ETF Nikkei 225 Listed
+2634,2634.T,NEXT FUNDS S&P 500 (Yen-Hedged) Exchange Traded Fu
+2866,2866.T,Global X U.S. Preferred Security
+1348,1348.T,MAXIS TOPIX
+2868,2868.T,Global X S&P 500 Covered Call
+2247,2247.T,iFreeETF S&P500 (NON HEDGED)
+2870,2870.T,iFreeETF NASDAQ100 Double Inverse(-2x)
+2569,2569.T,Listed Index Fund US Equity (NASDAQ100) Currency H
+2038,2038.T,NEXT NOTES Nikkei-TOCOM Leveraged Crude Oil
+1482,1482.T,iShares Core US Treasury Bond 7-10 Year JPY Hedged
+2510,2510.T,NEXT FUNDS Japan Bond NOMURA-BPI
+178A,178A.T,Global X Innovative Bluechip Top 10+
+2016,2016.T,iFreeETF US Treasury Bond 7-10 Year (JPY Hedged)
+2012,2012.T,iShares 0-3 Month US Treasury Bond
+1365,1365.T,Daiwa ETF Japan Nikkei 225 Leveraged
+1369,1369.T,DIAM Nikkei 225
+179A,179A.T,Global X 25+ Year T-Bond (JPY Hedged)
+283A,283A.T,Global X US Tech Dividend Aristocrats
+1671,1671.T,Simplex WTI
+2860,2860.T,NEXT FUNDS German Equity DAX (Yen-Hedged) Exchange
+2841,2841.T,iFreeETF NASDAQ100 (JPY HEDGED)
+159A,159A.T,NEXT FUNDS JPX Prime 150 Index Exchange Traded Fun
+2080,2080.T,PBR Improvement over 1x
+1597,1597.T,MAXIS J-REIT
+1563,1563.T,Simplex TSE Mothers Core
+2018,2018.T,Global X US REIT Top 20
+1478,1478.T,iShares MSCI Japan High Dividend
+1545,1545.T,NEXT FUNDS NASDAQ-100
+1476,1476.T,iShares Core Japan REIT
+2859,2859.T,NEXT FUNDS EURO STOXX 50 (Yen-Hedged) Exchange Tra
+1328,1328.T,Nomura Gold Price Linked
+223A,223A.T,Global X Artificial Intelligence & Technology
+1358,1358.T,Nikko Listed Index Fund Nikkei Leveraged
+1472,1472.T,NEXT FUNDS JPX-Nikkei 400 Double Inverse Index
+1547,1547.T,Listed Index Fund US Equity (S&P500)
+2556,2556.T,AM-One One ETF Tokyo Stock Exchange REIT
+1346,1346.T,MAXIS Nikkei 225
+1456,1456.T,Daiwa Japan Nikkei225 Inverse
+2869,2869.T,iFreeETF NASDAQ100 Leveraged(2x)
+2558,2558.T,MAXIS S&P500 US Equity
+2522,2522.T,iShares Automation & Robot
+2039,2039.T,NEXT NOTES Nikkei-TOCOM Inverse Crude Oil
+2568,2568.T,Listed Index Fund US Equity (NASDAQ100) No Currenc
+315A,315A.T,Global X Japan Bank High Dividend
+2236,2236.T,Global X S&P 500 Dividend Aristocrats
+2625,2625.T,iFreeETF-TOPIX(Quarterly Dividend Type)
+1689,1689.T,WisdomTree Natural Gas
+2084,2084.T,NEXT FUNDS Japan High Dividend Equity Active Excha
+2511,2511.T,NEXT FUNDS International Bond FTSE World Governmen
+1542,1542.T,Mitsubishi Japan Physical Silver
+1698,1698.T,Listed Index Fund Japan High Dividend (TSE Dividen
+2258,2258.T,iShares USD High Yield Corporate Bond
+1473,1473.T,DIAM TOPIX
+2620,2620.T,iShares 1-3 Year US Treasury Bond
+2521,2521.T,Nikko Listed IDX Fund US Equity S&P500 Hedged
+2553,2553.T,One ETF Southern China A-Share CSI 500
+2515,2515.T,NEXT FUNDS International REIT S&P Developed REIT I
+2624,2624.T,iFreeETF-Nikkei225(Quarterly Dividend Type)
+2632,2632.T,MAXIS NASDAQ100 (JPY Hedged)
+233A,233A.T,iFreeETF India Nifty50
+2845,2845.T,NEXT FUNDS NASDAQ-100(R) (Yen-Hedged) Exchange Tra
+224A,224A.T,Global X Uranium
+1595,1595.T,NZAM ETF J-REIT
+1469,1469.T,Simplex JPX Nikkei 400 Bear Dbl Inv
+235A,235A.T,Global X Japan High Dividend 30
+1497,1497.T,iShares USD High Yield Corporate Bond JPY Hedged
+1695,1695.T,WisdomTree Wheat
+2019,2019.T,Global X U.S. Preferred Security (Bi-monthly Divid
+2631,2631.T,MAXIS NASDAQ100 ETF
+1651,1651.T,Daiwa TOPIX High Dividend Yield 40
+1541,1541.T,Mitsubishi Japan Physical Platinum
+2561,2561.T,iShares Core Japan Government Bond
+1496,1496.T,iShares USD Investment Grade Corp Bond JPY Hedged
+1325,1325.T,NEXT FUNDS Ibovespa Linked
+2856,2856.T,iShares 3-7 Year US Treasury Bond JPY Hedged
+1326,1326.T,SPDR골드트러스트
+1550,1550.T,MAXIS Global Equity (MSCI Kokusai)
+2251,2251.T,NEXT FUNDS JPX JGB Futures Double Inverse Index Ex
+2559,2559.T,MAXIS World Equity (MSCI ACWI)
+1311,1311.T,Nomura TOPIX Core30 Listed
+180A,180A.T,Global X 25+ Year T-Bond
+1572,1572.T,China H-share Bull 2x
+2564,2564.T,Global X MSCI SuperDividend Japan
+2529,2529.T,Nomura NF Nomura Shareholder Yield 70
+1578,1578.T,Listed Index Fund Nikkei 225 (Mini)
+2087,2087.T,NZAM NASDAQ100 (JPY Hedged)
+183A,183A.T,MAXIS US Treasury Bond 20+ Year (JPY Hedged)
+236A,236A.T,iShares 7-10 Year Japan Government Bond
+1466,1466.T,Daiwa Japan JPX Nikkei 400 Dbl Inv
+1367,1367.T,Daiwa ETF Japan TOPIX Leveraged (2x)
+1345,1345.T,Listed Index Fund J-REIT
+1398,1398.T,SMDS SMDAM REIT Index
+2641,2641.T,Global X Japan Global Leaders ESG
+2512,2512.T,NEXT FUNDS International Bond FTSE World Governmen
+2249,2249.T,iFreeETF S&P500 Double Inverse (-2x)
+2041,2041.T,NEXT NOTES DJIA Total Return JPY Monthly Hedged In
+2628,2628.T,iFreeChina STAR50
+2842,2842.T,iFreeETF NASDAQ100 Inverse
+1693,1693.T,WisdomTree Copper
+188A,188A.T,Global X India Top 10+
+2524,2524.T,Nochu NZAM TOPIX
+1658,1658.T,iShares Core MSCI Emerging Markets IMI
+2257,2257.T,iShares USD Investment Grade Corporate Bond
+2854,2854.T,Global X Japan Tech Top 20
+1653,1653.T,Daiwa MSCI Japan ESG Select Leaders
+2036,2036.T,NEXT NOTES Nikkei-TOCOM Leveraged Gold
+2239,2239.T,Listed Index Fund S&P500 Futures Leveraged Two Tim
+2513,2513.T,NEXT FUNDS International Equity MSCI-KOKUSAI Unhed
+2256,2256.T,iShares US Aggregate Bond
+1397,1397.T,SMDS SMDAM NIKKEI225
+2640,2640.T,Global X Japan Games & Animation
+1659,1659.T,iShares US REIT
+2630,2630.T,MAXIS S&P500 US Equity (JPY Hedged)
+1555,1555.T,Nikko Australia REIT
+2094,2094.T,TSE REIT Inverse
+2520,2520.T,NEXT FUNDS Emerging Market Equity MSCI-EM (Unhedge
+2846,2846.T,NEXT FUNDS DJIA (Yen-Hedged) Exchange Traded Fund
+2638,2638.T,Global X Japan Robotics & AI
+1592,1592.T,Listed Index Fund JPX-Nikkei 400
+2083,2083.T,NEXT FUNDS Japan Growth Equity Active Exchange Tra
+2238,2238.T,iFreeETF S&P500 Inverse
+170A,170A.T,SMT Japan Equity Income Strategy Active
+2514,2514.T,NEXT FUNDS International Equity MSCI-KOKUSAI Yen-H
+2046,2046.T,NEXT NOTES Nifty Price Return 2x Leverage
+2555,2555.T,Simplex TSE REIT
+2241,2241.T,MAXIS NY Dow Industrial Average
+1557,1557.T,SPDR S&P 500
+2259,2259.T,iShares 7-10 Year France Government Bond JPY Hedge
+2242,2242.T,MAXIS NY Dow Industrial Average (JPY Hedged)
+1364,1364.T,iShares JPX-Nikkei 400
+1631,1631.T,NEXT FUNDS TOPIX-17 Banks
+1680,1680.T,Listed Index Fund International Developed Countrie
+1673,1673.T,WisdomTree Physical Silver
+2237,2237.T,iFreeETF S&P500 Leveraged (2x)
+2253,2253.T,Global X SuperDividend U.S.
+2844,2844.T,Listed Index Fund Australian Government Bond (No C
+1554,1554.T,Listed Index Fund World Equity (MSCI ACWI) ex Japa
+1692,1692.T,WisdomTree Aluminium
+2525,2525.T,Nochu NZAM Nikkei 225
+1577,1577.T,NEXT FUNDS Nomura Japan Equity High Dividend 70
+2562,2562.T,Listed Index Fund US Equity (Dow Average) Currency
+1660,1660.T,MUKAM MAXIS High Yield J-REIT
+2042,2042.T,NEXT NOTES Tokyo Stock Exchange Mothers
+2240,2240.T,Listed Index Fund S&P500 Futures Inverse
+1457,1457.T,Daiwa Japan TOPIX Inverse
+2517,2517.T,Mukam Maxis J-REIT Core
+1474,1474.T,DIAM JPX Nikkei 400
+2557,2557.T,SMDAM TOPIX
+1477,1477.T,iShares MSCI Japan Minimum Volatility ex-REITs
+2015,2015.T,iFreeETF US Treasury Bond 7-10 Year (Non Hedged)
+2044,2044.T,NEXT NOTES S&P 500 Dividend Aristocrats Net Total
+2031,2031.T,NEXT NOTES HSI Leveraged
+2552,2552.T,Listed Index Fund J-REIT (Tokyo Stock Exchange REI
+1399,1399.T,Nikko MSCI JP Eq High Div Low Vol
+1632,1632.T,NEXT FUNDS TOPIX-17 Financials (ExBanks)
+1573,1573.T,China H-share Bear -1x
+2626,2626.T,Global X Digital Innovation Japan
+1322,1322.T,Listed Index Fund China A Share CSI300
+1546,1546.T,NEXT FUNDS Dow Jones Industrial Average
+2566,2566.T,Listed Index Fund Nikkei ESG REIT
+2519,2519.T,NEXT FUNDS EM J.P.Morgan EMBI Plus (Unhedged)
+182A,182A.T,MAXIS US Treasury Bond 20+ Year (Unhedged)
+1627,1627.T,NEXT FUNDS TOPIX-17 Electric Power & Gas
+2853,2853.T,iShares Climate Risk-Adjusted Global ex Japan Gove
+2252,2252.T,Global X Morningstar US Small Mid Moat
+2098,2098.T,Global X Hotel & Retail J-REIT
+2527,2527.T,Nochu NZAM J-REIT Core Index
+1690,1690.T,WisdomTree WTI Crude Oil
+1494,1494.T,One High Dividend Japan Equity
+2852,2852.T,iShares Japan Green REIT
+1681,1681.T,Listed Index Fund International Emerging Countries
+1593,1593.T,MAXIS JPX-Nikkei 400
+234A,234A.T,Global X MSCI Japan Cash Flow Kings
+2867,2867.T,Global X Autonomous & EV
+1591,1591.T,NEXT FUNDS JPX-Nikkei Index 400
+2648,2648.T,NEXT FUNDS Bloomberg US Treasury Bond (7-10 year)
+2565,2565.T,Global X Logistics J-REIT
+2086,2086.T,NZAM S&P500 (JPY Hedged)
+2629,2629.T,iFreeETF China GBA100
+2636,2636.T,Global X MSCI Governance-Quality Japan
+2040,2040.T,NEXT NOTES DJIA Price Return JPY Monthly Hedged Le
+1657,1657.T,iShares Core MSCI Kokusai
+1487,1487.T,Listed Index Fund US Bond (Currency Hedge)
+2622,2622.T,iShares USD Emerging Markets Bond JPY Hedged
+1629,1629.T,NEXT FUNDS TOPIX-17 Comm & Wholesale Trd
+1688,1688.T,WisdomTree Grains
+2528,2528.T,Daiwa Tokyo Stock Exchange REIT Core Index
+2047,2047.T,NEXT NOTES Nifty Total Return Daily Inverse
+210A,210A.T,iFreeETF Nikkei High Yield REIT Index
+2864,2864.T,Global X Logistics REIT
+2858,2858.T,Global X Nikkei 225 Covered Call (option premium r
+2097,2097.T,Global X Residential J-REIT
+2032,2032.T,NEXT NOTES HSI Short
+2567,2567.T,NZAM S&P/JPX Carbon Efficient Index
+2235,2235.T,Listed Index Fund US Equity (Dow Average) No Curre
+2096,2096.T,Global X Office J-REIT
+1543,1543.T,Mitsubishi Japan Physical Palladium
+2850,2850.T,NEXT FUNDS Solactive Japan ESG Core Index Exchange
+2037,2037.T,NEXT NOTES Nikkei-TOCOM Inverse Gold
+1622,1622.T,NEXT FUNDS TOPIX-17 Auto & Transp Equip
+2837,2837.T,Global X Japan Mid & Small Cap Leaders ESG
+328A,328A.T,Global X Japan Pricing Power Leaders
+2518,2518.T,NEXT FUNDS MSCI Japan Empowering Women Select
+2554,2554.T,NEXT FUNDS Bloomberg Barclays US Intermediate Corp
+2081,2081.T,Strategic Shareholding Disposal Promotion
+2530,2530.T,MUKAM MAXIS HuaAn China Equity SSE 180
+1559,1559.T,NEXT FUNDS Thai Stock SET50
+1495,1495.T,Listed Index Fund Asian REIT
+2645,2645.T,Global X Japan Leisure & Entertainment
+1687,1687.T,WisdomTree Agriculture
+1633,1633.T,NEXT FUNDS TOPIX-17 Real Estate
+1566,1566.T,Listed Index Fund Emerging Bond (Barclays Local EM
+1697,1697.T,WisdomTree Soybeans
+1624,1624.T,NEXT FUNDS TOPIX-17 Machinery
+2093,2093.T,Listed Tracers US Government Bond 0-2years Ladder
+2646,2646.T,Global X Japan Metal Business
+2847,2847.T,Global X Japan New Growth Infrastructure
+2627,2627.T,Global X E-Commerce Japan
+1623,1623.T,NEXT FUNDS TOPIX-17 Steel and Nonferrous
+1628,1628.T,NEXT FUNDS TOPIX-17 Tranport & Logistics
+295A,295A.T,One FTSE Saudi Arabia Index
+1618,1618.T,NEXT FUNDS TOPIX-17 Energy Resources
+1691,1691.T,WisdomTree Gasoline
+1621,1621.T,NEXT FUNDS TOPIX-17 Pharmaceutical
+2033,2033.T,NEXT NOTES KOSPI 200 Leverage
+2250,2250.T,iShares MSCI Japan Climate Action
+1620,1620.T,NEXT FUNDS TOPIX-17 Raw Mat & Chemicals
+1694,1694.T,WisdomTree Nickel
+273A,273A.T,SBI Saudi Arabia Equity Exchange Traded Fund
+1309,1309.T,Nomura SSE50
+2637,2637.T,Global X CleanTech ESG Japan
+2082,2082.T,Investor-Management Unite as One
+2635,2635.T,NEXT FUNDS S&P 500 ESG Index Exchange Traded Fund
+1551,1551.T,JASDAQ-Top20
+1486,1486.T,Listed Index Fund US Bond (No Currency Hedge)
+2095,2095.T,Global X S&P 500 Dividend Aristocrats (JPY Hedged)
+2857,2857.T,iShares Germany Government Bond JPY Hedged
+1493,1493.T,One JPX-Nikkei Mid Small
+1617,1617.T,NEXT FUNDS TOPIX-17 Foods
+1625,1625.T,NEXT FUNDS TOPIX-17 ElecAppl & Precision
+2639,2639.T,Global X Japan Bio & Med Tech
+257A,257A.T,SMT Selected Japan Equity Active
+1674,1674.T,WisdomTree Physical Platinum
+1498,1498.T,AM-One ESG
+1619,1619.T,NEXT FUNDS TOPIX-17 Construct & Material
+1626,1626.T,NEXT FUNDS TOPIX-17 IT and Services
+1599,1599.T,Daiwa ETF JPX-Nikkei 400
+1481,1481.T,Listed Index Fund Japanese Economy Contributor Sto
+1586,1586.T,Listed Index Fund TOPIX Ex-Financials
+2843,2843.T,Listed Index Fund Australian Government Bond (Curr
+1696,1696.T,WisdomTree Corn
+2839,2839.T,MAXIS US Treasury Bond 7-10 Year (JPY Hedged)
+1484,1484.T,AMOne One JPX/S&P CAPEX & Human Capital Index
+1630,1630.T,NEXT FUNDS TOPIX-17 Retail Trade
+2246,2246.T,NEXT FUNDS Bloomberg France Treasury Bond (7-10 ye
+1560,1560.T,NEXT FUNDS FTSE Bursa Malaysia KLCI
+1679,1679.T,Simple-X NY Dow Jones Index
+1499,1499.T,MAXIS Japan Equity High Dividend 70 Market Neutral
+2649,2649.T,iShares Ginnie Mae MBS JPY Hedged
+2034,2034.T,NEXT NOTES F-KOSPI 200 Inverse
+1585,1585.T,Daiwa ETF TOPIX Ex-Financials
+2855,2855.T,Global X Green J-REIT
+2849,2849.T,Global X Morningstar Japan High Dividend ESG
+258A,258A.T,SMT Selected J-REIT Active
+1349,1349.T,ABF Pan Asia Bond
+2523,2523.T,MAXIS TOPIX Ex-Financials
+2089,2089.T,NZAM DAX (JPY Hedged)
+2863,2863.T,NEXT FUNDS S&P US Equity and Bond Balance Conserva
+140A,140A.T,iFreeETF 10-Year U.S. Treasury Note Futures Invers
+1677,1677.T,Listed Index Fund International Bond (Citi WGBI) M
+2836,2836.T,Global X Japan Fintech
+1685,1685.T,WisdomTree Energy
+2043,2043.T,NEXT NOTES Stoxx Asean Five Select Dividend 50 Net
+1483,1483.T,iShares JPX/S&P CAPEX & Human Capital
+2861,2861.T,Listed Index Fund France Government Bond (No Curre
+2851,2851.T,iShares MSCI Japan SRI
+181A,181A.T,MAXIS US Treasury Bond 1-3 Year (Unhedged)
+2848,2848.T,Global X MSCI Japan Climate Change
+2643,2643.T,NEXT FUNDS MSCI Japan Country ESG Leaders Index Ex
+294A,294A.T,NEXT FUNDS MSCI Global Climate 500 Japan Selection
+2067,2067.T,NEXT NOTES AI Companies 70 Net Total Return
+2642,2642.T,SMT Carbon Efficient Index Japan Equity
+2623,2623.T,iShares Euro Investment Grade Corporate Bond JPY H
+2245,2245.T,NEXT FUNDS Bloomberg Germany Treasury Bond (7-10 y
+2647,2647.T,NEXT FUNDS Bloomberg US Treasury Bond (7-10 year)
+1652,1652.T,Daiwa MSCI Japan Empowering Women
+1684,1684.T,WisdomTree Broad Commodities
+1686,1686.T,WisdomTree Industrial Metals
+2050,2050.T,NEXT NOTES Niche Top Mid Small Cap Japan Equity Ne
+2838,2838.T,MAXIS US Treasury Bond 7-10 Year (Unhedged)
+2048,2048.T,NEXT NOTES Nomura Japan Equity High
+2526,2526.T,Nochu NZAM JPX-Nikkei400
+1485,1485.T,MAXIS JAPAN Proactive Investment in Physical and H
+2069,2069.T,NEXT NOTES Japan Equity Low Beta Select 50 Net Tot
+2862,2862.T,Listed Index Fund France Government Bond (Currency
+2068,2068.T,NEXT NOTES Japan Equity High Beta Select 30 Net To
+2090,2090.T,NZAM US Treasury 7-10Y (JPY Hedged)
+2088,2088.T,NZAM NY Dow30 (JPY Hedged)
+1490,1490.T,Listed Fund MSCI Japan Equity High Dividend Low Vo
+2091,2091.T,NZAM German Government Bond 7-10Y (JPY Hedged)
+1319,1319.T,Nomura Nikkei 300 Listed
+2560,2560.T,MAXIS Carbon Efficient Japan Equity
+2045,2045.T,NEXT NOTES S&P Singapore REIT Net Total Return
+1479,1479.T,Daiwa MSCI Japan Human and Physical Investment Ind
+1596,1596.T,NZAM ETF TOPIX Ex-Financials
+2092,2092.T,NZAM France Government Bond 7-10Y (JPY Hedged)
+1654,1654.T,Daiwa FTSE Blossom Japan
+1480,1480.T,NEXT FUNDS Nomura Enterprise Value Allocation Inde
